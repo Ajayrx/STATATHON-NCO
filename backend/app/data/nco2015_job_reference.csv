@@ -1,0 +1,6886 @@
+NCO_Code,Job_Title
+8153.0111,Occupation
+1111.0100,"Elected Official, Union Government"
+1111.0200,"Elected Official, State Government"
+1111.0300,"Elected Official, Local Bodies"
+1111.9900,"Legislators, Other"
+1112.0100,"Administrative Official, Union Government"
+1112.0200,Diplomat
+1112.0300,"Executive Officials, Union Government"
+1112.0400,"Administrative Official, State Government"
+1112.0500,"Executive Official, State Government"
+1112.0600,"Administrative and Executive Officials, Quasi"
+1112.0700,"Administrative & Executive Off icials, Quasi"
+1112.0800,"Administrative and Executive Officials, Local"
+1112.9900,"Senior Government Officials, Other"
+1114.0100,Political Worker
+1114.0200,"Senior Officials of Employers, Workers and Other"
+1114.0300,"Director, Disaster Management Services"
+1114.9900,"Senior Officials of Special Interest Organizations,"
+1120.0100,"Working Proprietor, Electricity"
+1120.0200,"Working Proprietor, Gas"
+1120.0300,"Working Proprietor, Water Supply"
+1120.0400,"Director, Electricity"
+1120.0500,"Director, Gas"
+1120.0600,"Director, Water Supply"
+1120.0700,"Director, Bank"
+1120.0800,"Director, Insurance"
+1120.0900,"Working Proprietor, Mines/Proprietor, Mines"
+1120.1000,"Working Proprietor, Quarry/Proprietor, Quarry"
+1120.1100,"Working Proprietor, Well Drilling/Proprietor,"
+1120.1200,"Working Proprietor, Construction/Proprietor,"
+1120.1300,"Director, Construction"
+1120.1400,"Director, Mines"
+1120.1500,"Director, Quarry"
+1120.1600,"Director, Well Drilling"
+1120.1700,"Working Proprietor, Manufacturing/Proprietor,"
+1120.1800,Director Manufacturing
+1120.1900,"Working Proprietor, Wholesale Trade/Proprietor,"
+1120.2000,"Working Proprietor, Retail Trade/Proprietor,"
+1120.2100,"Director, Wholesale Trade"
+1120.2200,"Director, Retail Trade"
+1120.2300,"Working Proprietor, Transport"
+1120.2400,"Director, Transport"
+1120.2500,"Director, Communication"
+1120.2600,"Director, Airport"
+1120.2700,"Working Proprietor, Storage and Warehousing"
+1120.2800,"Director, Storage and Warehousing"
+1120.2900,"Working Proprietor, Lodging and Catering"
+1120.3000,"Director, Lodging and Catering Services/Director"
+1120.3100,Executive Chef
+1120.3200,"Working Proprietor, Recreation and"
+1120.3300,"Director, Recreation and Entertainment"
+1120.3400,"Station Director, Radio/TV"
+1120.3401,Account Director ( Advertising Agency)
+1120.3402,Sales Director (Media Org)
+1120.3500,"Working Proprietor, Other Services"
+1120.3600,"Director, Other Services"
+1120.3700,"Director, Museum/Zoo"
+1120.3800,Chief Librarian
+1120.3900,"Principal, College"
+1120.9900,"Managing Directors and Chief Executives, Others"
+1211.0100,"General Manager, Bank"
+1211.0200,"General Manager, Insurance"
+1211.0300,"Purser, Ship"
+1211.9900,"Finance Managers, Others"
+1212.0100,Personnel Manager
+1212.9900,"Personnel and Industrial Relations Managers,"
+1213.0100,"Manager, Automotive Service"
+1213.0101,Quality Assurance Standards In -Charge
+1213.0102,Manager – Customer Quality
+1213.0200,"Manager, Automotive Service Station"
+1213.0201,Area Service Manager
+1213.0202,Territory Service Manager
+1213.9900,"Managers, Other Services"
+1219.0100,"Manager, Import and Export"
+1219.0101,Export Manager
+1219.0200,"Manager, Health Club/Manager, Fitness"
+1221.0100,Sales Manager (Wholesale Trade)
+1221.0200,Sales Manager (Retail Trade)
+1221.0301,Home Delivery Manager
+1221.0401,Territory Sales Manager (Broadband)
+1221.0501,Territory Sales Manager (Prepaid)
+1221.0601,Sales Co -Ordinator (Media Org)
+1221.0602,Sales Manager (Media Org)
+1221.9900,"Sales and Marketing Managers, Other"
+1222.0100,"Manager, Advertising and Promotion"
+1222.0102,Advertising Operations Co -Ordinator (Digital)
+1222.0200,"Manager, Fashion/Fashion Manager"
+1222.9900,Advertising and Public Relations Department
+1223.0101,Manager Testing Facility
+1223.0102,Manager Material Testing
+1223.0201,Research Associate
+1311.0100,"General Manager, Plantation"
+1311.0200,"General Manager, Horticulture"
+1311.0300,"General Manager, Agricultural Farm"
+1311.0400,"General Manager, Livestock Farm"
+1311.0500,"General Manager, Dairy Farm"
+1311.0600,"General Manager, Poultry"
+1311.0700,"Manager, Agricultural Farm"
+1311.0800,"Manager, Plantation"
+1311.0900,"Manager, Nursery"
+1311.0901,Rubber Nursery Manager
+1311.1000,"Manager, Aerial Planting and Cultivation"
+1311.1100,"Manager, Orchard"
+1311.1200,"Manager, Horticulture Farm"
+1311.1300,"Manager, Livestock Farm"
+1311.1400,"Manager, Dairy Farm"
+1311.1500,"Manager, Poultry Farm"
+1311.9900,"Agricultural and Forestry Production Managers,"
+1321.0100,"Manager, Electricity"
+1321.0200,Terminal Manager
+1321.0300,"Manager, Gas"
+1321.0400,"Manager, Water Supply"
+1321.0500,"Manager, Food Processing Plant"
+1321.0600,"Manager, Manufacturing"
+1321.0700,"General Manager, Electricity"
+1321.0800,"General Manager, Gas"
+1321.0900,"General Manager, Water Supply"
+1321.1000,"General Manager, Manufacturing"
+1321.9900,"Manufacturing Managers, Other"
+1322.0100,"Manager, Mine"
+1322.0200,"Manager, Quarry"
+1322.0300,"Manager, Well Drilling"
+1322.0400,"General Manager, Mine"
+1322.0500,"General Manager, Quarry"
+1322.0600,"General Manager, Well Drilling"
+1322.9900,"Mining Managers, Other"
+1323.0100,"Manager, Construction/Manager Construction"
+1323.0200,"Manager, Land Survey"
+1323.0300,"General Manager, Construction/General"
+1323.9900,"Construction Managers, Other"
+1324.0100,"Manager, Material Control/Manager Materials"
+1324.0101,Manager Supplier Quality
+1324.0102,Material Co -Ordination Manager
+1324.0103,Manager Vendor Development
+1324.0200,"Manager, Transport"
+1324.0300,"Station Master, Roadways"
+1324.0400,"Traffic Inspector, Motor Transport"
+1324.0500,"Manager, Traffic"
+1324.0600,"Traffic Inspector, Railway"
+1324.0700,"Traffic Inspector, Tram"
+1324.0800,"Manager, Flight Operation"
+1324.0900,Aerodrome Officer
+1324.1000,"Flight Operation Officer, Air Service"
+1324.1100,"Traffic Officer, Air Service/Traffic Controller"
+1324.1200,"Manager, Storage and Warehousing"
+1324.1201,Warehouse Supervisor
+1324.1300,"Goods Supervisor, Railway"
+1324.1400,"Goods Supervisor, Road Transport"
+1324.1500,"Station Master, Railway"
+1324.1600,"Platform Inspector, Railway"
+1324.1700,"Rates Inspector, Railway"
+1324.1800,"Depot Starter, Tram"
+1324.1900,"Section Controller, Railway"
+1324.2000,"Accident Officer, Tram"
+1324.2100,"General Manager, Transport"
+1324.2200,"General Manager, Storage and Warehousing"
+1324.9900,"Supply, Distribution and Related Managers and"
+1330.0100,"Manager, Communication"
+1330.0101,Communication Analyst
+1330.0200,"Contract Officer, Telephone/Liaising Officer/"
+1330.0300,Post Master
+1330.0600,"General Manager, Communication"
+1330.0701,Cluster Manager
+1330.9900,Information and Communication Technology
+1345.0100,Headmaster
+1346.0100,"Manager, Bank"
+1346.0200,"Manager, Insurance"
+1346.9900,Financial and Insurance Service Branch
+1411.0100,"Manager, Lodging and Catering"
+1411.0200,"General Manager, Lodging and Catering Services"
+1411.9900,"Hotel Managers, Others"
+1412.0100,"Manager, Fast Food Service"
+1412.9900,"Restaurant Managers, Other"
+1420.0100,"Manager, Wholesale Trade"
+1420.0200,"Manager, Retail Trade"
+1420.0300,"Manager, Export"
+1420.0400,"General Manager, Wholesale Trade/Senior"
+1420.0500,"General Manager, Retail Trade, Senior Manager,"
+1420.9900,"Retail and Wholesale Trade Managers, Other"
+1431.0100,"General Manager, Recreation and Entertainment"
+1431.9900,"Sports, Recreation and Cultural Centre Manager,"
+2111.0100,"Physicist, General"
+2111.0200,"Physicist, Mechanics"
+2111.0300,"Physicist, Heat"
+2111.0400,"Physicist, Light"
+2111.0500,"Physicist, Sound"
+2111.0600,"Physicist, Electricity and Magnetism"
+2111.0700,"Physicist, Electronics"
+2111.0800,"Physicist, Nuclear"
+2111.0900,Astronomer
+2111.1000,Metrologist
+2111.1100,Material Scientist
+2111.9900,"Physicists and Astronomers, Other"
+2112.0100,Meteorologist
+2112.9900,"Meteorologists, Other"
+2113.0100,"Chemist, General"
+2113.0200,"Chemist, Organic"
+2113.0300,"Chemist, Inorganic"
+2113.0400,"Chemist, Physical"
+2113.0500,"Chemist, Analytical"
+2113.0600,"Chemist, Industrial"
+2113.0601,Quality Control Chemist
+2113.0621,Lab Chemist – Finished Product Testing
+2113.0622,Lab Chemist – Incoming Raw Material Testing
+2113.0623,Lab Chemist – Compound Testing – Batch
+2113.0624,Lab Chemist – Cured Compound Testing
+2113.0800,"Chemist, Forensic Science"
+2113.0901,Quality Assurance Chemist
+2113.9900,"Chemists, Other"
+2114.0100,Geologist
+2114.0200,Petrologists
+2114.0300,Palaeontologist
+2114.0400,Geophysicist
+2114.0500,Hydrologist
+2114.0600,Mineralogist
+2114.0700,Seismologist
+2114.0800,Oceanographer
+2114.1500,"Geologist, Petroleum"
+2114.5500,"Hydrographer, Waterworks"
+2114.9900,"Geologists and Geophysicists, Other"
+2120.0100,Mathematician
+2120.0200,Actuary
+2120.0300,Statistician
+2120.0400,"Statistician, Applied"
+2120.0500,Operation Research Analyst
+2120.0501,Associate – Analytics
+2120.9900,"Mathematicians, Actuaries and Statisticians,"
+2131.0100,"Biologist, General"
+2131.0200,Marine Biologist
+2131.0300,Cytologist
+2131.0400,"Botanist, General"
+2131.0500,Economic Botanist
+2131.0600,Plant Breeder
+2131.0700,Mycologist
+2131.0800,Algologist
+2131.0900,"Zoologist, General"
+2131.1000,Entomologist
+2131.1100,Parasitologist
+2131.1200,Bacteriologist
+2131.1300,"Chemist, Biological"
+2131.1400,"Chemist, Food"
+2131.1500,Plant Pathologist
+2131.1800,Plant Physiologist
+2131.9900,"Biologists, Botanists, Zoologists and Related"
+2132.0100,Agronomist
+2132.0200,Horticulturist
+2132.0300,Soil Scientist
+2132.0400,Soil Conservationist
+2132.0500,Silviculturist
+2132.0600,Wood Anatomist
+2132.0700,Dairy Scientist
+2132.0800,Poultry Scientist
+2132.0900,Pisciculturist
+2132.1000,"Farm Overseer, Crop Production"
+2132.9900,"Agronomists and Related Professionals, Other"
+2133.0100,Ecologist
+2133.0200,Environment Scientist (Including Health)
+2133.0300,Taxonomist
+2133.0400,Paleobotanist
+2141.0100,"Works Inspector, Engineering/Inspection"
+2141.0200,Instrument Engineer/Instrumentation Engineer
+2141.0300,Industrial Engineer
+2141.0301,Industrial Engineer Executive
+2141.0400,Packaging Engineer
+2141.0500,Planning Engineer
+2141.0501,Production Planning & Control Engineer
+2141.0600,Methods Engineer
+2141.0800,Engineering Estimator/Estimation Engineer
+2141.0900,Agricultural Engineer
+2141.1000,Textile Technologist
+2141.1100,Nuclear Engineer
+2141.1200,Jute Technologist
+2141.1300,Fibre Technologist
+2141.1400,Spinning Master
+2141.1500,Weaving Master
+2141.1600,Dyeing and  Bleaching Master (Textiles)
+2141.1700,Printing Master (Textile)
+2141.1800,Sugar Technologist
+2141.1900,Dairy Technologist
+2141.2000,Wood Technologist
+2141.2100,Leather Technologist
+2141.2200,Glass Technologist
+2141.2300,Ceramic Technologist
+2141.2400,Printing Technologist
+2141.2500,Safety Engineer
+2141.2600,Occupational Health and Safety Specialist
+2142.0100,"Civil Engineer, General"
+2142.0200,"Civil Engineer, Building"
+2142.0300,"Civil Engineer, Structural"
+2142.0301,Plumbing Site Engineer
+2142.0400,"Civil Engineer, Irrigation"
+2142.0500,Hydraulic Engineer
+2142.0501,Fire Protection Systems Design Engineer
+2142.0600,"Civil Engineer, Highways and Roads"
+2142.0700,"Civil Engineer, Railways"
+2142.0800,Airport Engineer
+2142.0900,"Civil Engineer, Public Health"
+2142.0901,Public Health System Design Engineer
+2142.1000,"Engineer, Waterworks"
+2142.1001,Groundwater Engineer
+2142.1002,Wastewater Systems Design
+2142.9900,"Civil Engineers, Other"
+2143.0100,Solar Energy System Designer
+2143.0200,Bio-Medical Engineer
+2143.0300,Radiation Protection Engineer
+2143.0400,"Waste Management Engineer, Radioactive"
+2143.0500,Pollution Control Engineer
+2144.0100,"Mechanical Engineer, General"
+2144.0101,Process Design Engineer
+2144.0102,Process Try -Out Engineer
+2144.0103,Process Try -Out Technician
+2144.0104,Process Validation Executive
+2144.0105,"Manager, Process Engineering"
+2144.0106,Manager – Product Lifecycle Management
+2144.0200,"Designer, Machine"
+2144.0201,Designer - Mechanical
+2144.0300,Tool Engineer
+2144.0301,Equipment Designer
+2144.0401,"Mechanical Engineer, Production"
+2144.0402,Product Conceptualization Engineer
+2144.0403,Production Engineer
+2144.0500,"Mechanical Engineer, Structural"
+2144.0600,"Mechanical Engineer, Maintenance"
+2144.0601,Service Engineer – Breakdown Service
+2144.0700,"Mechanical Engineer, Automobile"
+2144.0701,Prototyping Engineer
+2144.0800,Automobile Designer
+2144.0801,Product Design Manager
+2144.0802,Modeller
+2144.0803,Product Design Engineer
+2144.0804,Prototyping Manager
+2144.0900,"Mechanical Engineer, Aeronautical"
+2144.1000,"Mechanical Engineer, Marine"
+2144.1100,"Architect, Naval"
+2144.1200,"Mechanical Engineer, Air -Conditioning"
+2144.1301,Layout Engineer
+2144.1302,Industrial Engineer (Workstation
+2144.1401,Service Engineer – Installation
+2144.1402,Service Engineer – Installation and
+2144.9900,"Mechanical Engineers, Other"
+2145.0100,"Chemical Engineer, General"
+2145.0200,"Designer, Chemical Engineering"
+2145.0300,"Chemical Engineer, Paints and Varnish"
+2145.0400,"Chemical Engineer, Drugs and Acids"
+2145.0500,"Chemical Engineer, Petroleum"
+2145.0600,"Chemical Engineer, Fertilizers"
+2145.0700,"Chemical Engineer, Food"
+2145.0800,"Technologist, Food/Chemical Engineer"
+2145.0900,"Technologist, Fuel"
+2145.1000,Oil Technologist
+2145.1100,"Technologist, Paper"
+2145.1200,"Technologist, Alcohol"
+2145.1300,"Technologist, Rubber"
+2145.1400,"Technologist, Plastics"
+2145.9900,"Chemical Engineers and Technologists, Other"
+2146.0100,"Mining Engineer, General"
+2146.0200,"Mining Engineer, Non -Metals"
+2146.0300,"Mining Engineer, Metal"
+2146.0400,"Mining Engineer, Petroleum and Gas"
+2146.0500,"Metallurgist, Extractive"
+2146.0501,Manager Heat Treatment/Metallurgist
+2146.0600,"Metallurgists, Adaptive"
+2146.9900,"Mining Engineers, Metallurgists and Related"
+2149.0100,"Engineers and Related Technologists, Other"
+2151.0100,"Electrical Engineer, General"
+2151.0200,"Designer, Electrical Engineering"
+2151.0201,Design Engineer
+2151.0202,Electrical Design Developer
+2151.0300,"Electrical Engineer, Generation and Supply"
+2151.0400,Illumination Engineer
+2151.0403,LED Light Design Engineer
+2151.0404,LED Light Design Validation Engineer
+2151.0601,System Analyst (PCB Design)
+2151.0602,Systems Designer (PCB Design)
+2151.0701,Design -For-Manufacture Engineer
+2151.9900,"Electrical Engineers, Other"
+2152.0200,Electronic Engineer
+2152.0301,Stress Analyst/Computer -Aided Test Executive
+2152.0400,Electro -Optical Engineer
+2152.0501,Design Engineer
+2152.0502,Design -For-Test Engineer
+2152.0601,Quality Engineer
+2152.0801,Electronic Hardware Design Engineer
+2152.0901,Verification Engineer
+2152.0902,Testing and Validation Engineer
+2152.9900,"Electronics Engineers, Other"
+2153.0100,"Telecommunication Engineer, General"
+2153.0101,Telecom Terminal Equipment Application
+2153.0102,Telecom Terminal Equipment Application (Native
+2153.0200,"Radio Engineer, Telecommunication"
+2153.0300,"Microwave Engineer, Telecommunication"
+2153.0400,"Line Communication Engineer, Tele -"
+2153.0500,Sound Engineer
+2153.0501,"Sound Engineer, Media"
+2153.0511,Sound Designer
+2153.0601,Core Engineer
+2153.9900,"Telecommunication Engineers, Other"
+2161.0100,Architect
+2161.9900,"Building Architects, Other"
+2163.0100,Package Designer/Packaging Designer
+2163.0201,Design Merchandiser
+2163.0301,Hand Sketch Designer (Basic)
+2163.0400,Furniture Designer
+2163.0500,Fashion Designer
+2163.0600,Textile Designer
+2164.0100,Town Planner
+2164.0200,Traffic Planner
+2165.0100,Cartographer
+2165.0200,"Surveyor, Topographical"
+2165.0300,Aerial – Photograph Interpreter
+2165.0400,"Surveyor, Photogrammetric"
+2165.0500,"Surveyor, Mine"
+2165.0600,"Surveyor, Hydrographic"
+2165.9900,"Cartographers and Surveyors, Other"
+2166.0100,Commercial Artist
+2166.0111,Art Director
+2166.0201,Multimedia Artist and Animator/Animator
+2166.0202,Modeller
+2166.0203,Rigging Artist
+2166.0204,Texturing Artist
+2166.0205,Animation Director
+2166.0206,Character Designer
+2166.0207,Clean -Up Artist
+2166.0208,Compositor
+2166.0209,Storyboard Artist
+2166.0210,Rendering Artist
+2166.0211,VFX Editor
+2166.0212,Roto Artist
+2166.0300,Web Designer
+2166.0401,Designer (CAD)
+2166.0501,Graphic Designer
+2166.0511,Colour Key Artist
+2166.0512,Colourist
+2211.0100,"Physician, General"
+2211.0200,"Surgeon, General"
+2211.0300,"Anatomist, Medical"
+2211.0400,Anaesthetist
+2211.0500,Psychiatrist
+2211.9900,"Generalist Medical Practitioners, Allopathic,"
+2212.0100,Neurologist
+2212.0200,Dermatologist
+2212.0300,Allergy Specialist
+2212.0400,"Ear, Nose and Throat Specialist"
+2212.0500,Cardiologist
+2212.0600,Radiologist
+2212.0700,Tuberculosis Specialist
+2212.0800,Ophthalmologist
+2212.0900,Urologist
+2212.1000,Venereologist
+2212.1100,Obstetrician
+2212.1200,Gynaecologist
+2212.1300,Paediatrician
+2212.1400,Orthopaedist
+2212.1500,Pharmacologist
+2212.1600,Toxicologist (Pharmaceutical)
+2212.1700,"Pathologist, Medical"
+2212.1800,"Malariologist, Medical"
+2212.1900,"Physiologist, Medical"
+2212.9900,"Specialist Medical Practitioners, Other"
+2221.0100,"Nurse, Specialist"
+2221.9900,"Professional Nurses, Other"
+2230.0100,"Physician, Ayurvedic"
+2230.0200,"Physician, Homeopathic"
+2230.0300,"Physician, Bio -Chemic/Bio Chemist"
+2230.0400,"Physician, Unani"
+2230.9900,"Traditional Medicine Practitioners, Other"
+2240.0100,"Laboratory Assistant, Clinical"
+2240.0400,Dresser
+2240.0501,Emergency Medical Technician – Basic
+2240.0502,Emergency Medical Technician – Advanced
+2240.9900,"Paramedical Practitioners, Other"
+2250.0100,Animal Pathologist
+2250.0200,"Veterinarian, General"
+2250.0300,"Veterinarian, Surgeon"
+2250.0400,Animal Genetist
+2250.0500,Zoo Veterinarian
+2250.0600,"Veterinarian, Poultry"
+2250.9900,"Veterinarians, Other"
+2261.0100,Dentist
+2261.0200,Oral and Maxillofacial Surgeon
+2261.0300,Orthodontist
+2261.0400,Periodontist
+2261.0500,Prosthodontist
+2261.0600,Paediatric Dentist
+2261.9900,"Dental Specialists, Other"
+2262.0100,"Chemist, Pharmaceuticals"
+2262.0101,"Chemist, Pharmaceuticals"
+2263.0100,Health Officer
+2263.0200,"Administrator, Hospital"
+2263.9900,Environmental and Occupational Health and
+2264.0100,Physiotherapist
+2264.0200,Occupational Therapist
+2264.0300,Chiropodist
+2264.0400,Masseur
+2264.0401,Sports Masseur
+2264.9900,Physiotherapists and Related Associate
+2265.0100,"Nutritionist, General"
+2265.0200,"Dietician, General"
+2265.0201,Dietician Assistant
+2265.0300,Animal Nutritionist
+2265.9900,"Dieticians and Nutritionists, Other"
+2266.0100,Speech Therapist and Audiologist
+2266.0200,Speech Pathologist
+2266.0300,Voice Pathologist
+2266.0401,Speech Language Pathologist and Audiologist
+2267.9900,"Optometrists and Opticians, Other"
+2269.0100,Naturopath
+2269.0200,"Physician, Osteopathic"
+2269.0300,"Physician, Sidha"
+2269.0400,"Physicians and Surgeons, Other"
+2269.0500,Orthotist  and Prosthetist
+2269.0600,Orientation & Mobility Instructor
+2269.0700,"Medical and Health Technicians, Other"
+2310.0100,"University and College Teacher, Arts"
+2310.0200,"University and College Teacher, Commerce"
+2310.0300,"University and College Teacher, Management"
+2310.0400,"University and College Teacher,"
+2310.0500,"University and College Teacher,"
+2310.0600,"University and College Teacher, Science"
+2310.0700,"University and College Teacher, Engineering/"
+2310.0800,"University and College Teacher, Information"
+2310.0900,"University and College Teacher, Medicine and"
+2310.1000,"University and College Teacher, Veterinary"
+2310.1100,"University and College Teacher, Agricultural"
+2310.1200,"University and College Teacher, Fine"
+2310.9900,"Professors/Assistant Professors, Other"
+2320.0101,Certified Training Assessor
+2320.0102,Physical Security Trainer
+2330.0100,"Senior Secondary and Secondary School Teacher,"
+2330.0200,"Senior Secondary and Secondary School Teacher,"
+2330.0300,"Senior Secondary and Secondary School Teacher,"
+2330.0400,"Language Teacher, Senior Secondary and"
+2330.9900,Senior Secondary and Secondary School
+2341.0100,Middle School Teacher
+2341.0200,"Language Teacher, Middle School"
+2341.0400,Primary School Teacher
+2341.9900,"Primary School Teachers, Other"
+2342.0100,"Teacher, Infant School/Teacher Pre -Primary"
+2342.9900,Pre-Primary Education Teaching Associate
+2351.0100,School Inspector
+2351.9900,"Education Methods Specialists, Other"
+2352.0100,Teacher for Visually Impaired
+2352.0200,Teac her for Hearing -Impaired
+2352.0300,Teacher for Differently -Abled  (Mental)
+2352.0400,Teacher for Differently -Abled  (Physical)
+2352.9900,"Teacher for  Differently -Abled , Other"
+2355.0100,Art Teacher
+2355.9900,"Arts Teacher, Other"
+2356.0100,Manual Training Teacher/Craft Instructor
+2356.0301,Master Trainer for Junior Software Developer
+2356.9900,"Information Technology Trainers, Other"
+2359.0100,"Handwork Teacher/Teacher, Art and Craft"
+2411.0100,Accountant
+2411.0101,Associate – Transactional Finance & Accounting
+2411.0200,Auditor
+2411.0201,Associate – Finance & Accounting Complex
+2411.0300,Cost Accountant
+2412.0100,Financial Examiner
+2412.0200,Financial Analyst
+2412.0300,Budget Analyst
+2412.0400,Risk Management Analyst
+2412.0501,Agriculture Field Officer
+2412.0600,Commission Agent
+2412.9900,"Financial and Investment Advisors, Other"
+2421.0101,Analyst – Research
+2423.0100,Vocational Guidance Officer/Career Counsellors
+2423.0101,Associate – Recruitment
+2423.0200,Counsellor
+2423.0500,Occupational Analyst
+2423.9900,"Personal and Careers Professionals, Other"
+2424.0100,"Manpower Officer/Area Manager, Human"
+2424.0200,"Employment Officer/Operation Head,"
+2424.0300,Human Resource Manager
+2424.0401,Sales Training Manager
+2424.0402,Sales/Service Trainer (Dealer)
+2424.0501,Service Training Centre In -Charge
+2424.0502,Field Service Trainer
+2424.9900,"Training and Staff Development Professionals,"
+2431.0100,Market Research Analyst
+2431.0101,Regional Service Marketing Manager
+2431.0102,Regional Service Process Manager
+2431.0201,Product Brand Manager (Automotive)
+2431.0202,Account Executive (Advertising Agency)
+2431.0300,Caption Writer
+2431.0400,Advertisement Writer
+2431.0501,Market Research Associate – Sales &
+2431.0502,Management Trainee – Sales &
+2431.0503,Market Research Associate – Product  Marketing
+2431.0504,Management Trainee – Product Marketing
+2431.0601,Product Executive
+2431.0651,Sales Executive (Media Org)
+2431.0671,Traffic Co -Ordinator
+2431.0700,Creative Writer
+2431.0800,Propagandist
+2431.9900,"Advertising and Marketing Professionals, Other"
+2432.0100,Publicity Officer
+2432.0200,Public Relations Officer
+2432.0201,Digital Marketing/Social Media Manager
+2432.0300,Information Officer
+2432.9900,"Public Relations Professionals, Other"
+2433.0101,Area Sales Officer
+2433.0201,Medical Representative
+2433.0301,Sales Executive – Medical Electronics
+2433.0401,Sales Executive – Consumer Electronics
+2433.0501,Sales Executive – Solar Electronics
+2433.0601,Business Development Executive
+2433.0700,"Field Officer, Insurance"
+2434.0101,Sales and Pre -Sales Analyst
+2434.0201,Sales/Pre -Sales Executive
+2511.0100,System Analysts
+2511.0101,Deployment Engineer
+2511.0102,Engineer – Software Transition
+2511.0103,Engineer – Packaging
+2511.0104,Engineer – Product Lifecycle Management (PLM)
+2511.0105,Analyst
+2511.0106,Support Engineer
+2511.9900,"System Analysts, Other"
+2512.0100,Computer Programmer/Software Engineer
+2512.0201,Software Engineer
+2512.0202,Test Engineer – Software
+2512.0203,Design Engineer(Product Engineer)
+2512.0204,Software Developer – Application Development
+2512.0205,Junior Software Developer
+2512.0206,Engineer Trainee – IT Services
+2512.0207,Engineer Trainee – Engineering Analysis
+2512.0300,Programmer Analyst
+2512.0301,Software Developer – Product Development and
+2512.0401,FPGA Design Engineer
+2512.0501,Embedded Software Engineer
+2512.0601,Design Engineer – Engineering Analysis
+2512.0701,Application Maintenance Engineer
+2512.0800,"Programmer, Engineering and Scientific/System"
+2513.0101,Web Developer
+2513.0201,User Interface Developer
+2513.0301,Media Developer – Product Development and
+2513.0302,Media Developer – Application Development
+2514.9900,"Computer Programmers, Other"
+2519.0100,System Programmer
+2519.0300,Quality Assurance Analyst (Computers)
+2519.0301,Quality Assurance Engineer – IT Services
+2519.0302,Test Engineer – IT Services
+2519.0401,Quality Assurance Engineer – Software Products
+2519.0402,Test Engineer – Software Products
+2519.0501,Quality Engineer
+2521.0100,Database Design Analyst
+2521.0202,Junior Data Associate
+2522.0100,Database Administrator
+2522.0201,Security Analyst
+2523.0100,Data Communication Analyst/Network
+2523.0200,Computer System Hardware Analyst/Hardware
+2523.0301,Tester/Test Engineer – Hardware
+2523.0401,Design Engineer
+2523.0501,Hardware Engineer
+2523.9900,"Computer Network Professionals, Other"
+2611.0100,Attorney General of India
+2611.0200,Solicitor General of India
+2611.0300,Advocate General
+2611.0400,Legal Remembrancer
+2611.0500,Government Advocate
+2611.0600,Public Prosecutor
+2611.0700,Police Prosecutor
+2611.0800,Attorney at Law
+2611.0900,Advocate
+2611.1001,Intellectual Property Executive
+2611.1002,Legal Associate
+2611.9900,"Lawyers, Other"
+2612.0100,"Judge, Supreme Court"
+2612.0200,"Judge, High Court"
+2612.0300,District and Session Judge
+2612.0400,Munsif
+2612.0500,"Judge, Subordinate Court"
+2612.0600,Magistrate
+2612.0700,"Magistrate, Juvenile Court"
+2612.0800,"Chairman, Administrative Tribunal"
+2612.0900,"Member, Administrative Tribunal"
+2612.1000,"President, Industrial Tribunal"
+2612.1100,"Member, Industrial Tribunal"
+2612.1200,"President, Consumer Redressal Forum"
+2612.1300,"Member, Consumer Redressal Forum"
+2612.9900,"Judges and Magistrates, Other"
+2619.0100,Prothonotary and Senior Master
+2619.0200,"Registrar (Appellate Side, High Court)"
+2619.0300,Registrar
+2619.0400,Master Official Referee and Registrar in Equity
+2619.0500,Taxing Master
+2619.0600,Insolvency Registrar
+2619.0700,Official Assignee (High Court)
+2619.0800,Court Receiver and Liquidator
+2619.0900,Sheriff
+2619.1000,Coroner
+2619.9900,"Legal Professionals, Other"
+2621.0100,Archivist
+2621.0200,Curator (Museum)
+2621.0300,"Restorer, Painting"
+2621.0400,"Restorer, Lace and Textile"
+2621.0500,"Restorer, Ceramics"
+2621.0600,"Restorer, Paper and Prints"
+2621.0700,"Restorer, Furniture"
+2621.9900,"Archivists and Curators, Other"
+2622.0100,Librarian
+2622.0200,Librarian (Film)
+2622.0300,Tape Librarian/Librarian Digital/Librarian Media
+2622.0500,News Librarian
+2622.0601,Document Coder/Processor
+2622.9900,"Librarians and Related Information Professionals,"
+2631.0100,Economist
+2631.0200,Energy Economist
+2631.0300,Home Economist
+2631.9900,"Economists, Other"
+2632.0100,"Sociologist, General"
+2632.0200,Social Ecologist
+2632.0300,Clinical Sociologist
+2632.0400,Demographer
+2632.0500,Criminologists
+2632.0600,Penologist
+2632.0700,"Anthropologist, General"
+2632.0800,"Anthropologist, Physical"
+2632.0900,"Anthropologist, Cultural"
+2632.1000,Genealogist
+2632.1100,Archaeologist
+2632.1200,Geographer
+2632.9900,"Sociologists, Anthropologists and Related"
+2633.0100,Historian
+2633.0200,Biographer
+2633.0300,Epigraphist
+2633.0400,Numismatist
+2633.0500,Philatelist
+2633.0600,Political Scientist
+2633.9900,"Philosophers, Historians and Political Scientists,"
+2634.0100,Psychologist
+2634.0200,Psychometrist
+2634.0300,"Psychologist, Engineering"
+2634.0400,"Psychologist, Educational"
+2634.0500,"Psychologist, Social"
+2634.0600,Clinical Psychologist
+2634.0700,Industrial – Organizational Psychologist
+2634.0800,"Psychologist, Counselling"
+2634.9900,"Psychologists, Other"
+2635.0100,Labour Welfare Officer
+2635.0200,Women’s Welfare Officer
+2635.0300,Probation Officer
+2635.0400,Medical Social Worker
+2635.0500,Child and Family Social Worker
+2635.0600,Health Educator
+2635.0700,Women’s Welfare Organizer
+2635.0800,Child Welfare Organizer
+2635.0900,Family Planning Organizer
+2635.1000,Vocational Rehabilitation Counsellor
+2635.1100,"Counsellor, Marriage and Family"
+2635.9900,"Social Work Professionals, Other"
+2636.0100,Priest
+2636.0200,Purohit
+2636.9900,Ordained Religious and Non -Ordained Religious
+2641.0100,Author
+2641.0200,Critic
+2641.0300,Editor
+2641.0302,Script Editor
+2641.0400,Sub-Editor
+2641.0500,Poet
+2641.0601,Script Writer
+2641.0602,Script Researcher
+2641.0701,Associate – Editorial
+2641.0801,Associate – Learning
+2641.0901,Technical Writer – Product Documentation
+2641.0902,Technical Writer – Application Development
+2641.0903,Technical Writer – Technical Documentation/
+2641.9900,"Authors, Journalists and  Other Writers"
+2642.0100,News Reporter
+2642.0200,Columnist
+2642.0300,Freelance Journalist
+2642.0400,Commentary Writer
+2642.0500,Radio Commentator
+2642.0600,Commentator (Motion Picture)
+2643.0100,Language Specialist
+2643.0200,Translator
+2643.0300,Interpreter
+2643.0401,Language Translator – Software Products
+2643.0402,Language Translator – IT Services
+2643.9900,"Philologists, Translators and Interpreters, Other"
+2651.0100,Sculptor
+2651.0200,Modeller (Except Stone)
+2651.0300,Stone Modeller
+2651.0400,"Painter, Fine Art"
+2651.0500,"Renovator, Paintings"
+2651.0600,Cartoonist
+2651.9900,"Visual Artists, Other"
+2652.0100,Music Composer
+2652.0200,Orchestra Conductor
+2652.0300,Singer
+2652.0400,"Instrumental Musician, String Instrument"
+2652.0500,"Instrumental Musician, Percussion Instrument"
+2652.0600,"Instrumental Musician, Wind Instrument"
+2652.9900,"Musicians, Singers and Composers, Other"
+2653.0100,Choreographer
+2653.0200,Nattuvan
+2653.0300,Dancer
+2653.9900,"Choreographers and Dancers, Other"
+2654.0100,"Director, Theatrical"
+2654.0200,"Director, Music"
+2654.0300,Dance Director
+2654.0351,Live Action Director
+2654.0400,"Director, Research (Motion  Picture, Radio & TV)"
+2654.0500,"Manager, Recreation and Entertainment"
+2654.0600,"Producer, Stage"
+2654.0700,"Producer, Film"
+2654.0800,Production Manager (Motion Picture)
+2654.0901,Lighting Artist
+2654.9900,"Stage and Film Directors, Other"
+2655.0100,Actor and Actress
+2655.0200,Extra
+2655.0301,Voice Over Artist
+2656.0100,Programme Announcer
+2656.0200,Disc Jockey
+2656.9900,"Radio, Television and Other Announcers, Other"
+2659.0100,Rope Dancer
+2659.0200,Acrobat
+2659.0300,Equestrian
+2659.0400,Contortionist
+2659.0500,"Circus Performers, Other"
+2659.0600,Ventriloquist
+2659.0700,Buffoon; Clown
+2659.0800,Mimic
+2659.0900,Magician
+2659.1000,Juggler
+2659.1100,Snake Charmer
+2659.1200,Puppeteer
+2659.1300,"Trainer, Animal"
+2659.1400,Race Horse Trainer
+3111.0100,"Laboratory Assistant, Physical"
+3111.0200,"Laboratory Assistant, Soil"
+3111.0300,"Laboratory Assistant, Chemical"
+3111.0400,Chemical Radiation Technician
+3111.0500,"Laboratory Assistant, Geological"
+3111.0600,"Slide Examiner, Petrology"
+3111.0700,"Slide Examiner, Palaeontology"
+3111.9900,"Physical Science Technicians, Other"
+3112.0100,"Overseer, Civil Engineering"
+3112.0200,Permanent Way Inspector
+3112.0300,Plain Tabler
+3112.0400,Topographical Auxiliary
+3112.0500,Computer Topographical
+3112.0600,"Surveyor, Tidal"
+3112.0701,Assistant Laboratory and Field Technician
+3112.9900,"Civil Engineering Technicians, Other"
+3113.0101,"Electrical Engineering, Technician/Maintenance"
+3113.0102,Maintenance Technician Electrical
+3113.0111,Technician Furnace Transformers: Ferro Alloys
+3113.0200,Electrical Technician (High Voltage)
+3113.0300,Energy Auditor
+3113.0401,Machine Maintenance Technician
+3113.0501,Maintenance Executive
+3113.0601,Maintenance Technician
+3113.0701,Customer Inspection Technician
+3113.0801,In-Process and Final Quality Engineer
+3113.0802,Final Testing Technician
+3113.0803,Automated Optical Inspection Machine Operator
+3113.0901,Cluster In -Charge
+3113.1001,LED Luminaries Testing and Measurement
+3113.1002,LED Light Repair Technician
+3113.9900,"Electrical Technicians, Other"
+3114.0100,Electronics Technician
+3114.0200,Television Chassis Inspector/Television Technician
+3114.0601,BSS Support Engineer
+3114.0701,Field Maintenance Engineer
+3114.0801,ICT Engineer
+3114.0802,ICT Technician
+3114.0804,Broadband Technician
+3114.0901,Installation Engineer – L
+3114.0902,Installation Engineer Installation Engineer – SDH
+3114.1101,Product Specialist Engineer
+3114.1201,Transmission Engineer
+3114.1301,Network Management Engineer
+3114.9900,Electronics and Telecommunications Engineering
+3115.0101,Mechanical Engineering Technician/Supervisor
+3115.0102,Maintenance Technician – Mechanical
+3115.0103,Maintenance Technician Assistant – Mechanical
+3115.0104,Body Shop In -Charge
+3115.0105,Workshop Manager
+3115.0201,Automotive Engineering Technician/Testing
+3115.0202,Test Engineer Product/Vehicle
+3115.0301,"Executive, Proto Manufacturing"
+3115.0401,Method Study Executive
+3115.0501,Manager Maintenance Mechanical &
+3115.0601,Master Auto Service Technician/Auto Service
+3115.0602,Auto Service Technical Manager/Auto Service
+3115.1000,Aeronautical Engineering Technician
+3115.1100,"Heating, Ventilation and Refrigeration Engineering"
+3115.1200,Die Designer
+3115.1301,Tool Designer
+3115.1302,Tool Room Supervisor
+3115.1400,Loco Foreman
+3115.1500,"Yard Foreman, Railway"
+3115.1600,Train Examiner
+3115.9900,"Mechanical Engineering Technicians, Other"
+3116.0100,"Laboratory Assistant, Glass and Ceramics"
+3116.0200,"Laboratory Assistant, Food & Beverages/ Chemist/"
+3116.0300,"Laboratory Assistant, Chemical Engineering"
+3116.0400,"Core Analyst, Petrol and Natural Gas"
+3116.0500,"Laboratory Assistant, Petroleum and Lubricants"
+3116.0600,"Chemist, Water Purification/Water Treatment"
+3116.9900,"Chemical Engineering Technicians,"
+3117.0100,Rock Slicer
+3117.0200,Petroleum and Natural Gas Extraction Technician
+3117.0300,"Laboratory Assistant, Metallurgical"
+3117.9900,"Mining and Metallurgical Technicians, Other"
+3118.0100,"Draughtperson, Architectural"
+3118.0200,"Draughtperson, Civil"
+3118.0201,Plumbing Draftsman
+3118.0300,"Draughtperson, Electrical"
+3118.0301,Draftsman
+3118.0302,Physical Design Engineer
+3118.0401,"Draughtperson, Mechanical"
+3118.0402,Draughtsman – Mechanical
+3118.0500,"Draughtperson, Structural"
+3118.0600,"Draughtperson, Topographical"
+3118.0700,Lithographic Designer
+3118.0800,Tracer
+3118.0900,Blue Printer
+3118.9900,"Draughtpersons, Other"
+3119.0100,"Laboratory Assistant, Engineering"
+3119.0200,Forensic Science Technician
+3119.0300,Fingerprint Expert
+3119.0400,Handwriting Expert
+3119.0500,Impression Taker
+3119.0600,Weather Observer
+3119.0700,"Methods, Time and Motion Study Technician"
+3119.0800,Fire Prevention Officer
+3119.0900,Fire Officer
+3119.1000,"Fire Inspectors, Other"
+3119.1100,Laser Technician
+3119.9900,"Optical and Electronic Equipment Controllers,"
+3121.0100,"Supervisor and Foreman, Mining and Quarrying"
+3121.0200,"Supervisor and Foreman, Well Drilling"
+3121.0300,"Supervisor and Foreman, Mineral  Treating"
+3121.0400,"Overman, Colliery"
+3121.0500,"Sirdar, Colliery"
+3121.0600,Mud Supervisor
+3121.0700,Well Pulling Supervisor
+3121.0800,Gas Supervisor
+3121.9900,Supervisors and Foremen in Mining and  Mineral
+3122.0100,"Supervisors and Foremen, Metal Making,"
+3122.0200,"Foreman, Blast Furnace"
+3122.0300,Stock House Foreman
+3122.0400,"Supervisor and Foreman, Metal Treating"
+3122.0500,"Supervisor and Foreman, Metal Drawing and"
+3122.0601,Assembly Line Supervisor
+3122.0800,"Supervisor and Foreman, Glass Forming and"
+3122.0900,"Supervisor and Foreman, Ceramics and Related"
+3122.1000,"Supervisor and Foreman, Wood Preparation and"
+3122.1100,"Supervisor and Foreman, Paper Pulp and"
+3122.1300,"Supervisor and Foreman, Chemical Processing and"
+3122.1400,"Supervisor and Foreman, Petroleum Refining and"
+3122.1600,Boiler Supervisor
+3122.1700,"Supervisors and Foremen, Stationary Engine and"
+3122.1800,"Supervisor and Foreman, Stone Cutting and"
+3122.1900,"Supervisor and Foreman, Machine Tool"
+3122.2000,"Supervisor and Foreman, Rubber Goods Making"
+3122.2100,"Supervisor and Foreman, Plastic Products Making"
+3122.2200,Plastic Moulding Shop Supervisor
+3122.2300,Plastic Moulding Shift In -Charge
+3122.2400,"Supervisor and Foreman, Wood Working"
+3122.2500,"Supervisor and Foreman, Carpentry, Cabinet"
+3122.2600,"Supervisor and Foreman, Paper and Paper Board"
+3122.2800,Jobber (Textile)
+3122.2900,"Supervisor and Foreman, Hosiery"
+3122.3000,"Supervisor and Foreman, Tanning and Pelt"
+3122.3100,"Supervisor and Foreman, Shoemaking"
+3122.3200,"Supervisor and Foreman, Harness and Saddle"
+3122.3300,"Supervisor and Foreman, Leather Goods Making"
+3122.3400,"Supervisors and Foremen, Textile -Related"
+3122.3450,"Scouring Supervisor , Wool"
+3122.3500,"Supervisors and Foremen, Tailoring and Dress"
+3122.3551,Production Supervisor – Sewing
+3122.3600,"Supervisor and Foreman, Brush Making"
+3122.3800,"Supervisor and Foreman, Tobacco Preparation,"
+3122.3900,"Supervisor and Foreman, Tobacco Product Making"
+3122.4000,"Supervisor and Foreman, Material and Freight"
+3122.4100,"Supervisor and Foreman, Checking, Sorting,"
+3122.4200,"Supervisor and Foreman, Welding and Flame"
+3122.4300,"Supervisor and Foreman, Sheet and Structural"
+3122.4401,Casting Line In -Charge
+3122.4402,Casting Line Supervisor
+3122.4501,Forging Shop Shift In -Charge
+3122.4502,Forging Shop Supervisor
+3122.4601,Press Shop Shift In -Charge
+3122.4602,Press Shop Supervisor
+3122.4701,Welding Machine Setter
+3122.4702,Welding Supervisor
+3122.4900,"Supervisor and Foreman, Blacksmith"
+3122.5000,"Supervisor and Foreman, Tool Making/Die Making"
+3122.5200,"Supervisor and Foreman, Machinery Fitting and"
+3122.5300,"Supervisor and Foreman, Motor Vehicle Repairing"
+3122.5400,"Supervisor and Foreman, Aircraft Repairing"
+3122.5600,"Supervisor and Foreman, Electrical and Electronic"
+3122.5700,"Engineering Supervisor, Telephone"
+3122.5800,"Sub-Inspector, Telephone"
+3122.5900,"Charge Hand, Rack Wiring (Telephone Equipment)"
+3122.6000,"Line Supervisor, Electrical"
+3122.6200,"Supervisor and Foreman, Precision Instrument"
+3122.6300,"Supervisor and Foreman, Musical Instrument"
+3122.6400,"Supervisor, Jewellery, Engraving and Precision"
+3122.6501,Wax  Model Making Supervisor
+3122.6502,Product Development Manager
+3122.6503,Planning Supervisor
+3122.6504,Blade Sawing Supervisor
+3122.6505,Laser Supervisor
+3122.6506,Bruting Supervisor
+3122.6507,Blocking Supervisor
+3122.6508,Polishing Supervisor
+3122.6509,Final Assortment Supervisor
+3122.6511,Supervisor Faceting and Polishing
+3122.6600,"Supervisor and Foreman, Photolitho, Photo"
+3122.6700,"Supervisor and Foreman, Printing and Related"
+3122.6900,"Supervisor and Foreman, Food"
+3122.7000,Juice Clarification Supervisor
+3122.7100,"Supervisor and Foreman, Brewing, Aerated Water"
+3122.7200,"Supervisor and Foreman, Dairy Products/Dairy"
+3122.8001,Rubber Nursery Supervisor
+3122.9900,"Manufacturing Supervisors, Other"
+3123.0100,"Work Supervisor, Construction"
+3123.0200,"Supervisor and Foreman, Insulation"
+3123.0300,"Supervisor and Foreman, Plumbing and Pipe"
+3123.0301,Plumbing Foreman
+3123.0302,Plumbing Supervisor
+3123.0400,"Electrical Supervisor, Wiring,"
+3123.0500,"Supervisor and Foreman, Painting"
+3123.0600,Painting and Surface Treatment Line In -Charge
+3123.0700,Painting Supervisor
+3123.9900,Supervisors and Foremen and Related Trades
+3131.0100,"Stationary Engine Driver, Steam"
+3131.0200,"Stationary Engine Driver, Internal Combustion"
+3131.0300,"Turbine Operator, Steam"
+3131.0400,"Turbine Operator, Hydel"
+3131.0500,Power Plant Operator
+3131.0600,Electrical Switch Board Operator
+3131.0700,"Oiler and Greaser, Stationary Engine and"
+3131.0800,Nuclear Plant Control Operator
+3131.0900,Breaker Tender
+3131.1000,Hopper Attendant/Hopper Machine Operator
+3131.1100,Load Dispatcher
+3131.9900,"Power Production Plant Operators, Other"
+3132.0100,Ice Maker
+3132.0200,Reservoir Caretaker
+3132.0300,Gas-Compressor Operator
+3132.0400,Wastewater Treatment Plant Operator
+3132.0500,Heating Plant Superintendent
+3132.0600,"Pump Station Operator, Waterworks"
+3132.0700,Air Compressor Operator
+3132.0800,Ammonia Compressor Attendant
+3132.0900,Air Conditioning and Refrigeration Plant
+3132.1000,Pumpman
+3132.1100,Exhaust Fan Operator
+3132.1200,Blower Operator
+3132.1300,Incinerator Operator
+3132.9900,"Incinerator and Water Treatment Plant Operators,"
+3133.0100,"Process Man, Chemical"
+3133.0200,Furnace Operator (Chemical)
+3133.0300,Boiling Tub Operator (Chemical)
+3133.0400,"Batch Still Operator, Chemical"
+3133.0500,"Continuous Still Operator, Chemical"
+3133.0600,"Bleaching Operator, Chemical"
+3133.0700,Chemical Process Operator (Radioactive
+3133.0800,Hot Cell Technician
+3133.9900,"Chemical Processing Plant Controllers, Other"
+3134.0100,"Continuous Still Operator, Petroleum"
+3134.0200,Still Man Gas Plant/Gas Plant Operator (Petrol
+3134.0300,Pump Man (Petroleum Refining)
+3134.0400,Control Man (Petroleum Refining)
+3134.0500,Blender (Petroleum Refining)
+3134.0600,Paraffin Plant Operator (Petrol Refining)
+3134.0700,Pump Station Operator
+3134.0800,Treating Plant Operator
+3134.9900,"Petroleum Refining Workers, Other"
+3135.0500,Mixerman
+3135.0600,Convertor Blower/Convertor Blower Technician
+3135.0700,Convertor Man/Convertor Blower Technician
+3135.0900,Furnace Operator (Non -Ferrous Metal)
+3135.1100,"Furnace Operator, Open Hearth"
+3135.1200,"Furnace Operator, Second Hand, Open Hearth"
+3135.1300,Furnace Operator (Smelting & Refining)
+3135.1401,Shift In -Charge Furnace Ferro Alloys
+3135.1700,"Roller, Merchant Mill/Mill Operator"
+3135.1800,"Roller, Sheet Mill/Mill Operator"
+3135.1900,"Operator, Hot Rolling Mill (Non -Ferrous"
+3135.2000,"Roller, Hot Rolling Mill (Non -Ferrous Metal)/Mill"
+3135.2001,Fluid Management Operator Rolling Mills
+3135.2002,Process Operator Rolling Mills
+3135.2003,Coil Packaging Machine Operator Rolling Mills
+3135.2300,"Operator, Strip Mill (Non -Ferrous Metal)"
+3135.2500,Seamless Pipe and Tube Roller
+3135.2600,"Furnace Man, Reverberatory, Pulverised Coal"
+3135.3001,Heat Treatment Shop Supervisor
+3135.3100,Centrifugal Casting Machine Operator
+3135.3900,"Control Man, Billet/Process Controller"
+3135.9900,"Metal Production Process Controllers, Other"
+3139.0100,"Digester Operator, Paper Pulp"
+3139.0200,"Beaterman, Paper Pulp"
+3139.0300,"Machineman, Paper, Wet End"
+3139.0400,"Machineman, Paper, Dry End"
+3139.0500,"Calenderman, Paper"
+3139.1400,Robotic Machine Operator
+3139.1501,Autocomponent Assembly Fitter
+3139.2001,Assembly Supervisor
+3139.5001,Quality Control Inspector
+3139.5002,Quality Controller
+3139.9900,"Industrial Robot Operators, Other"
+3141.0100,"Laboratory Assistant, Zoological"
+3141.0200,"Laboratory Assistant, Botanical"
+3141.0300,Taxidermist
+3141.9900,"Life Science Technicians (Excluding Medical),"
+3142.0101,Micro Irrigation Technician
+3142.0201,Bare Foot Technician (BFT)
+3142.9900,"Agricultural Technicians, Others  `"
+3151.0100,"Chief Engineer, Ship"
+3151.0200,"Second Engineer, Ship"
+3151.0300,"Third Engineer, Ship"
+3151.0400,"Fourth Engineer, Ship"
+3151.0500,"Fifth Engineer, Ship/Junior Engineer"
+3151.9900,"Ship and Aircraft Controllers and Technicians,"
+3152.0100,"Captain, Ship/Master"
+3152.0200,"Chief Officer, Ship"
+3152.0300,"Second Officer, Ship"
+3152.0400,"Third Officer, Ship"
+3152.0500,Harbour Master
+3152.0600,Pilot Ship/Bay Pilot/Harbour Pilot/Channel Pilot
+3152.0900,Ferry Officer
+3152.9900,"Ship’s Deck Officers and Pilots, Other"
+3153.0100,"Chief Pilot, Aircraft"
+3153.0200,Check Pilot
+3153.0300,"Pilot, General"
+3153.0400,"Aircraft Pilot, Specialized"
+3153.0500,"Pilot, Glider"
+3153.0600,"Chief Navigator, Aircraft"
+3153.0700,"Check Navigator, Aircraft"
+3153.0800,"Navigator, Aircraft"
+3153.0900,Chief Flight Engineer
+3153.1000,Check Flight Engineer
+3153.1100,Flight Engineer
+3153.9900,Aircraft Pilots and Related Associate
+3154.0100,Air Traffic Controller Specialist
+3154.0200,"Traffic  Controller, Air Service"
+3154.9900,"Air Traffic Controllers, Other"
+3211.0100,X-Ray Technician
+3211.0101,Radiology Technician
+3211.0200,Bio-Medical Equipment Technician
+3211.0501,Medical Equipment Technician
+3211.0801,Cardiac Care Technician
+3211.9900,Medical Imaging and Therapeutic Equipment
+3212.0101,Operation Theatre Technician
+3212.0201,Dialysis Technician
+3212.0301,Anaesthesia Technician
+3212.0501,Histotechnician
+3212.0601,Phlebotomy Technician
+3212.0602,Blood Bank Technician
+3212.0701,Medical Laboratory Technician
+3212.9900,"Dialysis Technician Life Science Technicians, Other"
+3213.0100,Pharmacist
+3213.0101,Pharmacy Assistant
+3213.0200,"Laboratory Assistant, Pharmaceutical"
+3213.9900,"Pharmaceutical Assistants, Other"
+3214.0100,"Mechanic, Dental"
+3214.9900,"Medical and Dental Prosthetic Technicians, Other"
+3221.0100,"Nurse, General"
+3221.0200,"Nurse, Industrial"
+3221.0300,Nursing Attendant
+3221.9900,"Nursing Associate Professionals, Other"
+3222.0100,Midwife
+3222.0200,Midwifery Attendant
+3222.0300,Lady Health Visitor/ASHA Worker/Anganwadi
+3222.9900,"Midwifery Associate Professionals, Other"
+3240.0100,"Vaccinator, Veterinary"
+3240.0200,Stockman
+3240.0300,Animal Keeper
+3240.0400,"Laboratory Technician, Artificial Breeding"
+3240.9900,"Veterinary Technicians and Assistants, Other"
+3251.0101,Dental Assistant
+3251.9900,"Dental  Assistants and Therapists, Other"
+3252.0101,Medical Records and Health Information
+3253.0101,Diabetes Educator
+3253.0201,Frontline Health Worker
+3253.9900,"Community Health Workers, Other"
+3254.0100,"Optician, General"
+3254.0200,"Optician, Contact Lens"
+3254.9900,"Dispensing Opticians, Other"
+3255.0101,Assistant Physiotherapist
+3256.0101,Refractionist
+3256.0202,Vision Technician
+3256.9900,"Medical Assistants, Other"
+3257.0100,Sanitary Inspector
+3257.0300,"Environment Science and Protection Technician,"
+3257.0400,Environmental Compliance Inspector
+3257.0500,Environmental Engineering Technician
+3257.0600,"Health, Safety and Environment Officer"
+3257.9900,"Environment Science and Protection Technicians,"
+3311.0100,"Broker, Share Market"
+3311.0200,"Jobber, Share Market"
+3311.0201,Equity Dealer
+3311.0202,Mutual Fund Agent
+3311.9900,"Securities and Finance Dealers and Brokers, Other"
+3312.0100,Finance Agent
+3312.0101,Loan Approval Officer
+3312.9900,"Credit and Loan Officers, Other"
+3314.0100,Economic Investigator
+3314.0200,Statistical Assistant
+3314.9900,"Statistical, Mathematical and Related Associate"
+3315.0100,Valuer
+3315.0200,"Claims Inspector, Railways"
+3315.0300,"Appraiser, Customs"
+3315.0501,Warranty In-Charge
+3315.9900,"Valuers and Loss Assessors, Other"
+3321.0100,Insurance Agent
+3321.0101,Sales Officer (Auto Insurance)
+3321.0102,Sales Consultant (Auto Finance)
+3321.0200,"Insurance Adjuster, Examiner, Surveyor and"
+3321.0201,"Finance, Insurance and Registration"
+3321.9900,"Insurance Representatives, Other"
+3322.0101,"Sales Representative, Technical"
+3322.0200,"Commercial Traveller, General"
+3322.0300,"Canvasser, Sales"
+3322.0500,"Sales Supervisor, Wholesale Trade"
+3322.0601,Key Accounts Sales Manager
+3322.0701,Regional Parts Manager
+3322.0801,Area Manager (Auto Components)
+3322.0802,Sales Officer (Auto Components)
+3322.0900,"Sales Supervisor, Retail Trade"
+3322.1001,Territory Sales Manager
+3322.1002,Territory Sales Manager (Used Vehicles)
+3322.1101,Customer Relationship Manager
+3322.1102,Regional Manager – Customer Care
+3322.1201,Regional Sales Manager (Pre -Owned Vehicles)
+3322.1202,Sales Lead (Pre -Owned Vehicles)
+3322.1203,Sales Consultant (Pre -Owned Vehicles)
+3322.1301,Sales Manager
+3322.1302,Sales Consultant (Institutional
+3322.1303,Sales Consultant (Retail)
+3322.1304,Sales Consultant
+3322.1305,Floor Manager
+3322.1306,Store Manager
+3322.1400,Other Sales Supervisor
+3322.1501,Regional Sales Manager (RSM)
+3322.1601,Regional Dealer Development Manager/Network
+3322.1701,Marketing Manager – Line of Business
+3322.1702,Marketing and Social Media Manager
+3322.2101,Regional Retail Finance and Insurance Manager
+3322.2501,Service Supervisor
+3322.2502,Service Advisor
+3322.2503,Service Office Manager
+3322.2504,Service Office Executive
+3322.4001,Pre-Delivery Inspection In -Charge
+3322.4002,Pre-Delivery Inspection Supervisor
+3322.5001,Plumbing Products Sales Officer
+3322.5002,Plumber Aftersales Service
+3322.6001,Export Executive
+3322.6011,Export Assistant
+3322.9900,"Commercial Sales Representatives, Other"
+3323.0100,Buyer
+3323.0101,Merchandiser – Gem & Jewellery
+3323.0102,Merchandiser – Apparel
+3323.0200,Purchasing Agent
+3323.0301,Vendor Development Executive
+3323.0401,Purchase Executive
+3323.0501,Purchase Executive – Solar
+3323.0601,Associate – Supply Chain Management
+3323.0602,Supply Chain Field Assistant
+3323.9900,"Buyers, Other"
+3334.0100,Property Dealer
+3334.0200,House Agent
+3334.9900,"Estate Agents, Other"
+3339.0200,Brand Manager
+3339.0300,Auctioneer
+3339.0400,"Crier, Auction"
+3339.0500,"Conductor, Auction Sale"
+3341.0200,"Overseer, Postmen"
+3341.0400,"Supervisor, Telephone"
+3341.0500,"Monitor, Telephone"
+3341.0600,"Supervisor, Wireless"
+3341.0700,Headlight Keeper
+3341.0800,Section Officer
+3341.0900,"Inspectors and Supervisors, Other (Clerical)"
+3341.1000,Office Assistant
+3341.1100,Briefing Assistant
+3341.1200,Sub-Post Master
+3341.9900,"Office Supervisors, Other"
+3351.0100,"Inspector, Customs"
+3351.0200,"Supervisor, Customs"
+3351.0300,Searcher
+3351.9900,"Customs and Border Inspectors, Other"
+3352.0100,"Inspector, Excise"
+3352.9900,"Government Tax and Excise Officials, Other"
+3353.0100,Village Level Worker
+3353.0200,"Patroller, Women"
+3353.9900,"Government Social Benefits Officials, Other"
+3355.0100,"Inspector, Police"
+3355.0200,"Sub-Inspector, Police"
+3355.0300,Detective
+3355.9900,"Police Inspectors and Detectives, Other"
+3411.0100,Legal Assistant
+3411.0200,Shirestedar
+3411.0300,Petition Writer
+3411.9900,"Legal and Related Associate Professionals, Other"
+3412.0100,Blood Donor Unit Assistant
+3412.0200,Equal Opportunity Officer
+3412.9900,Social Work Associate Professionals
+3421.0100,"Professional Sportsman/Professional, Athlete"
+3421.0200,Jockey
+3422.0100,Athletic Coach
+3422.0201,Sports Coach
+3422.0300,Riding Instructor
+3422.0400,Umpire
+3422.0500,Marker/Groundsmen & Women
+3422.9900,"Sports Coaches, Instructors and Officials, Other"
+3423.0101,Fitness Trainer/Fitness Instructor
+3423.0200,Physical Training Instructor/Physical Education
+3423.0501,Lifeguard
+3423.9900,Fitness and Recreation Instructors and
+3431.0100,"Photographer, General"
+3431.0200,Photographer News
+3431.0300,"Photographer, Aerial"
+3431.9900,"Photographers, Other"
+3432.0100,Interior Designer
+3432.0200,Decorator
+3432.0501,Bathroom and Kitchen Designer
+3432.9900,"Decorators and Commercial Designers, Other"
+3434.0100,Head Cook/Head Chef
+3435.0100,Tattoo Artist
+3435.0200,Stuntman
+3435.0300,Prompter
+3435.0400,Merry -Go-Round Operator
+3435.0500,Floral Designer
+3435.9900,Other Artistic  and Cultural Associate
+3511.0101,Domestic Biometric Data Operator
+3512.0100,Data Recovery Planner/System Administrator
+3512.0101,Domestic IT Helpdesk Attendant
+3512.0200,Desktop Publishing Operator
+3512.0202,Associate — Desktop Publishing (DTP)
+3514.0300,Programming Assistant/Junior Software Engineer
+3512.0401,Disk Duplicator
+3512.0501,IT Co -Ordinator in School
+3512.0601,Associate – Clinical Data Management
+3512.0700,Medical Transcriptionist
+3512.0702,Associate – Medical Transcription
+3512.0801,Engineer – Technical Support
+3512.9900,Information and Communication Technology User
+3513.0100,System Administration Assistant/Junior System
+3513.0200,Computer Security Specialist
+3513.0301,Infrastructure Engineer
+3513.9900,"Computer Network and Systems Technician,"
+3521.0100,Cinematographer
+3521.0200,Movie Cameraman
+3521.0300,"Cameraman, Animation"
+3521.0401,Sound Recording Equipment Operator/Sound
+3521.0501,Film Editor/Editor
+3521.0511,Sound Editor
+3521.0600,"Supervisor, Broadcasting Audiovisual  Projection"
+3521.0700,Television Broadcasting Station Operator
+3521.0800,"Radio Operator, Broadcasting Station"
+3521.0900,Cinematograph Operator
+3521.1000,Public Address Equipment Operator
+3521.1100,"Station Officer, Overseas Communication"
+3521.1200,"Station Technical Assistant, Overseas"
+3521.1300,Wireless Operator
+3521.1400,"Radio Operator, Ship"
+3521.1500,"Radio Operator, Aircraft"
+3521.1600,"Control Tower Operator, Aerodrome"
+3521.1700,Radar Operator
+3521.2000,"Signaller, Ship"
+3521.2100,"Light Keeper, Light House"
+3521.9900,"Broadcasting and Audiovisual Technicians, Other"
+3522.0100,"Telecommunication, Technician"
+3522.0200,"Line Inspector, Telephone"
+3522.0300,Telephone Inspector
+3522.0400,Wireless Inspector Electronics
+3522.9900,"Telecommunication Engineering Technicians,"
+4110.0100,"Clerk, General"
+4110.0200,"Clerk, Enquiry"
+4110.0300,Copyright Clerk
+4110.0400,Copy Holder
+4110.0500,Timekeeper
+4110.0600,"Timekeeper, Motor Transport"
+4120.0100,Private Secretary
+4120.0200,Personal Secretary
+4120.0300,Panchayat Secretary
+4120.9900,"Secretaries, Other"
+4131.0100,Secretary/Back Office Support
+4131.0200,Reporter
+4131.0400,Braille Typist
+4131.0500,Teleprinter Operator
+4131.0600,Computer Operator
+4131.9900,"Typists and Word Processing Operators,"
+4132.0401,Data Entry Machine Operator
+4132.0402,Domestic Data Entry Operator
+4132.0600,Coding Machine Operator
+4132.0800,Duplicating Machine Operator/Photocopier
+4132.0900,Embossing Machine Operator
+4132.1000,Addressing Machine Operator
+4132.1300,Bookkeeping Machine Operator
+4132.1400,Bill Processing Clerk
+4132.9900,"Data Entry Clerks, Other"
+4211.0100,"Cashier, General"
+4211.0200,"Cashier, Bank"
+4211.0301,"Cashier, Cash Counter"
+4211.0302,"Cashier, Gem & Jewellery"
+4211.0400,"Teller, Bank"
+4211.9900,"Bank Tellers and Related Clerks, Other"
+4212.0100,"Booking Clerk, Recreation"
+4212.0200,Bookmaker
+4212.9900,"Bookmakers, Croupiers and Related Gaming"
+4213.0100,Moneylender
+4213.0200,Pawn Broker
+4213.9900,"Pawnbrokers and Moneylenders, Other"
+4214.0100,Bill Collector
+4214.0201,Debt Recovery Agents
+4214.9900,"Debt Collectors and Related Workers, Other"
+4221.0100,Travel Consultants & Organizers
+4221.0200,Flight Attendants and Travel Stewards
+4221.0300,"Reservation Clerk, Transport/Reservation"
+4221.0400,"Booking Clerk, Transport/Concierge"
+4221.9900,"Travel Consultants and Clerks, Others"
+4222.0101,Technical Support Executive – Non -Voice
+4222.0102,Technical Support Executive – Voice
+4223.0100,"Telephone Operator, Trunk"
+4223.0200,"Telephone Operator, Local"
+4223.0300,"Telephone Operator, PBX"
+4223.9900,"Telephone Switchboard Operators, Other"
+4224.0100,Receptionist (Hotel)/Front Office Associate
+4224.9900,"Hotel Receptionists, Other"
+4225.0100,Complaint Attending Clerk/Customer Service
+4225.9900,"Inquiry Clerks, Other"
+4226.0100,Reception Clerk/Front Desk
+4226.0201,Showroom Hostess/Host
+4311.0101,Bookkeeper General/Accounts Executive
+4311.0200,Bank Clerk
+4311.0300,Ledger Clerk
+4311.0401,Accounts Executive (Accounts Payable &
+4311.0500,"Audit, Clerk"
+4311.0600,"Clerk, Cost Accounting"
+4311.0700,Bill and Accounts Collector
+4311.0801,Rubber Nursery Office Assistant
+4311.9900,"Accounting and Bookkeeping Clerks, Others"
+4312.0100,Statistical Clerks
+4312.9900,"Statistical Finance and Insurance Clerks,"
+4313.0101,Accounts Clerk/Accounts Executive (Payroll)
+4313.0201,Accounts Executive (Statutory Compliance)
+4321.0100,Store Keeper
+4321.0101,Spare Parts Operations Executive
+4321.0102,Inventory Clerk
+4321.0103,Inventory Manager
+4321.0104,Storage Assistant
+4321.0200,Store Distributor
+4321.0301,Stock Verifier
+4321.0302,Incoming Inspection Technician
+4321.0401,Manager Stores Operation
+4321.0402,Spare Parts Operations In -Charge
+4321.0501,Store Ops Assistant
+4321.0601,Warehouse Picker
+4321.0602,Warehouse Binner
+4321.0603,Warehouse Packer
+4321.0604,Kitting and Labelling Executive
+4321.0701,Warranty Processor
+4321.9900,"Stock Clerks, Other"
+4322.0101,Inventory Manager (Wholesale)
+4322.0201,Junior Rubber Technician/Technical
+4323.0100,"Yard Master, Railway"
+4323.0200,Head Train Recorder
+4323.0300,"Traffic Regulator, Tram"
+4323.0400,"Controller, Tram"
+4323.0500,"Traffic Timetable Inspector, Tram"
+4323.9900,"Transport Clerks, Other"
+4411.0100,Library Clerk
+4411.0200,Braille and Talking Books Clerk
+4411.0300,"Preservation Assistant, Archives"
+4411.9900,"Library Clerks, Other"
+4412.0100,Mail Guard
+4412.0200,Postman
+4412.0300,Village Postman
+4412.9900,"Mail Carriers and Sorting Clerks, Other"
+4413.0100,Coding Clerk
+4413.0200,Proofreader
+4413.9900,"Coding, Proofreading and Related Clerks,"
+4414.0100,"Braille Transcriber, Hand"
+4414.9900,"Scribes and Related Clerks, Other"
+4416.0101,Associate – HRO
+4419.0100,Publicity Assistant
+4419.0102,Business Correspondent
+4419.0200,Patwari
+4419.0300,"Patrol, Irrigation"
+4419.0400,Bailiff
+4419.0500,Office Boy/Peon
+4419.0600,Daftry
+4419.0800,Process Server
+4419.9900,"Clerical Support Workers, Other"
+5111.0100,"Chief Steward, Ship/Chief Cook"
+5111.0200,"Steward, Ship/Mess Man"
+5111.0300,Air Hostess
+5111.0400,Flight Steward
+5111.0500,Aircraft Cargo Handling Supervisor
+5111.0600,Air Crew Member
+5111.9900,"Travel Attendants and Travel Stewards,"
+5112.0100,"Guard, Passenger Train"
+5112.0200,"Guard, Goods Train"
+5112.0300,"Brakesman, Railway"
+5112.0400,"Conductor Guard, Railway"
+5112.0500,"Ticket Collector, Railway"
+5112.0600,"Travelling Ticket Examiner, Railway"
+5112.0700,"Ticket Examiner, Motor Transport"
+5112.0800,"Passenger Guide, Railway"
+5112.0900,"Conductor, Tram"
+5112.1000,Bus Conductor
+5112.9900,"Transport Conductors, Other"
+5113.0100,Travel Agent
+5113.0200,Tourist Guide
+5113.9900,"Guides, Other"
+5120.0200,"Cook, Institutional"
+5120.0300,"Cook, Domestic"
+5120.0400,"Cook, Ship"
+5120.0500,Kitchen Porter/Steward
+5120.0600,Pantry Man
+5120.9900,"Cooks, Other"
+5131.0100,Butler
+5131.0200,"Steward, Hotel"
+5131.0300,"Bearer, Domestic/Household Workers"
+5131.0401,"Waiter, Institutional/Food & Beverage"
+5131.0500,Wine Waiter
+5131.9900,"Waiters, Other"
+5132.0100,Barman
+5132.9900,"Bartenders, Other"
+5141.0100,Hairdresser (Ladies)
+5141.0201,Assistant Hair Stylist
+5141.0300,Barber
+5141.9900,"Hairdressers, Other"
+5142.0100,Beautician
+5142.0101,Assistant Beautician
+5142.0200,Manicurist
+5142.0201,Pedicurist and Manicurist
+5142.0300,Skincare Specialist
+5142.0400,Make -Up Man
+5142.0500,"Dresser, Stage & Studio"
+5142.0600,Wigman
+5142.0700,Bath Attendant
+5142.9900,"Beauticians and Related Workers, Others"
+5151.0101,Housekeeper (Institutional)/Housekeeping
+5151.0201,Janitor/Housekeeping Attendant
+5151.0202,Room Attendant
+5151.0300,House Stewards/Domestic Help
+5151.0400,"Matron, Housekeeping"
+5151.0500,Linen Keeper
+5151.0600,Hotel and Restaurant Keeper/Hotel and
+5151.0701,"Supervisor, Front Office/Customer Service"
+5151.0800,Room Bearer/Bell Boys/Bell Hop/Hotel
+5151.9900,Cleaning and Housekeeping Supervisors in
+5152.0100,Housekeeper (Domestic)
+5152.9900,"Domestic Housekeepers, Others"
+5153.0100,"Caretaker, Building"
+5153.0200,"Caretaker, Monument"
+5153.0300,"Caretaker, Burial Places and Cremation"
+5153.9900,"Building Caretakers, Other"
+5161.0100,Astrologer
+5161.0200,Palmist
+5161.9900,"Astrologers, Fortune Tellers and Related"
+5163.0100,Undertaker
+5163.0200,Embalmer
+5163.0300,Grave Digger
+5163.9900,"Undertakers and Embalmers, Other"
+5165.0101,Commercial Vehicle Driver Trainer
+5211.0100,Advertising Sales Agent/Advertising
+5211.0200,Shop Attendant/Sales Assistant
+5211.0300,Telemarketing Sales Person/Telemarketing
+5211.0301,Sales Executive – Dealership
+5211.0302,Telecaller
+5211.9900,"Stall and Market Salespersons, Other"
+5212.0100,Milkman
+5212.9900,"Street Food Vendors, Other/ Khomchawala,"
+5222.0100,"Sales Supervisor, Wholesale Trade"
+5222.0101,Area Parts Manager (APM)
+5222.0201,"Sales Supervisor, Retail Trade/CRM"
+5223.0100,Shop Assistant
+5223.0101,Order Processor
+5223.0102,Jewellery Retail Sales Associate (Basic)
+5223.0103,Jewellery Retail Sales Associate (Advanced)
+5223.0104,Plumbing Products Sales Assistant
+5223.0105,Trainee Associate
+5241.0100,"Model, Fashion"
+5241.0200,Model
+5241.9900,"Fashion and Models, Other"
+5242.0101,Technical Demonstrator (Sale)/Area
+5242.0102,Sales Associate
+5242.0201,Customer Care Executive (Relationship
+5242.0301,Customer Care Executive (Repair Centre)
+5242.0401,In-Store Promoter
+5242.0501,Associate Network Engineer
+5242.0502,Associate Operations Engineer
+5242.9900,"Sales Demonstrators, Other"
+5243.0100,Newspaper Boy
+5243.0200,Order Supplier/Supplier
+5243.0300,Home Deliveryman
+5243.0401,Distributor Sales Representative
+5243.0501,Field Sales Executive (FSE)
+5243.0502,Sales Executive  (Broadband)
+5243.9900,"Door -to-Door and Telephone Sales Persons,"
+5244.0100,"Operator, Call Centre"
+5244.0101,CRM Domestic Voice
+5244.0102,Associate – CRM
+5244.0103,Customer Relation Executive
+5244.0201,CRM Domestic Non -Voice
+5244.0202,Associate Customer Care (Non -Voice)
+5244.0203,Collections Executive
+5244.0301,Customer Care Executive
+5244.0302,Remote Helpdesk Technician
+5244.0303,Customer Care Executive (Call Centre)
+5245.0101,Petrol Pump Salesman/Fuel
+5249.0101,Key Account Service Manager
+5249.0200,"Salesman, Wholesale Trade"
+5249.0201,Commercial Manager (Zonal/Regional)
+5249.0202,Commercial Executive/Officer
+5249.0301,"Salesman, Retail Trade"
+5249.0400,Wholesale Dealer
+5249.0500,Retail Dealer
+5249.0600,Selling Agent
+5249.0700,Stockist
+5311.0100,"Ayah, Institutional"
+5311.0200,Child Care Worker
+5311.0300,Governess
+5311.0400,"Ayah, Domestic"
+5311.9900,"Child Care Workers, Other"
+5322.0101,Home Health Aide
+5322.9900,"Home -Based Personal Care Workers, Other"
+5329.0101,General Duty Assistant
+5411.0100,Fire Fighter
+5411.9900,"Fire Fighters, Other"
+5412.0100,Police Constable
+5412.0200,"Sepoy, Customs"
+5412.0300,"Constable, Excise"
+5412.9900,"Police Officers, Other"
+5413.0100,"Warder, Jail"
+5413.9900,"Prison Guards, Other"
+5414.0101,Security Officer
+5414.0102,Assignment Manager
+5414.0111,Security Supervisor
+5414.0121,CCTV Supervisor
+5414.0151,Armed Security Guard
+5414.0171,Personal Security Officer
+5414.0200,Home Guard
+5414.0400,Watchman
+5414.0501,Gateman/Unarmed Security Guard
+6111.0100,"Cultivator, General"
+6111.0101,Paddy Farmer
+6111.0200,"Cultivator, Crop"
+6111.0201,Wheat Cultivator
+6111.0301,Maize Cultivator
+6111.0401,Pulses Cultivator
+6111.0501,Soybean Cultivator
+6111.0601,Cotton Cultivator
+6111.0701,Sugarcane Cultivator
+6111.0800,"Cultivator, Fruit"
+6111.0851,Coconut Grower
+6111.0852,Friends of Coconut Tree
+6111.0901,Banana Farmer
+6111.1001,Mango Grower
+6111.1101,Citrus Fruit Grower
+6111.1200,Viniculturist
+6111.1300,"Cultivator, Vegetables"
+6111.1401,Bulb Crop Cultivator
+6111.1501,Solanaceous  Crop Cultivator
+6111.1601,Tuber Crop Cultivator
+6111.1801,Chillies Cultivator
+6111.1901,Coriander Cultivator
+6111.2000,"Fieldman, Agriculture"
+6111.9900,"Field Crop and Vegetable Growers, Other"
+6112.0100,"Pruner, Tea Gardens"
+6112.0200,"Tapper, Palm Juice"
+6112.0201,Neera Technician
+6112.0300,"Tapper, Rubber"
+6112.0400,Budder
+6112.0501,Tea Plantation Worker
+6112.0601,Coffee Plantation Worker
+6112.0701,Bamboo Grower
+6112.0801,Rubber Nursery Worker – Budder
+6112.0802,Rubber Nursery Worker – General
+6112.9900,"Tree and Shrub Crop Growers, Other"
+6113.0100,Planter
+6113.0200,Nurseryman
+6113.0301,"Gardener, General"
+6113.0400,Groundsman
+6113.0501,Greenhouse Fitter
+6113.0601,Floriculturist – (Open Cultivation)
+6113.0602,Floriculturist – (Protected Cultivation)
+6113.9900,"Nursery Workers and Gardeners, Other"
+6114.9900,"Mixed Crop Growers, Other"
+6116.0101,Agriculture Extension Executive
+6116.0102,Agriculture Extension Service Provider
+6116.0112,Community Service Provider
+6121.0100,"Farmer, Livestock"
+6121.0201,"Farmer, Dairy/Dairy Farmer/Entrepreneur"
+6121.0300,"Livestock Worker, General"
+6121.0400,Herdsman
+6121.0500,Livestock Workers/Other Livestock Workers
+6121.0601,"Dairy Farm Worker, General/Dairy Worker"
+6121.0700,Milker
+6121.0800,"Milker, Machine"
+6121.1000,Stableman
+6121.1100,Elephant Keeper
+6121.1200,"Shearer, Sheep"
+6121.1300,"Shearer, Animal, Other/Shearer, Other"
+6121.1400,Grass Cutter
+6121.9900,"Dairy and Livestock Producers, Other"
+6122.0101,"Farmer, Poultry/Broiler Farm Supervisor"
+6122.0200,"Farmer, Poultry Breeding"
+6122.0301,"Poultry Farm Worker, General/Broiler Farm"
+6122.0401,Hatchery Operator/Hatchery In -Charge
+6122.9900,"Poultry Farm Workers, Other"
+6123.0101,Beekeeper
+6123.0201,"Rearer, Silkworm/ Sericulturist"
+6123.9900,"Apiarists and Sericulturists, Other"
+6129.0100,"Farmer, Fur -Bearing Animals"
+6129.0200,Mixed Animal Producers
+6129.9900,"Animal Producers and Related Workers,"
+6130.0100,Artificial Breeding Technician
+6130.0201,Seed Grower/Quality Seed Grower
+6130.0202,Seed Processing Worker
+6130.9900,"Mixed Crop and Animal Workers, Other"
+6210.0100,Forester
+6210.0200,Forest Guard
+6210.0300,Forest Fire Watcher
+6210.0400,Foresters and Related Workers
+6210.0500,Gatherer Lac
+6210.0600,"Gatherer, Medicinal Herbs"
+6210.0700,"Gatherer, Firewood"
+6210.0800,Cane Cutter
+6210.0900,Thatch Cutter
+6210.1000,Log Feller
+6210.1100,Wood Cutter
+6210.1200,"Marker, Log"
+6210.1300,Sandalwood Extractor
+6210.1400,"Estimator, Timber"
+6210.1500,"Sorter, Timber"
+6210.1600,Log Driver
+6210.1700,"Charcoal Burner, Wood"
+6210.1800,"Digester Operator, Wood"
+6210.1900,"Distiller, Turpentine and Eucalyptus"
+6210.2000,Lac Treater
+6210.9900,"Forestry and Related Workers, Other"
+6221.0101,Shrimp Farmer
+6221.0102,Hatchery Production Worker
+6222.0100,"Fisherman, Inland Water"
+6222.0200,"Fisherman, Estuaries, Coastal and"
+6222.9900,"Inland and Coastal Water Fishery Workers,"
+6223.0101,"Fisherman, Deep Sea/Marine Capture"
+6223.9900,"Deep Sea  Fishery Workers, Other"
+6224.0300,Trapper
+6224.0400,Tracker
+6224.0500,Fish Overseer
+6224.0600,Fisheries Inspector
+6224.0700,"Fieldman, Fish"
+6224.0800,Yard Officer
+6224.0900,Fish Hatcher
+6224.1000,Fish Curer
+6224.1100,Fish Meal Maker
+6224.1200,Rock Pilot
+6224.1300,Man Duck
+6224.1400,Net Maker
+6224.9900,"Hunters and Trappers, Other"
+6310.0100,Tree Trimmer and Pruner
+6310.9900,"Subsistence Crop Farmers, Others"
+7111.0100,Hut Maker
+7111.0200,Thatcher
+7111.9900,"Builders, Traditional Materials, Other"
+7112.0100,Stone Mason
+7112.0200,"Bricklayerer, Construction"
+7112.0201,Plumbing Mason
+7112.0300,"Bricklayer, Refractory"
+7112.0400,Paviour
+7112.0500,Tar Supervisor
+7112.0601,Assistant Mason
+7112.9900,"Bricklayerers, Other"
+7113.0200,"Stone Cutter, Hand"
+7113.0300,"Stone Dresser, Hand"
+7113.0400,Stone Carver
+7113.0500,"Stone Polisher, Hand"
+7113.9900,"Stone Splitters, Cutters and Carvers, Other"
+7114.0100,Concrete Moulder
+7114.0200,Cement Finisher
+7114.9900,"Concrete Placers, Concrete Finishers and"
+7115.0100,"Carpenter, General"
+7115.0200,"Carpenter, Construction"
+7115.0201,Assistant Shuttering Carpenter
+7115.0300,"Carpenter, Structural"
+7115.0400,"Carpenter, Village"
+7115.0500,"Joiner, Wood"
+7115.0600,"Loftsman, Ship Building"
+7115.0700,Shipwright
+7115.0800,"Lascar Stager, Ship Building"
+7115.1100,"Carpenter Worker , Boat Building"
+7115.1200,"Carpenter, Boat Building"
+7115.1300,"Caulker, Boat Building"
+7115.9900,"Carpenters and Joiners Operatives, Other"
+7119.0100,Well Digger
+7119.0200,White Washer
+7119.0301,Assistant Scaffolder
+7119.9900,Building Frame and Related Trades
+7121.0100,"Tile Layer, Roof"
+7121.9900,"Roofers, Other"
+7122.0100,Tile Setter
+7122.0200,Concrete Mixer (Mosaic Tile)
+7122.0300,Tile Presser (Mosaic)
+7122.0400,Planer (Mosaic Tile)
+7122.0500,Mosaic Layer
+7122.0600,Parquetry Floor Layer
+7122.9900,"Floor Layers and Tile Setters, Other"
+7123.0100,Plasterer
+7123.9900,"Plasterers, Other"
+7124.0100,"Building Insulator, Hand"
+7124.0200,Acoustical Insulator
+7124.0300,"Insulator, Boilers and Pipes"
+7124.0400,"Insulator, Refrigeration and Air -"
+7124.9900,"Insulation Workers, Other"
+7125.0100,Glazier (Construction)
+7125.0200,"Glazier, Vehicle"
+7125.0300,Picture Framer
+7125.9900,"Glaziers, Other"
+7126.0101,"Plumber, General"
+7126.0102,"Plumber, Operations"
+7126.0103,"Plumber, General – Installation and Repair"
+7126.0104,"Plumber, General Helper"
+7126.0105,"Plumber, General Assistant"
+7126.0106,"Plumber, Maintenance and Servicing"
+7126.0107,"Plumber, Maintenance and Servicing"
+7126.0201,Pipe Layer/Plumber Pipeline
+7126.0301,Pipe Fitter
+7126.0400,Straightening Machine Operator (Iron &
+7126.0500,"Puncher, Metal"
+7126.0600,Pneumatic Chipper
+7126.9900,"Plumbers and Pipe Fitters, Other"
+7127.0100,"Mechanic, Refrigeration and Air -"
+7131.0100,"Painter, Building"
+7131.0101,Assistant Painter and Decorator
+7131.0200,"Painter, Steel Structure"
+7131.0300,"Painter, Industrial"
+7131.0500,Paper Hanger/Wallpaper Fixer/Decorator
+7131.9900,"Painters and Related Workers, Other"
+7132.0100,"Painter, General"
+7132.0201,"Painter, Spray/Painting Technician (Spray"
+7132.0202,Auto Spray Painter/Painter
+7132.0203,Auto Body Painting Technician – Surface
+7132.0204,Automotive Body Painting Technician
+7132.0205,Auto Spray Painter Assistant/Painter
+7132.0300,Metal Sprayer
+7132.0400,"Painter, Sign and Letter"
+7132.0500,"Painter, Brush"
+7132.0600,"Painter, Wood Work and Furniture"
+7132.0700,"Painter, Glass"
+7132.0900,"Painter, Mate"
+7132.0901,Automotive Paint Shop Assistant
+7132.9900,"Varnishers and Related Workers, Other"
+7211.0100,"Moulder, General"
+7211.0101,Press Shop Operator
+7211.0102,Press Shop Assistant/Helper
+7211.0200,"Moulder, Machine"
+7211.0201,Casting Technician – Sand Moulding
+7211.0300,"Moulder, Vertical Pipe"
+7211.0400,"Rammer, Vertical Pipe Moulding"
+7211.0500,"Core Maker, Moulding (Hand)"
+7211.0600,"Core Maker, Vertical Pipe"
+7211.9900,"Metal Moulders and Core Makers, Other"
+7212.0100,"Welder, Gas"
+7212.0101,Plumber (Welder)/Plumbing (Sanitary
+7212.0102,Plumber (Welder) Assistant
+7212.0105,Tungsten Inert Gas Welder
+7212.0111,Repair Welder
+7212.0200,"Welder, Electric"
+7212.0300,"Welder, Machine"
+7212.0301,Welder
+7212.0302,Welding Technician
+7212.0303,Gas Metal Arc Welder/Metal Inert
+7212.0400,Gas Cutter
+7212.0402,Plasma Cutter – Manual
+7212.0500,Brazer
+7212.0501,Soldering and Brazing Operator
+7212.0600,Lead Burner
+7212.0700,"Welder, Resistance"
+7212.0801,Welding Assistant
+7212.9900,"Welders and Flame Cutters, Other"
+7213.0101,"Sheet Metal Worker, General/Sheet Metal"
+7213.0200,"Sheet Metal Worker, Structural"
+7213.0201,Auto Engine Repair Technician
+7213.0301,Dent Remover/Auto Body Repair
+7213.0302,Auto Body Technician/Denter
+7213.0400,Tinsmith/Whitesmith
+7213.0500,Tin Coater
+7213.0600,Machine Feeder and Off -Bearer
+7213.9900,"Sheet Metal Workers, Other"
+7214.0300,Boiler Fitter
+7214.0400,"Tubesmith, Boiler"
+7214.0500,Boiler Maker
+7214.0600,"Erector, Structural"
+7214.0700,"Fitter, Structural"
+7214.0800,"Fitter, Construction"
+7214.0900,Riveter
+7214.1000,Riveter (Railroad Equipment)
+7214.1101,Assistant Bar Bender and Fixer
+7214.9900,"Structural Metal Prepares and Erectors,"
+7215.0100,Rigger
+7215.0101,Rigger: Rigging of Heavy Material
+7215.0200,Slinger
+7215.0300,Splicer (Rope and Cables)
+7215.9900,"Riggers and Cable Splicers, Other"
+7221.0100,Blacksmith
+7221.0200,Village Blacksmith
+7221.0300,Power Hammer Operator
+7221.0301,Forging Operator
+7221.0400,Hammer Man
+7221.0500,Stamper/Forging Operator
+7221.0600,Farrier
+7221.0700,Wire Drawer/Wire Drawing Machine
+7221.0800,Metal Spinner/Metal spinning Machine
+7221.9900,"Blacksmiths, Hammersmith and Forging"
+7222.0100,"Marker, Metal"
+7222.0200,Tool Maker
+7222.0300,Jig and Fixture Marker
+7222.0400,Jig Borer
+7222.0500,Die Maker
+7222.0600,"Die Sinker, Hand"
+7222.0700,Locksmith
+7222.0800,"Pattern Marker, Metal  Foundry"
+7222.0900,Armourer
+7222.9900,"Tool Makers and Related Workers, Other"
+7223.0100,"Tool Setter, General"
+7223.0200,"Tool Setter, Press"
+7223.0300,"Setter, Drop Forging Machine"
+7223.0400,"Setter, Automatic Machine"
+7223.0401,Assembly Line Machine Setter
+7223.0500,"Mechanist, General/Machinist"
+7223.0501,Machine Shop Master Technician/Setter
+7223.0502,Machine Shop Supervisor
+7223.0601,Turner/Conventional Turning
+7223.0700,Turret and Capstan Lathe Operator
+7223.0701,Lathe Machinist
+7223.0800,Shaper
+7223.0900,Planer
+7223.1000,"Planer, Edge"
+7223.1100,Slotter
+7223.1201,Miller/Operator – Conventional Milling
+7223.1300,Gear Cutter
+7223.1400,Heavy Duty End Mill Operator
+7223.1500,"Driller Metal, General"
+7223.1600,Radial Driller
+7223.1701,Borer/Operator Boring Machine Operator
+7223.1800,Cylinder Borer
+7223.1900,Rifling Machine Operator
+7223.2000,Bending Machine Operator
+7223.2100,Glazer
+7223.2200,"Grinder, Tool and Cutter"
+7223.2300,"Power Press Operator, Metal"
+7223.2400,Sheet Metal Machine Operator
+7223.2500,Ball Filling Machine Operator
+7223.2600,Ball Lapping Machine Operator
+7223.2700,Dividing Machine Operator
+7223.2800,Die Copying Machine Operator/Die Sinking
+7223.2900,Profiling Machine Operator
+7223.3000,Metal Stamper
+7223.5001,Machining Technician/CNC Operator
+7223.5002,CNC Operator – Machining Technician
+7223.5003,CNC Operator – Machinist
+7223.5004,CNC Operator - Vertical Machining Centre
+7223.5005,CNC Setter -cum -Operator – Vertical
+7223.6001,CNC Setter -cum -Operator – Turning
+7223.6002,CNC Operator – Turning
+7223.6003,CNC Programmer
+7223.9900,Metal Working Machine Tool Setters and
+7224.0100,"Grinder, General"
+7224.0102,Fitter – Fabrication
+7224.0200,"Grinder, Crankshaft"
+7224.0300,Roll Grinder
+7224.0400,Surface Grinder
+7224.0401,Grinder – Hand -Held and Power Tools
+7224.0402,Operator – Conventional Surface Grinding
+7224.0500,Thread Grinder
+7224.0600,Honer/Honing Machine Operator
+7224.0700,Lapper
+7224.0701,Super Finishing Technician
+7224.0801,Polisher
+7224.0900,"Saw Grinder, Hand"
+7224.1100,Metal Bluer
+7224.9900,"Metal Wheel Grinder, Polishing and Tool"
+7231.0100,"Mechanic, Automobile"
+7231.0101,Maintenance Technician – Service
+7231.0102,AC Specialist
+7231.0103,Automotive Body Technician Level
+7231.0104,Automotive Body Technician Level
+7231.0105,Brake Specialist
+7231.0106,Clutch Specialist
+7231.0107,Auto Service Technician – Mechanic
+7231.0108,Auto Service Technician – Helper
+7231.0200,Engine Tester
+7231.0201,Test Technician
+7231.0300,Tractor Mechanic
+7231.0400,Fitter Automobile
+7231.0401,Mechanic Fitter
+7231.0500,"Mechanic, Motor Cycle"
+7231.0501,Auto Service Technician (Two and Three
+7231.0900,Cleaner Motor Vehicle
+7231.9900,"Motor Vehicle Mechanics, Other"
+7232.0100,Airframe Erector
+7232.0200,"Mechanic Aircraft, Propeller"
+7232.0300,"Engine Tester, Aircraft"
+7232.0400,"Engine Tester, Helper, Aircraft"
+7232.0500,"Mechanic Aircraft Engine, Field"
+7232.0600,"Mechanic Aircraft, Engine Overhauling"
+7232.9900,"Aircraft Mechanics, Other"
+7233.0100,"Fitter, General"
+7233.0101,Maintenance Fitter – Mechanical
+7233.0102,Machinist
+7233.0121,"Fitter Levelling, Alignment & Balancing"
+7233.0200,"Fitter, Bench"
+7233.0300,"Mechanic, Petrol Engine"
+7233.0301,Bearing Maintenance
+7233.0400,"Mechanic, Diesel Engine"
+7233.0401,Belt Conveyor Maintenance
+7233.0402,Conveyor Operation and Maintenance
+7233.0600,"Mechanic, Gas/Diesel Engine"
+7233.0700,"Mechanic, Earth Moving Machinery"
+7233.0701,Mobile Equipment Maintenance
+7233.0800,"Mechanic, Road Roller"
+7233.0900,"Mechanic, Turbine"
+7233.1000,"Mechanic, Stationery Steam Engine"
+7233.1100,"Mechanic, Maintenance, Chemical"
+7233.1200,Millwright
+7233.1300,"Mechanic, Pump"
+7233.1301,Plumber (Pumps & E/M Mechanic)
+7233.1400,"Mechanic, Dairy Maintenance"
+7233.1500,"Mechanic, Mining Machinery"
+7233.1600,"Mechanic, Textile Machinery"
+7233.1700,"Mechanic, Printing Machinery"
+7233.1800,"Mechanic, Sewing Machine"
+7233.1900,"Lamp Repairman, Mines"
+7233.2000,"Mechanic, Repairman (Domestic"
+7233.2100,"Fitter, Stationery Steam Engine"
+7233.2200,"Fitter, Marine"
+7233.2300,"Fitter, Railway Carriage and Wagon"
+7233.2400,"Fitter, Loco"
+7233.2500,Loco Cleaner
+7233.2600,"Fitter, Bicycle"
+7233.2700,"Fitter, Signal"
+7233.2800,Agriculture Engineering Technician
+7233.2901,Fitter: Hydraulic and Pneumatic System
+7233.9900,"Machinery Mechanics and Fitters, Other"
+7311.0100,"Mechanic Precision Instrument, General"
+7311.0101,Technician Instrumentation
+7311.0200,Watch Repairer
+7311.0300,Assembler (Clock & Watch)
+7311.0400,"Mechanic Precision Instrument, Mechanical"
+7311.0401,Fitter Instrumentation
+7311.0500,"Viewer, Workshop"
+7311.0600,"Mechanic, Atomizer and Fuel Pump (Diesel)"
+7311.0800,"Mechanic, Optical Instrument"
+7311.0900,"Calibrator, Glass"
+7311.1000,Calibrator (Instrument & Apparatus)
+7311.1001,Calibration Technician
+7311.1002,Calibration Engineer
+7311.1100,"Calibrator, Other"
+7311.1200,Orthopaedic Appliances and Limb
+7311.1400,"Instrument Maker, Other"
+7311.9900,"Precision Instrument Makers and Repairers,"
+7312.0100,Musical Instrument Maker (String )
+7312.0200,Harmonium Maker
+7312.0300,Harmonium Key Maker
+7312.0400,Harmonium Fitter
+7312.0500,Bellow Man (Harmonium)
+7312.0600,Reed Fitter (Harmonium)
+7312.0800,Finisher (Harmonium)
+7312.1000,Organ Tuner
+7312.1200,Piano Tuner
+7312.1300,Tabla Maker (Musical Instrument)
+7312.1400,"Drum Maker, Musical"
+7312.1500,Clarinet Assembler
+7312.1600,Bagpipe Maker
+7312.1700,Brass Musical Instruments Assembler
+7312.1800,Musical Instrument Repairer
+7312.9900,"Musical Instrument Makers and Tuners,"
+7313.0100,"Roller, Gold and Silver"
+7313.0101,Jewellery Polisher
+7313.0102,Plater
+7313.0103,Filer and Assembler
+7313.0201,"Wire Maker, Gold and Silver/Component"
+7313.0202,Gemstone Thread Maker
+7313.0301,"Gold Curer, General/Gold Refiner"
+7313.0401,"Gold Curer, Mint/Gold Melter and Refiner"
+7313.0500,Gold Foil Maker
+7313.0600,"Leaf Maker, Gold and Silver"
+7313.0700,Goldsmith
+7313.0701,Polisher and Cleaner
+7313.0702,Goldsmith Enameller
+7313.0703,Goldsmith Frame Maker
+7313.0801,Jewel Setter/Setter
+7313.0802,Metal Setter
+7313.0803,Wax Setter
+7313.0804,Wax Tree Maker
+7313.0901,Gem Sorter
+7313.0902,Rough Assorter
+7313.0903,Rough Marker
+7313.1001,Gem Slicer/Gemstone Rough Cutter
+7313.1101,Gem Cleaver
+7313.1201,Inclusion Plotter
+7313.1202,Planner
+7313.1300,"Gem Grinder, Hand"
+7313.1301,Manual Bruter
+7313.1302,Auto Blocker
+7313.1303,Gemstone Facet Maker
+7313.1304,Table Cutter
+7313.1305,Manual Blocker
+7313.1306,Auto Bruter
+7313.1400,"Gem Polisher, Hand"
+7313.1501,Diamond Assorter
+7313.1502,Polished Diamond Grader & Assorter (Basic)
+7313.1503,Polished Diamond Grader & Assorter
+7313.1504,Bottom Polisher
+7313.1505,Gemstone Girdle Polisher
+7313.1506,Gemstone Polisher
+7313.1601,Gemstone Pre -Shaper
+7313.1602,Gemstone Final Shaper and Calibrator
+7313.1701,Gem Driller
+7313.1702,Window Opener
+7313.1800,Jewellery Engraver
+7313.1900,Engraver
+7313.2200,"Embosser, Sheet"
+7313.2300,"Inlayer, Metal"
+7313.2401,Rubber Mould Maker
+7313.2402,Wax Piece Maker
+7313.2501,Boiling In-Charge
+7313.2601,Final Quality Inspector
+7313.9900,"Jewellery, Goldsmith and Silversmith"
+7314.0100,"Mould Maker, Pottery and Porcelain"
+7314.0200,"Caster, Pottery and Porcelain"
+7314.0300,Clay Toy Maker/Hand Moulder
+7314.0400,"Moulder, Hand (Ceramics)"
+7314.0500,Maker (Pottery and Porcelain)/Jigger and
+7314.0600,Turner Pottery and Porcelain
+7314.0700,"Bricks and Tile Moulder, Hand"
+7314.0800,Abrasive Wheel Moulder
+7314.0900,Potter (Pottery and Porcelain)/Potter's
+7314.1000,Granulator Attendant (Cement)
+7314.1100,Clay Maker (Pottery)
+7314.1200,Checker (Ceramics)
+7314.1300,"Sorter, Brick and Tile"
+7314.9900,"Abrasive Wheel Formers, Potters and"
+7315.0100,"Blower, Glass"
+7315.0200,"Blower, Laboratory Apparatus"
+7315.0300,Blower Helper (Glass)
+7315.0600,Mouldman (Glass)
+7315.0700,Bender (Glass)
+7315.0800,Gatherer (Glass)
+7315.0900,Drawer (Glass)
+7315.1000,Bead Maker (Glass)
+7315.1100,Optical Worker
+7315.1200,Lens Grinder
+7315.1300,Edger (Optical glass)
+7315.1400,Lens Polisher (Optical)
+7315.1500,Lens Centerer and Edger (Optical Glass)
+7315.1600,Wheel Grinder (Glass)
+7315.1700,Edge Finisher (Glass)
+7315.1800,"Cutter, Glass Bangles"
+7315.1900,Cooling Man (Glass)
+7315.2000,"Glass Cutter, Other"
+7315.2100,"Joiner, Glass Bangles"
+7315.2200,"Crusher Attendant, Stone"
+7315.2300,Grinder (Stone and Clay)
+7315.2400,"Sorter, Glass Products"
+7315.9900,"Glass Makers, Cutters, Grinders and"
+7316.0100,"Engraver, Glass"
+7316.0200,Glass Etcher
+7316.0300,Sand Blaster (Glass)
+7316.0400,Volume Man/Calibrating Technician
+7316.0500,Waxing Man (Glass)/Helper
+7316.0600,Glass Enameller
+7316.0700,Hand Painter (Ceramics)
+7316.0800,Decorator (Ceramics)
+7316.0900,"Spray Painter, (Ceramics)"
+7316.1000,"Glazer, Pottery and Porcelain"
+7316.1100,Mirror Silverer
+7316.1200,"Signwriter, Decorative Painters, Engravers"
+7317.0100,Lamp Shade Maker
+7317.0300,"Furniture Maker, Bamboo"
+7317.0400,"Furniture Maker, Reed"
+7317.0500,"Furniture Maker, Cane"
+7317.0600,Caner
+7317.0700,Basket Maker
+7317.0800,"Mat Weaver, Bamboo"
+7317.0900,"Mat Weaver, Grass and Leave"
+7317.1000,Broom Maker
+7317.1100,Chick Maker
+7317.1200,Khas Thatti Maker
+7317.1300,Brush Material Preparer
+7317.1400,"Brush Maker, Hand"
+7317.9900,"Basketry Weavers, Brush Makers and"
+7318.0100,Candle Maker
+7318.0200,Candle Moulder
+7318.0300,Carpet Weaver (Carpet & Rug)
+7318.0400,"Knitting Machine Operator, Automatic"
+7318.0500,"Hand Printer, Textile/Hand Block Printer"
+7318.0600,Hand Dyer
+7318.0800,"Repairer, Fabrics/Fabric Mender"
+7318.0900,"Bale Breaker Tenter, Cotton/Blow Room"
+7318.1000,"Batching Worker , Wool"
+7318.1100,Wool Sorter
+7318.1200,"Selector, Jute"
+7318.1300,"Grader, Coir"
+7318.1500,Waste Machine Man (Cotton Textile)/Waste
+7318.1800,"Scouring Man, Wool/Wool Washing and"
+7318.1900,Cooker (Silkworm)
+7318.2000,"Softener Feeder and Receiver, Jute"
+7318.2100,"Root Cutter, Jute"
+7318.2200,Teaser (Feeder and Receiver) Jute
+7318.2300,"Fibre Preparer, Coir"
+7318.2700,"Cardtenter, Cotton/Carding Tenter"
+7318.2800,"Set Framer, Silk"
+7318.2900,Sliver Lap Man/Combing Preparatory
+7318.3400,Comb Minder/Combing Preparatory
+7318.3500,Gill Box Man
+7318.3600,"Spreader Feeder, Jute"
+7318.3700,"Spreader, Receiver,  Jute"
+7318.3800,"Breaker Feeder, Jute"
+7318.4000,"Finisher Feeder, Jute"
+7318.4200,Hand Spinner (Cotton and Woollen Textile)
+7318.4300,Piecer
+7318.4500,"Spinner, Jute"
+7318.4600,"Spinner, Coir"
+7318.4700,Twister
+7318.4800,"Doffer, Spinning/Ring Spinning Doffer"
+7318.4900,"Knotter, Silk"
+7318.5000,Beam Gaiter
+7318.5100,"Lacer, Hand"
+7318.5200,Lattice Pegger
+7318.5300,"Reacher, Hand (Textile)"
+7318.5500,Weaver Power Loom
+7318.5800,"Weaver, Handloom"
+7318.5900,"Carpet Weaver, Hand Knitting"
+7318.6000,"Carpet Clipper, Hand"
+7318.6100,Carpet Embosser
+7318.6200,Carpet Repairer
+7318.6300,Coir Weaver (Matting)
+7318.6400,"Net Maker, Hand"
+7318.6500,"Crochet Worker, Hand"
+7318.6600,"Knitter, Hand"
+7318.6700,"Braid Maker, Hand"
+7318.9900,"Handicraft Workers in Textiles, Leather and"
+7321.0100,"Compositor, Hand"
+7321.0200,Impositor
+7321.0300,Distributor (Letter Press)
+7321.0400,Composing Room Operatives
+7321.0500,Stereo Matrix Moulder
+7321.0600,Stereotype Caster
+7321.0700,Electrotyper
+7321.0800,Lithographic Artist
+7321.0801,Circuit Imaging Operator
+7321.0802,Circuit Imaging Operator – Photo Imaging
+7321.0900,"Retoucher, Lithographic"
+7321.1000,Mounter/Mounting Machine Operator/CNC
+7321.1200,"Cameraman, Photomechanical"
+7321.1300,Microstat Cameraman
+7321.1400,Photostat Camera Operator/Photocopier
+7321.1500,"Transferor, Photomechanical"
+7321.1600,Etcher Photo Engraving
+7321.1700,"Barman, Lino Machine"
+7321.9900,"Pre-Press Technicians, Others"
+7322.0200,Lino Operator
+7322.0300,Mono Operator
+7322.0400,Mono Caster
+7322.0500,Type Caster
+7322.0600,"Maker -Up, Photo Type Setting"
+7322.0700,Photo Type Setting Machine Operator
+7322.0800,Type Dresser
+7322.0900,"Roller Maker, Paper Printing"
+7322.1000,Braille – Duplicating Machine Operator
+7322.1100,"Stencil Cutter, Silk Screen Printing"
+7322.1200,Silk Screen Printer
+7322.1300,Printing Jobber
+7322.1400,Colour Maker (Textile Product)
+7322.1500,Precision Printing Worker
+7322.1600,Frontman
+7322.1700,"Pressman (Flatbed, Letter Press)"
+7322.1800,"Machineman, Hand Printing"
+7322.1900,"Machineman, Automatic Printing"
+7322.2000,"Machineman, Rotary Printing"
+7322.2100,"Machineman, Offset Printing"
+7322.2200,"Machineman, Direct Lithographic Printing"
+7322.2300,"Pressman, Roto  Gravure"
+7322.9900,"Printers, Others"
+7323.0100,Book Binder
+7323.0200,Map and Chart Mounter
+7323.0300,Book Mender
+7323.0400,Book Binding Worker
+7323.9900,"Book Binders and Related Workers, Other"
+7411.0100,"Electrician, General"
+7411.0101,Access Controls Installation Technician
+7411.0102,CCTV Installation Technician
+7411.0200,Electrician (Mines)
+7411.0301,"Wireman, Light and Power"
+7411.0500,"Meter Sealer, Electrical"
+7411.0600,"Electrician, Stage and Studio"
+7411.9900,"Building and Related Electricians, Other"
+7412.0100,"Mechanic, Precision Instrument, Electrical"
+7412.0101,Automation Specialist
+7412.0102,In-Circuit Testing Machine Operator
+7412.0103,Automated Optical Inspection Operator
+7412.0104,Bare Board Testing Operator
+7412.0200,Electrical Fitter
+7412.0201,Fitter – Electrical and Electronic Assembly
+7412.0202,Mechanical Fitter
+7412.0203,Fitter Electrical Assembly
+7412.0300,"Adjuster, Relays"
+7412.0400,Armature Winder
+7412.0500,"Coil Winder, Machine"
+7412.0600,"Electrician, Aircraft"
+7412.0701,"Electrician, Automobile"
+7412.0801,Maintenance Assistant/Helper
+7412.0901,Potting and Curing Operator
+7412.1001,Mechanical Fitter – Control Panel
+7412.1002,Site Engineer – Control Panel
+7412.9900,"Electrical Mechanics and Fitters, Other"
+7413.0100,"Lineman, Light and Power"
+7413.9900,"Electrical Line Installers, Repairers and"
+7419.0100,Senior Functioner (Telephone Equipment
+7419.0200,Junior Functioner (Telephone Equipment
+7419.0300,Wiring Inspector and Bank Tester
+7419.0400,"Inspector, Assembly (Telephone Equipment"
+7419.0500,Battery Servicing Man
+7419.0600,"Operator, Impregnation Plant (Telephone"
+7419.9900,Electrical and Electronic Equipment
+7421.0100,"Electronics Fitter, General"
+7421.0101,Fitter  Electronic Assembly
+7421.0300,Electronic Mechanic
+7421.0401,Field Technician: Air -Conditioner
+7421.0501,Field Technician: Refrigerator
+7421.0601,Field Technician: Washing Machine
+7421.0701,Field Technician: Other Home Appliances
+7421.0801,Field Technician: UPS and Inverter
+7421.0901,Field Technician: Digital Camera
+7421.1001,Field Engineer – RACW
+7421.1101,Repair Assistant: Switches
+7421.1201,Auto -Tester Capacitor
+7421.1202,Testing Technician
+7421.1301,TV Repair Technician
+7421.1302,Field Engineer TV
+7421.1401,Solar Panel Installation Technician
+7421.1402,Solar Photo Voltaic System Installation
+7421.1403,PV System Installation Engineer
+7421.9900,"Electronic Fitters, Mechanics and Servicers,"
+7422.0100,Installation Mechanic
+7422.0200,Maintenance Mechanic
+7422.0201,Fault Management Engineer
+7422.0202,Grass Root Telecom Provider (GRTP)
+7422.0203,Handset Repair Engineer (Level II)
+7422.0204,Infrastructure Engineer
+7422.0400,"Lineman, Telephone and Telegraph"
+7422.0600,"Fault Controller, Telephones"
+7422.0700,Carrier Attendant (Telephone) and
+7422.0800,Cable Jointer
+7422.0801,Optical Fibre Technician
+7422.0802,Optical Fibre Splicer
+7422.0900,Radar Mechanic
+7422.1000,X-Ray Mechanic
+7422.1001,Installation and Service Engineer
+7422.1100,Television Installation Man
+7422.1200,Cable Television Installer
+7422.1201,Set-Top Box Installer/Service Technician
+7422.1202,DTH Set -Top Box Installer and Service
+7422.1203,DAS Set -Top Box Installer and Service
+7422.1300,Television Service and Repairman
+7422.1302,Television Repair Technician
+7422.1400,Radio Technician (Radio Manufacturing)
+7422.1500,Radio Mechanic
+7422.1600,"Radio Craftsman, Installation"
+7422.1700,"Radio Craftsman, Maintenance"
+7422.1801,Site Surveyor/R F Site Surveyor
+7422.1901,Assembly Line Operator
+7422.2001,Field Technician: (Computing and
+7422.2002,Installation (Computing and Peripherals)
+7422.2101,Field Technician: (Networking and Storage)
+7422.2201,Test and Repair Technician
+7422.2301,Smartphones Repair Technician
+7422.3001,Tower Technician
+7422.9900,Information and Communications
+7511.0100,Butcher
+7511.0200,Slaughterer
+7511.0300,Sausage Maker
+7511.0400,Briner
+7511.0500,Pickler (Meat Product)
+7511.0600,Shactor
+7511.9900,"Butchers, Fishmongers and Related Food"
+7512.0100,Baker (Baking Products)
+7512.0200,Mixing Machine Attendant
+7512.0300,Ovenman (Bakery Products)
+7512.0400,Sweet Meat Maker
+7512.0500,Candy Maker
+7512.0600,Panman  (Confectionery)
+7512.0700,"Plate Worker, Confectionery"
+7512.0800,Chocolate Maker
+7512.0900,Conche Operator (Sugar & Confectionery)
+7512.1000,Yeast Maker (Beverage)
+7512.9900,"Bakers, Pastry Cooks and Confectionery"
+7513.0100,"Dairy Worker, General"
+7513.0200,Separator Man
+7513.0300,Butter Maker
+7513.0400,Cheese Maker
+7513.0500,Ice-Cream Maker
+7513.9900,"Dairy Products Makers, Others"
+7514.0100,Oil Expeller Man
+7514.0200,"Oil Crusher Operator, Animal -Driven"
+7514.0300,"Grinder, Hand (Food Grain)"
+7514.0400,"Pounder, Hand (Food Grain)"
+7514.0500,Parcher (Food Grain)
+7514.0600,"Washing Machine Attendant, Cleaner (Food"
+7514.0700,"Cook, General (Food Canning and"
+7514.0800,Condiment Maker (Food Canning &
+7514.0900,Cannery Worker (Can & Preservation)
+7514.1000,Pickler (Can & Preservation)
+7514.1100,"Preservative Filler, Machine (Can &"
+7514.9900,"Fruits, Vegetables and Related Preservers,"
+7515.0100,Tea Taster
+7515.0200,Liquor Taster
+7515.0300,Taster (Food)
+7515.0400,"Grader, Meat"
+7515.9900,"Food and Beverage Tasters and Graders,"
+7516.0100,Tobacco Curer
+7516.0200,Tobacco Grader
+7516.0300,"Blender, Tobacco"
+7516.0400,"Conditioner, Tobacco"
+7516.0500,Cigar or Cheroot Roller
+7516.0600,Cigar or Cheroot Roller Helper
+7516.0700,Bidi Maker
+7516.0800,"Furnace Man, Bidi"
+7516.0900,Bidi Checker
+7516.1000,Snuff Maker
+7516.1100,Chewing Tobacco Maker
+7516.9900,Tobacco Preparers and Tobacco Products
+7521.0100,"Kiln Operator, Wood"
+7521.0200,"Impregnator, Wood"
+7521.0300,Wood Bender
+7521.0400,Wood Treater
+7521.0500,Grader (Wood Working)
+7521.9900,"Wood Treaters, Other"
+7522.0100,"Furniture Maker, Wood"
+7522.0200,Cabinet Maker
+7522.0600,"Body Builder, Automobile"
+7522.0700,"Coach Builder, Railway"
+7522.0800,"Body Builder, Other Vehicles"
+7522.0900,Wood Marker
+7522.1000,"Pattern Marker, Wood"
+7522.1100,Cooper
+7522.1200,"Wood Carver, Hand"
+7522.1300,"Inlayer, Wood"
+7522.1400,"Toy Maker, Wood"
+7522.1500,"Pith Worker, Wood"
+7522.1600,Picture Frame Maker
+7522.1800,"Sports Goods Maker, Wood"
+7522.1900,Wood Lacquerer
+7522.2000,Wood Polisher
+7522.2100,Paper Board Maker
+7522.9900,"Cabinet Makers and Related Workers, Other"
+7523.0100,"Wood Machinist, General"
+7523.0200,"Wood  Turner, Machine"
+7523.0300,"Wood, Turner Hand"
+7523.0400,Shaper Wood
+7523.0500,"Router, Wood"
+7523.0600,"Planer, Wood"
+7523.0700,Four Cutter
+7523.0800,"Wood Sawyer, Hand"
+7523.0900,"Moulder, Wood"
+7523.1000,Mortiser Operator
+7523.1100,Tennoning Machine Operator
+7523.1200,Jointer Machine Operator
+7523.1300,Driller Wood
+7523.1400,Dowell Machine Operator
+7523.1500,Wood Wool Machine Operator
+7523.1600,"Wood Carver, Machine"
+7523.1700,Fret Saw Machine Operator
+7523.1800,Sander Operator
+7523.9900,Wood Working Machine Setters and Setter
+7531.0100,"Tailor, General"
+7531.0101,Sampling Tailor
+7531.0200,Dressmaker/Ladies Dressmaker
+7531.0300,Coat Maker
+7531.0400,Trouser Maker
+7531.0500,Shirt Maker
+7531.0700,"Hat Maker, General"
+7531.0900,Cap Maker
+7531.1000,Wig Maker
+7531.1200,"Tailor, Fur"
+7531.1300,"Pattern Maker, Fur"
+7531.1400,"Grader and Matcher, Fur"
+7531.1500,"Cutter, Fur"
+7531.1600,"Nailor, Fur"
+7531.9900,"Tailors, Dressmakers, Furriers and Hatters,"
+7532.0100,Designer (Garment)
+7532.0200,"Designer, Leather Articles"
+7532.0300,Case Finisher (Leather Product)
+7532.0500,"Frame Maker, Cap"
+7532.0600,Master Cutter (Garment)
+7532.0700,"Cutter, Hand (Textile Product)"
+7532.0900,"Cutter, Machine (Textile Product)"
+7532.0901,Garment Cutter (CAM)
+7532.0902,"Advance Pattern Maker, Garment"
+7532.0903,Layerman
+7532.1000,"Cutter, Garment (Leather)"
+7532.1001,"Cutter, Goods and Garments (Leather)"
+7532.1100,"Cutter, Gloves (Leather)"
+7532.1200,Button Hole Maker
+7532.1300,Cutter Tent
+7532.9900,Garment and Related Pattern Makers and
+7533.0100,"Sewer, Hand"
+7533.0201,"Hand Embroiderer, General"
+7533.0300,"Hand Embroiderer, Zari/Hand Embroider,"
+7533.0600,Darner
+7533.0700,"Sewer, Tent (Hand)"
+7533.0800,Umbrella Maker
+7533.0900,Umbrella Examiner
+7533.1000,Sail and Awning Maker
+7533.1100,"Tailor, Tent (Machine)"
+7533.1200,Doll Maker
+7533.9900,"Sewers, Embroiderers and Related Workers,"
+7534.0100,"Upholsterer, Furniture"
+7534.0200,"Upholsterer, Orthopaedic Appliances"
+7534.0300,"Upholsterer, Vehicle"
+7534.0400,Cushion Maker
+7534.0500,Mattress Maker (Spring)
+7534.9900,"Upholsterers and Related Workers, Other"
+7535.0100,"Sorter, Hides and Skin"
+7535.0200,Flayer
+7535.0300,"Lime Pitman, Leather"
+7535.0400,"Dehairer, Hand"
+7535.0500,"Flesher, Hand"
+7535.0600,Delimer
+7535.0700,"Scudder, Hand"
+7535.0900,"Fluffer, Hand"
+7535.1000,"Staker, Hand"
+7535.1100,Bark Pitman (Tanning)
+7535.1200,Drum Man (Tanning)
+7535.1300,"Leather, Currier"
+7535.1400,"Dyer, Leather"
+7535.1500,"Embosser, Leather"
+7535.1600,"Seasoner, Leather"
+7535.1700,"Pelt Dresser, General"
+7535.1800,Pelt Grader
+7535.1900,Pelt Flesher
+7535.2000,Pelt Plucker and Trimmer
+7535.2100,"Pelt Dyer, Hand"
+7535.2200,"Pelt, Stitcher"
+7535.9900,"Pelt Dressers, Tanners and Fell Mongers,"
+7536.0100,"Shoemaker, Hand"
+7536.0200,"Shoemaker, Orthopaedic"
+7536.0300,"Shoe Repairer, Cobbler/Shoemaker Cobbler"
+7536.0400,Pattern Maker (Footwear)
+7536.0500,"Cutter, Hand"
+7536.0600,"Skiver, Hand (Footwear)"
+7536.0800,"Laster, Hand"
+7536.1200,Counter Moulder
+7536.1500,"Sole Stitcher, Hand"
+7536.1600,"Heel Attacher, Hand (Footwear)"
+7536.1700,"Trimmer, Hand"
+7536.1800,Harness Maker
+7536.1900,Saddler
+7536.2000,"Leather Cutter, Hand"
+7536.2100,"Stitcher, Hand"
+7536.2200,"Assembler, Hand"
+7536.2300,Suitcase Maker
+7536.2400,Purse Maker
+7536.2500,Whip Maker
+7536.2600,Belt Maker
+7536.2700,Horn Comb Maker (Hand)
+7536.9900,"Shoemaker and Related Workers, Other"
+7541.0100,"Diver, Pearl"
+7541.0200,"Diver, Chank"
+7541.0300,Coral Breaker
+7541.0400,Shell Gatherer
+7541.0500,Seaweed Gatherer
+7541.0600,Dress  Diver
+7541.0700,Skin Diver
+7541.9900,"Underwater Divers, Other"
+7542.0100,Shotfirer
+7542.0101,Person Handling Explosives
+7542.0200,Safety Lamp Checker
+7542.0300,"Cobber, Mica"
+7542.0400,"Sickle Dresser, Mica"
+7542.0500,"Screener, Mica"
+7542.0600,"Knife Dresser, Mica"
+7542.0700,"Film Splitter, Mica"
+7542.0800,Deep Cell Attendant
+7542.9900,"Shotfirers  and Blasters, Other"
+7543.0101,Cloth Examiner/Fabric Checker
+7543.0201,QC Executive – Sewing Line
+7543.0202,Quality Assessor
+7543.0300,"Examiner, (Footwear)/Quality Controller"
+7543.0301,Measurement Checker
+7543.0302,Inline Checker
+7543.0400,"Examiner, Dry Cleaning/Fabric Inspection"
+7543.0500,"Examiner, Wood Working"
+7543.0701,Incoming QC Technician
+7543.0702,Final Product QC Technician
+7543.0801,Functional Tester
+7543.0802,Performance Tester
+7543.0803,Reliability Tester
+7543.0804,Safety Testing Technician
+7543.0901,Functional Tester – Medical Devices
+7543.1001,Functional Tester – RAC
+7543.1002,Functional Tester – TV
+7543.1003,Safety Testing Technician – TV
+7543.1004,Safety Testing Technician – RACW
+7543.1005,Performance Tester – RACW
+7543.1006,Performance Tester – TV
+7543.1101,Testing Technician
+7543.2001,"Quality Inspector – Forged, Casted or"
+7543.3001,Quality Control Inspector – Calendering
+7543.3002,Quality Control Inspector – Dimension
+7543.3003,Quality Control Inspector – Extrusion
+7543.3004,Quality Control Inspector – Statistical
+7543.3005,Quality Control Inspector – Visual
+7543.4001,Factory Compliance Auditor
+7543.5001,Sampling Co -Ordinator
+7543.9900,"Product Graders and Testers, Others"
+8111.0100,"Miner, Coal Cutting Machine"
+8111.0200,"Driller, Machine"
+8111.0300,Wagon Driller
+8111.0400,Diamond Driller
+8111.0401,Rig Mouted Drill Operator
+8111.0500,Pick Miners
+8111.0600,"Miner, Metal"
+8111.0700,"Miner, Mica"
+8111.0800,"Miner, Coal"
+8111.0900,"Quarryman, Stone/Quarryman, Non -Metal"
+8111.1000,"Quarryman, Other"
+8111.1100,Main Header Colliery
+8111.1200,"Stone Cutter, Mines"
+8111.1300,"Roof Bolter, Mining"
+8111.1400,Mine Cutting and Channelling Machine
+8111.1500,"Timberman, Mines"
+8111.1600,"Creeperman, Colliery"
+8111.1700,Stowing Worker
+8111.1800,"Packer, Rock"
+8111.1900,"Sampler, Mining/Sampler Metal/Non -Metal"
+8111.2000,"Groove Cutter, Mining"
+8111.2100,Bratticeman
+8111.2200,"Driller, Hand"
+8111.2300,Shaft Worker
+8111.2400,Banksman
+8111.2500,Jackman
+8111.2600,"Scraper Driver, Mines"
+8111.2601,Sprinkler and Other Vehicle Driver
+8111.2700,"Shovel Operator, Mines"
+8111.2800,"Trammer, Mines"
+8111.2901,Wire Saw Operator
+8111.9900,"Mines, Quarrymen and Related Workers,"
+8112.0100,"Crusher Operator, Mineral"
+8112.0200,Pulveriser Operator
+8112.0300,Stamp Mill Operator
+8112.0400,Cynideman
+8112.0500,Precipitator
+8112.0600,Washing Plant Operator
+8112.0700,"Stone Sawyer, Machine"
+8112.0800,"Stone Cutter, Machine"
+8112.0900,"Stone Polisher, Machine"
+8112.1000,"Pipe Machineman, Stoneware"
+8112.1100,"Thread Cutting Machine Operator,"
+8112.1200,Cone Operator (Mine & Quarry)
+8112.9900,Mineral and Stone Processing Plant
+8113.0100,"Well Drillers, Petroleum and Gas"
+8113.0200,Derrickman
+8113.0300,Mudman
+8113.0400,Cementer
+8113.0500,Well Puller
+8113.0600,Scaperman
+8113.0700,Gauger
+8113.0800,"Well Driller, Machine (Other than"
+8113.9900,Well Drillers and Borers and Related
+8114.0100,Polishing Machine Operator (Mosaic)
+8114.0200,Batching and Mixing Plant Operator
+8114.0300,Concrete Mixer Operator
+8114.0500,Cast Stone Maker
+8114.0600,Lead Brush Maker (Abrasive Wheel)
+8114.0700,Fettler (Brick & Tile)
+8114.9900,Cement and Other Mineral Products
+8121.0300,"Larry Car Driver, Furnace"
+8121.2300,Shearing and Upcoiler Operator (Non -
+8121.2400,Flattening Machine and Flying Shear
+8121.2500,Slitting Machine Operator (Non -Ferrous
+8121.2700,"Roller, Second Hand, Strip Mill (Non -Ferrous"
+8121.3000,"Charger, Reveraberatory, Pulverised Coal"
+8121.3100,"Melter Reveraberatory – Furnace,"
+8121.3300,Slag Flusher
+8121.3301,Casting or Foundry Assistant/Helper
+8121.3701,Heat Treating Furnace Operator
+8121.3801,Assistant Casting Technician
+8121.4200,Die Casting Machine Operator
+8121.4201,Pressure Die Casting (PDC) Operator
+8121.4300,Casting Machine Operator (Non -Ferrous
+8121.4400,Casting – Operator Helper (Non -Ferrous
+8121.4500,Spun Pipe Machine Operator
+8121.4600,"Core Maker, Machine"
+8121.4700,"Annealer, Metal"
+8121.4800,"Hardener, Metal"
+8121.4900,"Temperer, Metal"
+8121.5200,"Looper, Metal Drawing"
+8121.5500,Seamless Pipe and Tube Drawers
+8121.5600,Extrusion Press Operator
+8121.5800,Metal Drawing Operatives
+8121.9900,"Metal Processing Plant Operators, Other"
+8122.0100,Electroplater
+8122.0101,Surface Treatment Technician
+8122.2000,"Enameller, Chemical"
+8122.3000,Reeling Machine Operator
+8122.3500,"Galvanizer/Operator – Electroplating,"
+8122.5500,Metal Sprayer
+8122.6000,"Sample Checker, Metal Making"
+8122.6200,Shot Blaster
+8122.6700,Picker
+8122.6900,"Hardness Tester, Metal"
+8122.7000,Speeder Machine Operator (Abrasive
+8122.7100,Sizing Machine Operator (Abrasive Wheel)
+8122.7200,Abrasive Coated Cloth and Papermaker
+8122.7300,Skiving Machine Operator (Abrasive)
+8122.7400,Belt Press Operator (Abrasive)
+8122.7500,Roll Winding Machine Operator (Abrasive)
+8122.7600,Sheet Cutter (Abrasive)
+8122.7700,Slitting Machine Operator (Abrasive)
+8122.7800,Clicker Press Operator (Abrasive)
+8122.7900,Splint Feeder (Match)
+8122.8000,Splint Drying Chamberman (Match)
+8122.8100,Levelling Machine Attendant (Match)
+8122.9900,"Metal Finishing, Plating and Coating"
+8131.0100,"Crusher Operator, Chemical"
+8131.0200,Miller/Mill Operator (Chemical)
+8131.0300,"Pulveriser Operator, Chemical"
+8131.0400,Mixing Machineman Attendant (Chemical)
+8131.0500,Compounding Man (Match)
+8131.0800,"Sieving Machine Attendant, Chemical"
+8131.0900,Grading Machine Attendant (Abrasive)
+8131.1400,Drying Chamber Attendant
+8131.1500,Drying Chamber Attendant (Match
+8131.1700,Size Maker (Abrasive)
+8131.1800,Paste Maker
+8131.2100,Ammonia Operator/Ammonia Plant
+8131.2200,Heat Treater
+8131.2300,Filter Press Operator
+8131.2400,Filter Press Operator (Ceramics)
+8131.2500,"Strainer, Liquid"
+8131.2600,Box Filtration Operator
+8131.2700,Hydro Extractor Operator
+8131.2800,Crude Oil Treater (Oil Field)
+8131.2900,Gauger (Cement)
+8131.3000,Disc Operator (Abrasive)
+8131.3100,Crude Oil Treater  (Petrol & Gas)
+8131.3200,Brine Maker (Chemical)
+8131.3501,Autoclave Operator
+8131.3600,Evaporator Operator
+8131.3700,Reactor Convertor Operator
+8131.3800,Converter Operator (Grain Feed Mills)
+8131.3900,Distiller (Chemical)
+8131.4000,Continuous Machine Operator (Match Box
+8131.4100,Receiver (Match)
+8131.4200,Box Making Machine Operator (Match)
+8131.4300,Box Filling Machine Operator (Match)
+8131.4400,Friction Machine Operator (Match)
+8131.4500,Box Closing Machine Operator (Match)
+8131.4600,Bandroll and Labelling Machine Operator
+8131.4900,"Coke Oven Operator, Controller"
+8131.5600,"Charcoal Burner, Beehive Kiln (Chemical)"
+8131.5800,Producer Gas Plant Operator
+8131.5900,"Bale Cutter Operator, Rubber"
+8131.6000,"Masticator, Rubber"
+8131.6100,Straining Operator (Rubber Reclaim)
+8131.6200,"Mixer, Rubber/Mill Operator"
+8131.6300,"Solution and Dough Making, Operator,"
+8131.6400,Synthetic Fibre Maker
+8131.6500,Refining Machine Operator (Oils and
+8131.6600,Hydrogenation Operator (Oil & Fats)/Oil
+8131.6700,Deodorizer
+8131.6800,Crystallisation Attendant
+8131.7000,Tablet Machine Operator
+8131.7100,Tablet Coater
+8131.7200,Ampoule Machine/Plant Operator
+8131.7500,M.B. Tester
+8131.7600,"Optical Examiner, Ampoules"
+8131.7700,Acid Plant Operator
+8131.7800,Sulphur Burner
+8131.8000,Acid Concentrator
+8131.8100,"Acid Worker, Other"
+8131.8200,"Cell Room Attendant, Chemical"
+8131.8300,Gas Storage Attendant
+8131.8400,Soap Machine Attendant
+8131.8500,"Extraction Attendant, Chemical"
+8131.8700,Laboratory Attendant
+8131.8800,Agarbatti Maker
+8131.8900,Pencil Maker
+8131.9000,"Assembler, Marking Devices (Pen & Pencil)"
+8131.9900,"Chemical Products Machine Operators,"
+8132.0100,Printer Photographic
+8132.0200,"Developer, Photographic"
+8132.0300,"Developer, Automatic (Photofinishing)"
+8132.0400,"Enlarger, Photographic"
+8132.0500,"Retoucher, Photographic"
+8132.0600,Photographic Dark Room Operatives
+8132.0700,"Printing Machine Operator, Photographic"
+8132.0800,Film Developing Machine Operator
+8132.0900,Photographic Film and Papermaker
+8132.1000,Linoleum Maker
+8132.9900,"Photographic Products Machine Operators,"
+8141.0100,Calendar Machine Operator
+8141.0101,Pre- and Post -Calendering Operator
+8141.0200,Cord Dipping Operator
+8141.0300,Extruding Machine Operator (Rubber)
+8141.0301,Feed Extruder Operator
+8141.0302,Tube Extruder Operator
+8141.0400,Rubber Fabric Cutting Machine Operator
+8141.0500,Slitting Machine Operator (Cycle Tyre)
+8141.0600,Bead Maker (Rubber Tyre)
+8141.0700,Profiling Operator (Cycle Tyre)
+8141.0711,Continuous Curing Operator
+8141.0712,Roto Curing Operator
+8141.0713,Injection Moulding Operator
+8141.0714,Transfer Moulding Operator
+8141.0715,Internal Mixer Operator
+8141.0716,Kneader Operator
+8141.0800,Finishing Operator (Rubber Tyre)
+8141.0900,Sealing and Valve Fitting Operator
+8141.1000,Finishing Operator (Rubber Tube)
+8141.1100,Sheet Maker (Rubber)
+8141.1201,Moulder (Rubber)/Compression Moulding
+8141.1301,Calenderer Rubberised Fabric/Operator -
+8141.1400,Hose Maker (Rubber Goods)
+8141.1500,Latex Worker
+8141.1600,Latex Foam Cushion Maker
+8141.1701,Tyre Builder/Radial Building Operator
+8141.1702,Tyre Building Operator – Commercial
+8141.1703,Tyre Building Operator – Passenger Vehicles
+8141.1800,Tyre Moulder
+8141.1801,Tyre Moulding Operator
+8141.1900,Band Builder (Tyre Building)
+8141.2000,Trimmer (Tyre Building)
+8141.2100,Tyre Repairer
+8141.2200,"Moulder, Rubber Tube"
+8141.2300,Cycle Tube Reverser
+8141.2400,Rubber Stamp Maker
+8141.9900,"Rubber and Rubberised Product Makers,"
+8142.0100,Tablet Machine Operator
+8142.0200,Laminating Press Operator (Plastic)
+8142.0300,Extruding Machine Setter (Plastic)
+8142.0400,Extruding Machine Operator (Plastic)
+8142.0501,Injection Moulding Machine Operator
+8142.0502,Moulding Operator
+8142.0503,Encapsulation Operator
+8142.0600,Compression Moulding Machine Operator
+8142.0700,Bottle Blowing Machine Operator (Plastic)
+8142.0800,Vacuum Plastic Forming Machine Operator
+8142.0900,Embossing Machine Setter (Plastic)
+8142.1000,Embossing Machine Operator (Plastic)
+8142.1100,Printing Machine Operator (Plastic)
+8142.1200,Button Maker
+8142.1300,Mould Setter (Plastic)
+8142.1301,Plastic Moulding Technician or Operator
+8142.1400,"Moulder, Hand (Plastic)"
+8142.1500,Cementer (Plastic)
+8142.1600,Plastic Fabricator
+8142.9900,"Plastic Products Making Operatives, Other"
+8143.0100,Cardboard Box Maker
+8143.0200,"Envelope Maker, Machine"
+8143.0300,"Cellophane Bag Maker, Machine"
+8143.0400,"Flower Maker, Paper"
+8143.0500,Papier Mache Moulder
+8143.9900,"Paper Product Makers, Other"
+8151.0100,"Garnett Machineman, Woollen"
+8151.0300,Rag Machineman (Woollen Textile)
+8151.0400,Doubling Machine Operator (Textile)
+8151.0500,Combing Tenter
+8151.0600,"Spinner, Frame (Textile)/Ring Frame Tenter"
+8151.0700,Drawing Tenter
+8151.1000,Reeler Textile
+8151.1100,Reed Man
+8151.1200,Healdman (Textile)
+8151.1300,"Reeler, Silk"
+8151.1400,Yarn Tester
+8151.1500,Warping Boy (Textile)/Wrapper
+8151.1600,Pin Setter (Textile)
+8151.1700,Roller Coverer
+8151.1800,Winder Textile/Winding Operator
+8151.1900,Size Mixer (Textile)
+8151.2000,"Waterproofer, Textile"
+8151.2100,"Weighter, Silk"
+8151.2200,Fetler (Woollen Textile)
+8151.9900,"Fibre Preparing, Spinning and Winding"
+8152.0100,Drawing Man
+8152.0200,"Doffer, Fly Frame/Speed Frame Operator"
+8152.0300,Knitting Jobber
+8152.0400,Card Cutter
+8152.0500,Mat Shearing Operator
+8152.0600,"Flat Knitter, Machine/Knitting Machine"
+8152.0700,Sock Knitter/Knitting Machine Operator –
+8152.0800,"Sock Knitter, Automatic Machine"
+8152.0900,"Knitter, Machine/Knitting Machine"
+8152.1000,"Looperman, Hosiery"
+8152.1100,Warp Knitter/Knitting Machine Operator –
+8152.1200,"Weaver, Lace (Machine)"
+8152.1300,"Braid Maker, Machine/Braiding Machine"
+8152.1400,Lace Maker (Machine)
+8152.1600,Warp Tying Machineman
+8152.1700,Wrapper
+8152.2000,Front Sizer (Cotton Textile)
+8152.2100,Back Sizer
+8152.9900,"Weaving and Knitting Machine Operators,"
+8153.0101,"Sewing Machine Operator, General"
+8153.0102,Stitcher (Leather Goods and Garments)
+8153.0103,Specialized Sewing Machine Operator
+8153.0200,"Button Hole Maker, Machine"
+8153.0300,Eyelet Holing Machine Operator
+8153.0400,Button Stitching Machine Operator
+8153.0500,"Embroider, Machine"
+8153.0600,Embroidery Machine Operator (Semi -
+8153.0601,Embroidery Machine Operator (Zig Zag
+8153.0701,Framer – Computerised Embroidery
+8153.0702,Helper – Parts Making (Leather Goods and
+8153.0703,Helper – Finishing Operations (Leather
+8153.9900,"Sewers and Embroiders, Other"
+8154.0200,Kierman (Textile)/Package Dyeing Machine
+8154.0300,"Scouringman, Woollen Yarn"
+8154.0500,Washing Machineman
+8154.0600,"De-Gummer, Silk"
+8154.0700,"Carbonizer, Textile"
+8154.0800,"Scutcherman, Bleaching"
+8154.0900,Dyed - Yarn Operator (Textile)
+8154.1000,Jiggerman (Cotton Textile)/Jigger Machine
+8154.1100,Dye Automation Operator (Textile)/ Dyeing
+8154.1200,Wool Dyer
+8154.1500,Dyer Garment
+8154.1700,Damping Machine Attendant
+8154.1800,Calenderman (Cotton Textile)
+8154.1900,Miller
+8154.2000,Raising Machineman (Textile)
+8154.2100,Stentering Machineman/Stentering
+8154.2200,Cropper
+8154.2300,Padding Machineman/Padding Mangle
+8154.2400,Brushing Machineman (Textile)
+8154.2500,Crabbing Machineman (Woollen Textile)
+8154.2600,Sanforizing Machineman
+8154.2700,Singeing Machineman/Singeing Machine
+8154.9900,"Bleaching, Dyeing and Cleaning Machine"
+8155.0100,"Dehairer, Machine/Dehairer Machine"
+8155.0201,"Flesher, Machine/Fleshing Operator"
+8155.0300,"Scudder, Machine/Scudding Machine"
+8155.0400,"Hide and Skin Setter, Machine/Setting"
+8155.0500,"Hide Splitter, Machine/Splitting Machine"
+8155.0501,Splitting and Sammying Operator (Leather)
+8155.0601,"Hide Shaver, Machine/Shaving Operator"
+8155.0700,"Staker, Machine/Staking Machine Operator"
+8155.0801,"Leather Buffer, Machine/Buffing Operator"
+8155.0900,"Leather Glazer, Machine/Glazing Machine"
+8155.1000,Rolling Machine Operator (Leather)
+8155.1101,"Tanner, Rotary Drum, Continuous Process"
+8155.1102,Post Tanning Machine Operator
+8155.1200,Leather Measuring Machine
+8155.1201,Helper – Wet Operations (Multi -Skilled)
+8155.1202,Helper – Dry Operations (Finished Leather)
+8155.1203,Helper – Finishing Operation(Finished
+8155.9900,Fur And Leather Preparing Machine
+8156.0100,Pounding Machine Operator (Footwear)
+8156.0200,"Heel Breaster, Machine"
+8156.0400,"Heel Builder, Machine (Footwear)/Machine"
+8156.0500,Sole Rounding Machine Operator
+8156.0600,"Nailer, Machine/Machine Operator, Nailing"
+8156.0701,"Cutter, Machine/Cutter (Footwear)"
+8156.0800,"Leather Cutter, Machine"
+8156.0900,"Welt Sewer, Machine/Machine Operator,"
+8156.0901,Stitching Operator (Footwear)
+8156.1001,"Skiver, Machine/Skiving Operator"
+8156.1401,"Laster, Machine/Lasting Operator"
+8156.1500,"Sole Stitcher, Machine"
+8156.1600,"Seat Laster, Machine/Lasting Machine"
+8156.1700,"Splitter, Machine/Splitting Machine"
+8156.1800,"Heeler, Machine/Heel Attacher"
+8156.1900,"Heel Compressor, Machine (Footwear)"
+8156.2000,"Sole Leveller, Machine"
+8156.2100,"Trimmer, Machine"
+8156.2200,"Edge Setter, Machine"
+8156.2300,Edge Burnisher
+8156.2400,Heel Padding Machine Operator
+8156.2500,Eyeleting Machine Operator
+8156.2501,Pre-Assembly Operator
+8156.2600,Riveting Machine Operator
+8156.2601,Helper – Bottom Making (Footwear)
+8156.2602,Helper – Upper Making (Footwear)
+8156.2603,Helper – Finishing (Footwear)
+8156.9900,"Cutting, Lasting and Sewing Machine"
+8157.0100,Washing Machine Operator
+8157.0200,Drying Machine Operator
+8157.0300,"Dry Cleaner, Machine"
+8157.0400,"Presser, Machine/Ironing Operator"
+8157.0401,Pressman
+8159.0100,"Folder, Machine/Folding Machine Operator"
+8159.0200,"Splicing – Machine Operator, Automatic"
+8159.0300,Balling – Machine Operator (Textile)
+8159.0400,Press Operator
+8159.9900,"Leather Cutters, Lasters and Sewers and"
+8160.0300,Pasteurising Plant Operator (Dairy)
+8160.0400,Mixing Tank Operator
+8160.0500,Dairy Processing Equipment Operator
+8160.0700,"Miller, Food Grains"
+8160.0800,"Husker, Machine (Food Grains)"
+8160.0900,"Rollerman, (Food Grains)"
+8160.1000,Flour Mill Operator
+8160.1100,"Siever, Machine"
+8160.1200,"Oil Crusher Operator, Power"
+8160.1300,Filter Press Operator (Oil)
+8160.1500,Wafer Baking Machine Operator (Baking)
+8160.1600,Cooker Operator
+8160.1700,Cutting Machine Operator (Confectionery)
+8160.1800,"Chocolate Maker, Helper"
+8160.1900,"Flake Miller, Wheat and Oats (Grain -Feed"
+8160.2000,Noodle Press Operator
+8160.2200,Peeling Machine Operator (Food Canning
+8160.2300,Pitting Machine Operator (Food Canning
+8160.2400,Fruit Press Operator (Food Canning and
+8160.2500,Seaming Machine Operator (Food Canning
+8160.2600,Retort Operator (Food Canning and
+8160.2700,Processing Man (Food Can ning and
+8160.2800,Panman (Food Canning and Preserving)
+8160.2900,Exhaust Box Operator (Food Canning and
+8160.3000,Foodstuff Freezer
+8160.3100,Peanut Blancher
+8160.3200,Dehydrator Tender (Canning &
+8160.3300,Refining – Machine Operator (Oil & Grease)
+8160.3400,"Crusher Operator, Sugarcane"
+8160.3500,Filter Pressman
+8160.3600,Dorr Clarifier Operator
+8160.3700,"Evaporator Operator, Sugar"
+8160.3800,"Panman, Sugar"
+8160.3900,Crystalizerman
+8160.4000,Centrifugal Man
+8160.4100,Magmaman
+8160.4200,Cutter Driver
+8160.4300,"Cane Carrier Driver, Mill House"
+8160.4400,Raw Juice Tank Pump Attendant
+8160.4500,Juice Measuring Man
+8160.4600,Lime Juice Tank Attendant
+8160.4700,Juice Heater Man
+8160.4800,Juice Heater Helper
+8160.4900,Carbonation Man
+8160.5000,Carbonation Storage Tank Attendant
+8160.5100,"Sulphitation Man, Sugar"
+8160.5200,"Eliminator Attendant, Sugar"
+8160.5300,"Settling Tank Man, Sugar"
+8160.5400,Works Poor Attendant
+8160.5500,Gur Maker
+8160.5700,Tea Maker
+8160.5800,Withering Loft Attendant (Tea)
+8160.5900,Roller Attendant
+8160.6000,Pulp Houseman (Coffee)
+8160.6100,Peeling Machine Attendant (Coffee)
+8160.6200,Firing Machine Attendant (Tea)
+8160.6300,Tea Blender
+8160.6400,Coffee Blender
+8160.6500,Coffee Roaster
+8160.6600,"Roaster, Cocoa Bean"
+8160.6800,Brew Master
+8160.6900,Malt Maker
+8160.7000,Masher
+8160.7100,Fermentation Man
+8160.7200,Yeast Maker
+8160.7300,Malt Vinegar Maker
+8160.7400,Filterman
+8160.7500,"Pasteuriser, Brewery"
+8160.7600,Syrup Plant Operator
+8160.7700,Syrup Maker
+8160.7800,Syrup Mixing Plant Operator
+8160.7900,Syruper
+8160.8000,Bottling Plant In -Charge
+8160.8100,"Bottle Washer, Machine"
+8160.8200,Carbonator Machine Attendant
+8160.8300,"Filler, Aerated Water"
+8160.8400,"Filler, Aerated Water, Hand Machine"
+8160.8600,"Drier and Cooler Operator, Tobacco"
+8160.8700,"Cutting Machine Operator, Tobacco"
+8160.8800,Cigarette Making Machine Operator
+8160.8900,Stingy Cigarette Slitting Machine Ope rator
+8160.9900,Food and Related Products Machine
+8171.0100,"Chipperman, Paper Pulp"
+8171.0200,"Grinder, Paper Pulp"
+8171.0400,"Sorter, Paper Pulp"
+8171.0500,"Cutter, Paper Pulp"
+8171.0600,"Liquor Maker, Paper Pulp"
+8171.0800,"Causticman, Paper Pulp/Causticizing"
+8171.0900,"Bleacher, Paper Pulp"
+8171.1100,"Agitator, Paper Pulp"
+8171.1200,"Machine Operator, Paper"
+8171.1400,"Wire Boy, Paper"
+8171.1600,"Cutter, Paper"
+8171.1700,"Finisher, Paper"
+8171.1800,"Vat Man, Handmade Paper"
+8171.1900,"Transferor, Handmade Paper"
+8171.2000,"Tub-Sizer, Handmade Paper"
+8171.2100,"Drier, Handmade Paper"
+8171.2200,"Presser, Handmade Paper"
+8171.2400,"Calenderman, Handmade Paper"
+8171.2500,"Coating Machine Operator, Hardboard"
+8171.9900,"Pulp and Papermaking Plant Operators,"
+8172.0100,"Wood Sawyer, Machine, General"
+8172.0200,"Wood Sawyer, Edger"
+8172.0300,Band Saw Operator
+8172.0400,Circular Saw Operator
+8172.0700,Veneer Cutter
+8172.0800,Peeling Machine Operator
+8172.0900,"Barrel -Lathe Operator, Outside (Wood"
+8172.1000,Wood Chopping Machine Operator
+8172.1100,Core Laying Machine Operator
+8172.1200,"Core Layer, Plywood"
+8172.9900,Wood Processing Plant Operators and
+8181.0100,Blowing Machine Operator (Glass)
+8181.0200,"Machineman, Sheet Glass"
+8181.0300,Pressman (Glass)
+8181.0400,Pressman (Ceramics)
+8181.0500,"Extruding Press Operator, Clay"
+8181.0600,Rollerman (Glass)
+8181.0700,Pressman (Abrasive)
+8181.0800,Tube and Rod Drawer (Glass)
+8181.1000,Polisher (Glass Manufacturing)
+8181.1100,"Modeller, Pottery and Porcelain"
+8181.1200,"Furnace Man, Glass/Furnace Operator"
+8181.1400,Annealer (Glass Product)
+8181.1500,"Kiln Man, Pottery and Porcelain"
+8181.1600,"Kiln Loader, Pottery and Porcelain"
+8181.1700,"Kiln Man, Brick and Tile"
+8181.1800,"Kiln Loader, Brick and Tile"
+8181.1900,Bricklayer (Brick & Tile)
+8181.2000,Graduating Machine Operator (Glass)
+8181.2100,Batch Mixer (Glass)
+8181.2200,Abrasive Mixer
+8181.2300,Mixing Machine Operator (Abrasive)
+8181.2400,Ball Mill Operator (Cement & Ceramics)
+8181.2500,Pug Mill Operator (Ceramics)
+8181.2600,Shaving Machine Operator (Abrasive)
+8181.2700,Slip Maker (Ceramics)
+8181.2800,Glaze Maker
+8181.2900,Edge Operator (Abrasive)
+8181.3000,Wet Disk Operator (Abrasive)
+8181.3100,Burner Cement
+8181.3200,Clay Modeller
+8181.3300,Fiberglass – Machine Operator
+8181.3400,Furnace Helper
+8181.9900,"Glass and Ceramics Plant Operators, Other"
+8182.0100,"Boiler, Tindal"
+8182.0200,"Boiler, Attendant"
+8182.0300,"Boiler, Fireman"
+8182.0400,Boiler House Operatives
+8182.0500,"Serang , Engine Room/Engine Bosun"
+8182.0600,"Tindal, Engine Room"
+8182.0800,"Fireman, Locomotive"
+8182.9900,"Ships’ Engine Room Ratings, Other"
+8183.0100,"Building Insulator, Machine"
+8189.0100,"Gem Grinder, Machine"
+8189.0200,"Gem Polisher, Machine"
+8189.0301,CAM Machine Operator
+8189.0401,Laser Sawing Machine Operator
+8189.0405,Blade  Sawyer
+8189.0501,Casting Machine Operator
+8189.0601,Symmetry Analyser Machine Operator
+8189.0701,Pantograph Machine Operator
+8190.0100,"Saw Grinder, Machine"
+8211.0100,"Assembler, Workshop Machine and"
+8211.0101,Mechanical Sub -Assembly Technician
+8211.0200,Assembler Printing Machinery
+8211.0300,"Assembler, Textile Machinery"
+8211.0400,"Assembler, Refrigerator and Air -"
+8211.0500,"Assembler, Stationary Petrol Engine"
+8211.0600,"Assembler, Stationary Diesel Engine"
+8211.0700,"Assembler, Tractor"
+8211.0800,"Assembler, Turbine and Steam Engine"
+8211.0900,Assembler Loco Engines
+8211.1000,"Erector, Machine and Equipment"
+8211.1100,"Assembler, Continuity"
+8211.1200,"Assembler, Automobile"
+8211.1201,Vehicle Assembly Fitter
+8211.1202,Fitter -Mechanical Assembly
+8211.1300,"Assembler, Motor Cycle"
+8211.1400,"Assembler, Frame, Aircraft"
+8212.0100,Battery Assembler
+8212.0200,Assembler Dry Cell (Battery Manufacturing)
+8212.0300,Battery Repairer
+8212.0400,"Assembler, Electrical Accessories"
+8212.0401,"Cutting, Crimping and Connector Assembly"
+8212.0402,Electrical Assembly Operator
+8212.0500,Electric Motor Winder
+8212.0600,"Calibrator, Electrical"
+8212.0700,Assembler Precision Instrument
+8212.0800,Assembly Operator (Telephone Equipment
+8212.0900,Assembly Operator (Radio Manufacturing)
+8212.1000,"Form Layer, Cable (Telephone Equipment"
+8212.1100,"Cable Maker, Rack Wiring (Telephone &"
+8212.1200,"Operator, Rack Wiring (Telephone &"
+8212.1301,RAC Assembly Operator
+8212.1401,Assembly Operator – TV
+8212.1501,Mechanical Assembly Operator
+8212.1601,Manual Insertion Operation
+8212.1602,Through Hole Assembly Operator
+8212.1603,Pick and Place Assembly Operator
+8212.1604,Reflow Oven Soldering Operator
+8212.1605,Stencil Printing Operator
+8212.1606,Component Preparation Operator
+8212.1607,Box-Building Assembly Technician
+8212.1701,Wire Bonding Operator
+8212.1702,Die Bonding Operator
+8212.1801,Assembly Operator Capacitor
+8212.1802,Winding Operator
+8212.1803,Vacuum Plant Operator
+8212.1804,"Coating, Curing and Marking Operator"
+8212.1805,Masking Machine Operator
+8212.1806,Pressing Machine Operator
+8212.1807,Manual Soldering Technician
+8212.1808,Wave Soldering Machine Operator
+8212.1901,Welding Operator
+8212.1902,Silicone Painting Operator
+8212.1903,Sorting Operator
+8212.1904,Capping Machine Operator
+8212.2001,Energy Meter Assembly Operator
+8212.2002,PLC Assembly Operator
+8212.2003,UPS Assembly Operator
+8212.2101,Final Assembly Operator -Magnetics
+8212.2201,Assembly Operator – PMD and X -Ray
+8212.2202,Box Assembly Operator
+8212.2301,Module Soldering Operator
+8212.2302,Module Assembly Technician
+8212.2401,Electrical Technician
+8212.2501,Inner Layer and Pressing Operator
+8212.2502,Drilling Operator
+8212.2503,Routing Operator
+8212.2504,Solder Masking & Legend Printing Operator
+8212.2601,Electronic Sub -Assembly Technician
+8212.2701,PCB Assembly Operator
+8212.9900,Electrical and Electronic Equipment
+8219.0100,"Assembler, Bicycle"
+8219.0200,"Assembler, Sewing Machine"
+8219.0300,Assembler (Plastic Product)
+8219.0400,"Assembler, Metal Furniture"
+8219.9900,"Paper Board, Textile and Related Products"
+8311.0100,"Loco Driver, Mines"
+8311.0200,"Driver, Railway Engine (Steam)"
+8311.0300,"Driver, Railway Engine (Diesel)"
+8311.0400,"Driver, Railway Engine (Electrical)"
+8311.0500,"Driver, Shunting (Loco)"
+8311.0601,Locomotive Driver
+8312.0100,"Signalman, Railway"
+8312.0200,Shunting Worker
+8312.0300,"Points Man, Railway"
+8312.0400,"Traffic Shunter, Railway"
+8312.0500,"Braker, Passenger Train"
+8312.9900,"Pointsmen, Signalmen and Shunters,"
+8321.0101,Driver Auto Rickshaw
+8321.0200,Despatch Rider
+8321.0201,Delivery Associate/Two Wheeler Delivery
+8321.9900,"Motorcycle Drivers, Other"
+8322.0100,"Driver, Car"
+8322.0101,"Chauffer, Driver Personal"
+8322.0102,"Chauffer, Cab Driver"
+8322.0201,"Driver, Taxi"
+8322.0301,"Driver, Ambulance"
+8322.0501,Light Motor Vehicle Driver
+8322.9900,"Car, Taxi and Van Drivers, Other"
+8331.0100,Tram Car Driver
+8331.0200,Trolley Driver
+8331.0300,"Driver, Bus"
+8331.0301,Commercial Vehicle Driver
+8331.0302,Commercial Vehicle Driver – Assistant
+8331.0400,"Driver, Fire Brigade Vehicles"
+8331.0500,Driver Road Test
+8331.0501,Test Driver
+8331.0600,"Signalman, Tram"
+8331.9900,"Bus and Tram Drivers, Other"
+8332.0100,Driver Truck
+8332.0200,Tram Car Driver (Mines)
+8332.9900,"Heavy Truck and Lorry Drivers, Other"
+8341.0101,"Tractor Operator, Farm"
+8341.0200,"Operator, Farm Machines"
+8341.0201,Harvesting Machine Operator
+8341.0300,"Tractor Driver, Construction"
+8341.9900,"Farm Machinery Operators, Other"
+8342.0101,Bulldozer Operator
+8342.0200,Scrapper Operator
+8342.0301,Scrapper Loader Operator/Loader Operator
+8342.0400,Grader Operator
+8342.0501,Power Shovel Operator/Excavator Operator
+8342.0600,Bucket Wheel Excavator Operator
+8342.0700,Trench Digging Machine Operator
+8342.0800,Dragline Operator
+8342.0900,Dredger Operator
+8342.1000,Boom Driver
+8342.1100,Pile Driver
+8342.1201,Dumper Operator/Dumper/Tipper Operator
+8342.1202,Dumper Operator
+8342.1300,Scoop Truck Operator
+8342.1400,Tripler Machine Operator
+8342.1500,Conveyor Operator
+8342.1600,Spreader Operator
+8342.1700,Road Roller Driver
+8342.1800,Bitumen Mixing Machine Operator
+8342.1900,"Sand Blast Operator, Construction"
+8342.2001,Excavator Operator
+8342.2101,Mobile Equipment Operator
+8342.2201,Stoking Car Operator Ferro Alloys
+8342.9900,"Earth Moving and Related Plant Operators,"
+8343.0100,"Driver, Steam Crane"
+8343.0200,"Crane Operator, Diesel Electric"
+8343.0300,"Crane Operator, Pneumatic"
+8343.0400,"Crane Operator, Hydraulic"
+8343.0500,Mobile Crane Operator
+8343.0501,EOT Crane Operator
+8343.0600,"Crane Operator, Gantry"
+8343.0700,Overhead Crane Operator
+8343.0800,Derrick Crane Operator
+8343.0900,"Derrick Crane Operator, Magnetic"
+8343.1000,"Crane Driver, Hammer Head"
+8343.1100,Winchman
+8343.1200,Hoist Operator
+8343.1300,Bridge Opening Operator
+8343.1400,Winding Engineman
+8343.1500,Haulage Engine Driver
+8343.1600,"Crane and Hoist Operators, Other"
+8343.1700,Aerial Ropeway Operator
+8343.1800,Liftman
+8343.9900,"Crane, Hoist and Related Plant Operators,"
+8344.0100,Lift Truck Operator
+8344.0201,Fork Lift Truck Operator/Fork Lift
+8344.9900,"Lift Truck Operator, Other"
+8350.0100,"Serang, Deck/Bosun"
+8350.0300,Seaconny/OS (Ordinary Seaman)
+8350.0400,Lascar/OS (Ordinary Seaman)
+8350.0500,"Driver, Launch/Tug Master"
+8350.0600,Boatman
+8350.0700,Rudderman
+8350.0800,Oarsman
+8350.9900,"Ships’ Deck Ratings, Barge Crews and"
+9111.0100,Domestic Servant
+9111.0200,Char Dust Cleaner and Salvager
+9111.0300,"Cleaner, Home Restoration Service"
+9111.9900,"Domestic and Related Helpers, Cleaners and"
+9112.0100,"Dusting Man, Office; Farash,"
+9112.0200,Cleaner Hospital
+9112.9900,"Helpers and Cleaners in Offices, Hotels and"
+9121.0100,Dhobi
+9121.0200,"Laundry Workers (Marker, Sorter)"
+9121.0300,"Dry Cleaner, Hand"
+9121.0400,Spot Remover
+9121.0500,Rug Cleaner
+9121.0600,"Presser, Hand"
+9121.0700,"Dry Cleaner, Spot"
+9121.9900,"Launderers, Dry Cleaners and Pressers,"
+9122.0100,"Cleaner, Window"
+9122.0201,Washer
+9122.0301,Driving Assistant
+9122.9900,"Vehicle, Window and Related Cleaners,"
+9211.0100,Ploughman
+9211.0200,"Labourer, Agriculture"
+9211.0300,Picker (Tobacco)
+9211.9900,"Farm Hands and Labourers, Other"
+9215.0100,"Labourer, Plantation"
+9215.0200,Tappers
+9215.9900,"Forestry Labourers and Related Workers,"
+9311.0100,"Mines, Quarrymen, Related Workers"
+9311.0101,Mazdoor/Helper
+9311.0200,Digger (Mine & Quarry)
+9311.9900,"Mining and Quarrying Labourers, Other"
+9312.0100,"Labourer, Other"
+9312.0200,Track Repairer (Rail Transport)
+9312.9900,"Construction and Maintenance Labourers,"
+9313.0100,Well Digger Helper
+9313.0201,Helper Bar Bender and Fixer
+9313.0301,Helper Mason
+9313.0401,Helper Carpenter – Shuttering & Scaffolding
+9313.0501,Helper Electrician
+9313.0601,Helper Laboratory and Field Technician
+9313.0701,Helper Painter and Decorator
+9313.9900,"Building Construction Labourers, Other"
+9321.0101,"Packer, Hand"
+9321.0102,Packager and Despatcher
+9321.0201,Labeller
+9321.0205,Tagger and Labeller
+9321.0300,Stenciler
+9321.0400,"Stamper, Hand"
+9321.1101,Weigher
+9321.1102,Issuing and Return In -Charge
+9321.1103,Diamond Bagger and Flueter
+9321.1200,Counter
+9321.1300,"Container Washer, Machine"
+9321.1401,Machining Assistant or Helper
+9321.9900,"Hand Packers, Others"
+9329.0100,"Khatedar, Salt Production"
+9329.0200,"Mukadam, Salt Production"
+9329.0300,Salt Reclamation Worker
+9329.0400,Checker
+9329.0500,Tester
+9329.0600,Sorter
+9329.0701,Accessory Fitter
+9329.0801,Parts Picker
+9331.0100,"Driver, Cycle Rickshaw"
+9331.0300,Hand Cart Man
+9331.0400,"Traffic Hand, Gliding"
+9331.0600,Transport Equipment Operators and
+9331.0700,Transport Service Operator
+9331.9900,"Hand Pedal Vehicle Drivers, Other"
+9332.0100,Horse Carriage Driver
+9332.0200,Cart Driver
+9332.0300,Mahout
+9332.0400,Pack Animal Driver
+9332.0500,"Supervisor, Animal -Drawn and Manually"
+9332.9900,"Animal and Animal Drawn Vehicle Drivers,"
+9333.0100,Loader and Unloader
+9333.0101,Loader/Loading and Unloading Operator
+9333.0201,Warehouse Worker
+9333.0202,"Loader, Transport"
+9333.9900,"Freight Handlers, Other"
+9412.0100,Kitchen Helper
+9510.0100,Boot Polisher
+9510.0200,Bill Poster
+9510.9900,Shoe Cleaning and Other Street Services
+9520.0100,Hawker
+9520.9900,"Street Vendors, Non -Food Products, Other"
+9611.0100,Garbage Collector (Motor Transport)
+9611.0201,E-Waste Collector
+9611.9900,"Garbage Collectors, Other"
+9613.0300,"Sweeper, Dry"
+9613.0400,"Sweeper, Wet"
+9613.0500,"Sweeper, Sewer"
+9613.9900,"Sweepers and Related Labourers, Other"
+9621.0300,Caddie
+9621.0400,Bellhop (Hotel & Restaurant)
+9621.0500,"Porter, Baggage (Hotel & Restaurant)"
+9621.0600,(Letter Box Peon) Post Man
+9621.0700,Mail Carrier
+9621.0800,"Runner, Mail"
+9621.0900,"Sorter, Mail"
+9621.1200,Hotel Concierge
+9621.1300,Water Carrier
+9621.9900,"Messengers, Package Deliverers and"
+9623.0100,Vending Machine Attendant
+9623.0200,Coin Collector
+9623.0300,Meter Reader
+9623.0301,Municipal Water and Sewage Assessor
+9623.0401,PUC Attendant
+9623.0501,Tyre Inflation Attendant
+9623.0601,Quick Care Point Attendant
+9623.9900,"Vending Machine Money Collectors, Meter"
+9629.0100,Usher
+9629.9900,"Doorkeepers, Watchpersons and Related"
+8122.7200,
+8181.2200,
+7314.9900,
+7314.0800,
+7231.0102,Access Controls
+7411.0101,Accessory Fitter
+9329.0701,"Accident Officer,"
+1324.2000,
+1120.3401,Account Executive
+2431.0202,Accountant
+2411.0100,
+4311.9900,
+4313.0101,
+4311.0401,Accounts
+4313.0201,Acid Concentrator
+8131.8000,
+8131.7700,
+8131.8100,
+7124.0200,
+2659.0200,
+2655.0100,
+2120.0200,
+4132.1000,
+7412.0300,
+1112.0700,
+1112.0800,
+1112.0600,
+1112.0400,
+1112.0100,
+2263.0200,
+7532.0902,Advertisement
+2431.0400,
+2431.9900,Advertising and
+1222.9900,
+1222.0102,Advertising Sales
+5211.0100,
+2611.0900,
+2611.0300,
+2165.0300,
+8343.1700,
+1324.0900,
+3115.1000,
+8131.8800,
+8171.1100,
+1311.9900,
+2141.0900,
+3142.9900,`
+7233.2800,
+6116.0101,Agriculture
+6116.0102,Agriculture Field
+2412.0501,Agronomist
+2132.0100,
+2132.9900,
+3132.0700,
+3132.0900,
+5111.0600,
+5111.0300,
+3154.0100,
+3154.9900,
+5111.0500,
+7232.9900,
+3153.0400,
+3153.9900,
+7232.0100,
+2142.0800,
+2131.0800,
+2212.0300,
+3132.0800,
+8131.2100,
+8131.7200,
+3212.0301,Anaesthetist
+2211.0400,
+2511.0105,Analyst – Research
+2421.0101,"Anatomist,"
+2211.0300,
+9332.9900,
+2250.0400,
+3240.0300,
+2265.0300,
+2250.0100,
+6129.9900,
+2166.0205,Annealer (Glass
+8181.1400,
+8121.4700,
+2632.0900,
+2632.0700,
+2632.0800,
+6123.9900,
+2512.0701,"Appraiser,"
+3315.0300,
+2632.1100,
+2161.0100,
+2144.1100,
+2621.0100,
+2621.9900,
+3322.0801,Area Parts
+5222.0101,Area Sales Officer
+2433.0101,Area Service
+1213.0201,Armature Winder
+7412.0400,
+5414.0151,Armourer
+7222.0900,
+2166.0111,Art Teacher
+2355.0100,
+6130.0100,
+2355.9900,
+7311.0300,
+8219.0300,
+8212.0200,
+8211.0900,
+8212.0700,
+8211.0200,
+8211.1200,
+8219.0100,
+8211.1100,
+8212.0400,
+8211.1400,
+7536.2200,
+8131.9000,
+8219.0400,
+8211.1300,
+8211.0400,
+8219.0200,
+8211.0600,
+8211.0500,
+8211.0300,
+8211.0700,
+8211.0800,
+8211.0100,
+7223.0401,Assembly Line
+7422.1901,Assembly Line
+3122.0601,Assembly
+8212.2201,Assembly
+8212.1401,Assembly
+8212.0900,
+8212.0800,
+8212.1801,Assembly
+3139.2001,Assignment
+5414.0102,Assistant Bar
+7214.1101,Assistant
+5142.0101,Assistant Casting
+8121.3801,Assistant Hair
+5141.0201,Assistant
+3112.0701,Assistant Mason
+7112.0601,Assistant Painter
+7131.0101,Assistant
+3255.0101,Assistant
+7119.0301,
+7115.0201,Associate –
+2120.0501,Associate – Clinical
+3512.0601,Associate – CRM
+5244.0102,Associate –
+2641.0701,Associate –
+2411.0201,Associate –
+2641.0801,Associate –
+3512.0702,Associate –
+2423.0101,Associate – Supply
+3323.0601,Associate –
+2411.0101,Associate
+5244.0202,Occupational
+3512.0202,Associate Network
+5242.0501,
+5242.0502,Astrologer
+5161.0100,
+5161.9900,
+2111.0900,
+3422.0100,
+2611.0800,
+2611.0100,
+3339.0300,
+4311.0500,
+2411.0200,
+2641.0100,
+2641.9900,
+7313.1302,Auto Body
+7132.0203,Auto Body
+7213.0302,Auto Bruter
+7313.1306,Auto Engine
+7213.0201,Auto Service
+3115.0602,Auto Service
+7231.0108,Auto Service
+7231.0107,Auto Service
+7231.0501,Auto Spray Painter
+7132.0205,Auto Spray
+7132.0202,Autoclave
+8131.3501,
+3139.1501,Automated Optical
+3113.0803,Automated Optical
+7412.0103,Automation
+7412.0101,Automobile
+2144.0800,
+7132.0204,Automotive Body
+7231.0103,Automotive Body
+7231.0104,Automotive
+3115.0201,
+7132.0901,Auto -Tester
+7421.1201,"Ayah, Domestic"
+5311.0400,
+5311.0100,
+8152.2100,
+2131.1200,
+7312.1600,
+4419.0400,
+7512.0100,
+7512.9900,
+7318.0900,
+8131.5900,
+7223.2500,
+7223.2600,
+8181.2400,
+8159.0300,
+6112.0701,Occupational
+6111.0901,Band Builder (Tyre
+8141.1900,
+8172.0300,
+8131.4600,
+4311.0200,
+4211.9900,
+8111.2400,
+5141.0300,
+7412.0104,Bare Foot
+3142.0201,Bark Pitman
+7535.1100,
+5132.0100,
+7321.1700,
+8172.0900,
+5132.9900,
+7317.0700,
+7317.9900,
+8181.2100,
+3133.0400,
+8114.0200,
+7318.1000,
+5142.0700,
+3432.0501,Battery Assembler
+8212.0100,
+8212.0300,
+7419.0500,
+7315.1000,
+8141.0600,
+7318.5000,
+5131.0300,
+7233.0301,"Beaterman, Paper"
+3139.0200,
+5142.0100,
+5142.9900,
+6123.0101,
+9621.0400,
+7312.0500,
+7233.0401,Belt Maker
+7536.2600,
+8122.7400,
+7315.0700,
+7223.2000,
+7516.0900,
+7516.0700,
+4311.0700,
+4214.0100,
+9510.0200,
+4132.1400,
+2633.0200,
+2131.0100,
+2131.9900,
+2143.0200,
+3211.0200,
+8342.1800,
+7221.0100,
+7221.9900,
+3122.6504,Blade Sawyer
+8189.0405,"Bleacher, Paper"
+8171.0900,
+3133.0600,
+8154.9900,
+3134.0500,
+7516.0300,
+3122.6507,Blood Bank
+3212.0602,Blood Donor Unit
+3412.0100,
+7315.0300,
+3132.1200,
+7315.0100,
+7315.0200,
+8181.0100,
+3118.0900,
+8350.0600,
+7522.0600,
+7522.0800,
+3115.0104,Boiler Fitter
+7214.0300,
+8182.0400,
+7214.0500,
+3122.1600,
+8182.0200,
+8182.0300,
+8182.0100,
+7313.2501,Boiling Tub
+3133.0300,
+7323.0100,
+7323.9900,
+7323.0400,
+7323.0300,
+4212.0100,
+4221.0400,
+4311.0101,
+4132.1300,
+4212.0200,
+4212.9900,
+8342.1000,
+9510.0100,
+7223.1701,
+2131.0400,
+8142.0700,
+8160.8100,
+8160.8000,
+7313.1504,Box Assembly
+8212.2202,Box Closing
+8131.4500,
+8131.4300,
+8131.2600,
+8131.4200,
+8212.1607,"Braid Maker, Hand"
+7318.6700,
+8152.1300,
+7322.1000,
+4411.0200,
+4414.0100,
+4131.0400,
+7231.0105,"Braker, Passenger"
+8312.0500,
+5112.0300,
+3339.0200,
+7312.1700,
+8111.2100,
+7212.0500,
+7318.3800,
+3131.0900,
+8160.6800,
+8181.1900,
+7112.0300,
+7112.0200,
+7112.9900,
+7314.0700,
+8343.1300,
+3341.1100,
+8131.3200,
+7511.0400,
+3114.0804,Broadcasting and
+3521.9900,
+3311.0100,
+7317.1000,
+7317.1400,
+7317.1300,
+8154.2400,
+3122.6506,BSS Support
+3114.0601,Bucket Wheel
+8342.0600,
+6112.0400,
+2412.0300,
+2659.0700,
+7111.9900,
+7411.9900,
+2161.9900,
+5153.9900,
+9313.9900,
+7119.9900,
+7124.0100,
+8183.0100,
+6111.1401,Bulldozer
+8342.0101,
+8181.3100,
+8331.9900,
+5112.1000,
+4419.0102,Business
+2433.0601,Butcher
+7511.0100,
+7511.9900,
+5131.0100,
+7513.0300,
+7532.1200,
+8153.0200,
+8142.1200,
+8153.0400,
+3323.0100,
+3323.9900,
+7522.0200,
+7522.9900,
+7422.0800,
+8212.1100,
+7422.1200,
+9621.0300,
+8141.0100,
+8141.1301,
+8154.1800,
+8171.2400,
+3139.0500,
+7311.1002,Calibration
+7311.1001,Calibrator
+7311.1000,
+8212.0600,
+7311.0900,
+7311.1100,
+8189.0301,"Cameraman,"
+3521.0300,
+7321.1200,
+7318.0100,
+7318.0200,
+7512.0500,
+8160.4300,
+6210.0800,
+7317.0600,
+7514.0900,
+3322.0300,
+7531.0900,
+8212.1904,"Captain,"
+3152.0100,
+2431.0300,
+8322.9900,
+8160.4900,
+8160.5000,
+8160.8200,
+8154.0700,
+8152.0400,
+8143.0100,
+3211.0801,Cardiologist
+2212.0500,
+7318.2700,
+5153.0100,
+5153.0300,
+5153.0200,
+7115.1100,
+7115.1200,
+7115.0200,
+7115.0100,
+7115.0300,
+7115.0400,
+7115.9900,
+7318.6000,
+7318.6100,
+7318.6200,
+7318.0300,
+7318.5900,
+7422.0700,
+9332.0200,
+2165.0100,
+2165.9900,
+2651.0600,
+7532.0300,
+4211.0200,
+4211.0301,
+4211.0302,"Cashier, General"
+4211.0100,
+8114.0500,
+7314.0200,
+8121.4400,
+3122.4401,Casting Line
+3122.4402,Casting Machine
+8189.0501,Casting Machine
+8121.4300,
+8121.3301,Casting Technician
+7211.0201,"Caulker, Boat"
+7115.1300,
+8171.0800,
+7411.0102,CCTV Supervisor
+5414.0121,Cell Room
+8131.8200,
+8143.0300,
+8114.9900,
+7114.0200,
+8113.0400,
+8142.1500,
+3135.3100,
+8160.4000,
+2141.2300,
+2320.0101,"Chairman,"
+2612.0800,
+9111.0200,
+2166.0206,"Charcoal Burner,"
+8131.5600,
+6210.1700,
+3122.5900,
+8121.3000,
+8322.0102,"Chauffer, Driver"
+8322.0101,Check Fl ight
+3153.1000,
+3153.0700,
+3153.0200,
+9329.0400,
+7314.1200,
+7513.0400,
+2145.0400,
+2145.0600,
+2145.0700,
+2145.0100,
+2145.0300,
+2145.0500,
+3116.9900,
+2145.9900,
+3133.0700,
+3133.9900,Chemical Products
+8131.9900,
+3111.0400,
+2113.0500,
+2131.1300,
+2131.1400,
+2113.0800,
+2113.0100,
+2113.0600,
+2113.0300,
+2113.0200,
+2262.0100,
+2262.0101,"Chemist, Physical"
+2113.0400,
+3116.0600,
+2113.9900,
+7516.1100,
+7317.1100,
+3151.0100,
+3153.0900,
+1120.3800,
+3153.0600,
+3152.0200,
+3153.0100,
+5111.0100,
+2635.0500,
+5311.0200,
+5311.9900,
+2635.0800,
+6111.1801,"Chipperman,"
+8171.0100,
+2264.0300,
+7512.0800,
+8160.1800,
+2653.0100,
+2653.9900,
+7516.0500,
+7516.0600,
+8160.8800,
+3521.0900,
+3521.0100,
+7321.0801,Circuit Imaging
+7321.0802,Circular Saw
+8172.0400,
+2659.0500,
+6111.1101,Occupational
+2142.0200,
+2142.0100,
+2142.0600,
+2142.0400,
+2142.0900,
+2142.0700,
+2142.0300,
+3112.9900,
+2142.9900,
+3315.0200,
+7312.1500,
+7314.1100,
+8181.3200,
+7314.0300,
+9112.0200,
+7231.0900,
+9111.0300,
+9122.0100,
+5151.9900,
+2166.0207,Clerical Support
+4419.9900,
+4311.0600,
+4110.0200,
+8122.7800,
+2634.0600,
+2632.0300,
+7543.0101,
+3113.0901,Cluster Manager
+1330.0701,Clutch Specialist
+7231.0106,CNC Operator –
+7223.5002,CNC Operator –
+7223.5003,CNC Operator –
+7223.6002,CNC Operator -
+7223.5004,CNC Programmer
+7223.6003,CNC Setter -cum -
+7223.6001,CNC Setter -cum -
+7223.5005,"Coach Builder,"
+7522.0700,
+7531.0300,
+8171.2500,
+8212.1804,"Cobber, Mica"
+7542.0300,
+6111.0851,Coding Clerk
+4413.0100,
+4132.0600,
+4413.9900,
+8160.6400,
+6112.0601,Coffee Roaster
+8160.6500,
+3135.2003,"Coil Winder,"
+7412.0500,
+9623.0200,
+7318.6300,
+8131.4900,
+5244.0203,Colour Key Artist
+2166.0511,Colour Maker
+7322.1400,
+2166.0512,Columnist
+2642.0200,
+7318.3400,
+8151.0500,
+2642.0400,
+2642.0600,
+2166.0100,
+5249.0202,Commercial
+5249.0201,
+3322.9900,
+3322.0200,
+8331.0301,Commercial
+8331.0302,Commercial
+5165.0101,Commission Agent
+2412.0600,
+1330.0101,Community Health
+3253.9900,Community
+6116.0112,Complaint
+4225.0100,
+8212.1606,Occupational
+7321.0400,
+2166.0208,"Compositor, Hand"
+7321.0100,
+8131.0500,
+8142.0600,
+3513.9900,Computer
+2523.9900,
+4131.0600,
+2512.0100,
+2514.9900,
+3513.0200,
+2523.0200,
+3112.0500,
+7512.0900,
+7122.0200,
+8114.0300,
+7114.0100,
+7114.9900,
+7514.0800,
+7516.0400,
+5112.0400,
+3339.0500,
+5112.0900,
+8112.1200,
+5412.0300,
+9312.9900,
+1323.9900,
+9321.1300,
+8141.0711,Continuous
+8131.4000,
+3133.0500,
+3134.0100,
+2659.0400,
+1330.0200,
+3134.0400,
+3135.3900,
+3521.1600,
+4323.0400,
+8131.3800,
+3135.0600,
+3135.0700,
+7233.0402,Conveyor
+8342.1500,
+5120.0300,
+7514.0700,
+5120.0200,
+5120.0400,
+7318.1900,
+8160.1600,
+5120.9900,
+7315.1900,
+7522.1100,
+4110.0400,
+4110.0300,
+7541.0300,
+8141.0200,
+3116.0400,
+2153.0601,"Core Layer,"
+8172.1200,
+8172.1100,
+8121.4600,
+7211.0500,
+7211.0600,
+6111.1901,Coroner
+2619.1000,
+2411.0300,
+6111.0601,Counsellor
+2423.0200,
+2635.1100,
+9321.1200,
+7536.1200,
+2619.0800,
+8154.2500,
+8343.1600,
+8343.1000,
+8343.0200,
+8343.0600,
+8343.0400,
+8343.0300,
+8343.9900,
+2431.0700,
+3312.9900,"Creeperman,"
+8111.1600,
+3339.0400,
+2632.0500,
+2641.0200,
+5244.0201,CRM Domestic
+5244.0101,"Crochet Worker,"
+7318.6500,
+8154.2200,
+8131.2800,
+8131.3100,
+7315.2200,
+8131.0100,
+8112.0100,
+8160.3400,
+8160.3900,
+8131.6800,
+6111.0200,
+6111.0800,
+6111.0100,
+6111.1300,
+2621.0200,
+7534.0400,
+5244.0301,Customer Care
+5244.0303,Customer Care
+5242.0201,Customer Care
+5242.0301,Customer
+3113.0701,Occupational
+5244.0103,Customer
+3322.1101,Customs and
+3351.9900,
+8160.4200,
+7532.1300,
+7531.1500,
+7532.1000,
+7315.1800,
+7532.1100,
+7532.1001,"Cutter, Hand"
+7536.0500,
+7532.0700,
+7532.0900,
+8156.0701,
+8171.1600,
+8171.0500,
+8160.1700,
+8160.8700,
+8212.0401,"Cutting, Lasting"
+8156.9900,
+8141.2300,
+7223.1800,
+8112.0400,
+2131.0300,
+4419.0600,
+6121.9900,
+6121.0601,
+8160.0500,
+7513.9900,
+2132.0700,
+2141.1900,
+7513.0100,
+8154.1700,
+2654.0300,
+2653.0300,
+7533.0600,
+7422.1203,Data
+2523.0100,
+4132.9900,
+4132.0401,
+3512.0100,
+2522.0100,
+2521.0100,
+4214.9900,
+4214.0201,Decorator
+3432.0200,
+7316.0800,
+3432.9900,
+7542.0800,
+6223.9900,
+8154.0600,
+7535.0400,
+8155.0100,
+8160.3200,
+7535.0600,
+8321.0201,Demographer
+2632.0400,
+7213.0301,
+3251.0101,
+3251.9900,
+2261.9900,
+2261.0100,
+8131.6700,
+2511.0101,"Depot Starter,"
+1324.1800,
+2212.0200,
+8343.0800,
+8343.0900,
+8113.0200,
+2151.0201,Design Engineer
+2152.0501,Design Engineer
+2523.0401,Design Engineer –
+2512.0601,Design
+2512.0203,Design
+2163.0201,Designer -
+2144.0201,Designer (CAD)
+2166.0401,Designer
+7532.0100,
+2145.0200,
+2151.0200,
+7532.0200,
+2144.0200,
+2151.0701,Design -For-Test
+2152.0502,Desktop
+3512.0200,
+8321.0200,
+3355.0300,
+8132.0300,
+8132.0200,
+9121.0100,
+3253.0101,Dialysis Technician
+3212.0201,
+3212.9900,
+7313.1501,Diamond Bagger
+9321.1103,
+8111.0400,
+8212.1702,Die Casting
+8121.4200,
+7223.2800,
+3115.1200,
+7222.0500,
+7222.0600,
+2265.0201,"Dietician, General"
+2265.0200,
+2265.9900,
+3139.0100,
+6210.1800,
+9311.0200,
+2432.0201,Occupational
+1112.0200,
+1120.1800,
+1120.2600,
+1120.0700,
+1120.2500,
+1120.1300,
+1114.0300,
+1120.0400,
+1120.0500,
+1120.0800,
+1120.3000,
+1120.1400,
+1120.3700,
+2654.0200,
+1120.3600,
+1120.1500,
+1120.3300,
+2654.0400,
+1120.2200,
+1120.2800,
+2654.0100,
+1120.2400,
+1120.0600,
+1120.1600,
+1120.2100,
+2656.0200,
+8131.3000,
+3512.0401,Occupational
+3254.9900,Distiller (Chemical)
+8131.3900,
+6210.1900,
+7321.0300,
+5243.0401,District and
+2612.0300,
+7541.0200,
+7541.0100,
+7223.2700,
+2622.0601,"Doffer, Fly"
+8152.0200,
+7318.4800,
+7533.1200,
+9111.9900,
+4132.0402,Domestic
+5152.9900,Domestic IT
+3512.0101,Domestic Servant
+9111.0100,
+9629.9900,
+5243.9900,
+8160.3600,
+8151.0400,
+7523.1400,
+3118.0301,Dragline Operator
+8342.0800,
+3118.0100,
+3118.0200,
+3118.0300,
+3118.0401,
+3118.0500,
+3118.0600,
+3118.9900,
+3118.0402,Drawer (Glass)
+7315.0900,
+8152.0100,
+8151.0700,
+8342.0900,
+7541.0600,
+2240.0400,
+5142.0500,
+7531.0200,
+8160.8600,
+8171.2100,
+7223.1500,
+7523.1300,
+8111.2200,
+8111.0200,
+8212.2502,Driver Auto
+8321.0101,
+8331.0500,
+8332.0100,
+8322.0301,
+8331.0300,
+8322.0100,
+9331.0100,
+8331.0400,
+8350.0500,
+8311.0300,
+8311.0400,
+8311.0200,
+8311.0500,
+8343.0100,
+8322.0201,
+9122.0301,"Drum Maker,"
+7312.1400,
+7535.1200,
+9121.0300,
+8157.0300,
+9121.0700,
+8131.1400,
+8131.1500,
+8157.0200,
+7422.1202,Dumper Operator
+8342.1202,Dumper
+8342.1201,
+4132.0800,
+9112.0100,
+8154.0900,
+2141.1600,
+8154.1500,
+7535.1400,
+2212.0400,
+8342.9900,
+2133.0100,
+2131.0500,
+3314.0100,
+2631.0100,
+2631.9900,
+8156.2300,
+7315.1700,
+8181.2900,
+8156.2200,
+7315.1300,
+2641.0300,
+2351.9900,
+1111.0300,
+1111.0200,
+1111.0100,
+8212.0500,
+8212.9900,
+7419.9900,
+8212.0402,Electrical Design
+2151.0202,Electrical
+2151.0300,
+3113.0101,
+2151.9900,
+7412.0200,
+7413.9900,
+7412.9900,
+3123.0400,
+3131.0600,
+8212.2401,Electrical
+3113.0200,
+3113.9900,
+7411.0200,
+7412.0600,
+7412.0701,
+7411.0100,
+7411.0600,
+2152.0200,
+7421.9900,
+2152.0801,Electronic
+7421.0300,
+8212.2601,Electronics and
+3114.9900,
+2152.9900,
+7421.0100,
+3114.0100,
+2152.0400,
+8122.0100,
+7321.0700,
+6121.1100,
+8160.5200,
+5163.0200,
+2512.0501,"Embosser, Leather"
+7535.1500,
+7313.2200,
+4132.0900,
+8142.1000,
+8142.0900,
+8153.0500,
+8153.0600,
+8153.0601,Emergency
+2240.0502,
+2240.0501,Employment
+2424.0200,
+8122.2000,
+8142.0503,Energy Auditor
+3113.0300,
+2631.0200,
+8212.2001,Engine Tester
+7231.0200,
+7232.0300,
+7232.0400,
+2511.0103,Engineer –
+2511.0104,Engineer –
+2511.0102,Occupational
+3512.0801,Engineer Trainee –
+2512.0207,Engineer Trainee –
+2512.0206,"Engineer,"
+2142.1000,
+2141.0800,
+3122.5700,
+2149.0100,
+7313.1900,
+7316.0100,
+8132.0400,
+2131.1000,
+8143.0200,
+3257.0300,
+3257.9900,
+2133.0200,
+2263.9900,
+3257.0400,
+3257.0500,
+8343.0501,Epigraphist
+2633.0300,
+3412.0200,
+2659.0300,
+2144.0301,Occupational
+3311.0201,"Erector, Machine"
+8211.1000,
+7214.0600,
+3334.9900,
+6210.1400,
+7321.1600,
+8131.3600,
+8160.3700,
+9611.0201,"Examiner,"
+7543.0300,
+7543.0400,
+7543.0500,
+8342.2001,Executive Chef
+1120.3100,
+1112.0500,
+1112.0300,
+3115.0301,Exhaust Box
+8160.2900,
+3132.1100,
+3322.6011,Export Executive
+3322.6001,Export Manager
+1219.0101,Extra
+2655.0200,
+8131.8500,
+8142.0400,
+8141.0300,
+8142.0300,
+8181.0500,
+8121.5600,
+8153.0300,
+8156.2500,
+7543.4001,Family Planning
+2635.0900,
+9211.9900,
+8341.9900,
+2132.1000,
+6121.0201,
+6129.0100,
+6121.0100,
+6122.0200,
+6122.0101,
+7221.0600,
+5241.9900,
+2163.0500,
+7422.0600,
+7422.0201,Feed Extruder
+8141.0301,Fermentation Man
+8160.7100,
+3152.0900,
+8151.2200,
+8114.0700,
+8181.3300,
+7318.2300,
+8151.9900,
+2141.1300,
+6111.9900,
+7421.1001,Field Engineer TV
+7421.1302,Field Maintenance
+3114.0701,"Field Officer,"
+2433.0700,
+5243.0501,Field Service
+2424.0502,Field Technician:
+7422.2001,Field Technician:
+7422.2101,Field Technician:
+7421.0401,Field Technician:
+7421.0901,Field Technician:
+7421.0701,Field Technician:
+7421.0501,
+7421.0801,Field Technician:
+7421.0601,"Fieldman,"
+6111.2000,
+6224.0700,
+3151.0500,
+7313.0103,"Filler, Aerated"
+8160.8300,
+8160.8400,
+8132.0800,
+3521.0501,
+7542.0700,
+8131.2300,
+8131.2400,
+8160.1300,
+8160.3500,
+8160.7400,
+8212.2101,Final Assortment
+3122.6509,Final Product QC
+7543.0702,Final Quality
+7313.2601,Final Testing
+3113.0802,Finance Agent
+3312.0100,
+1211.9900,
+3321.0201,Financial Analyst
+2412.0200,
+1346.9900,
+2412.9900,
+2412.0100,
+3119.0300,
+7312.0800,
+7318.4000,
+8171.1700,
+8141.1000,
+8141.0800,
+5411.0100,
+5411.9900,
+3119.1000,
+3119.0900,
+3119.0800,
+2142.0501,"Fireman,"
+8182.0800,
+8160.6200,
+6224.1000,
+6224.0900,
+6224.1100,
+6224.0500,
+6224.0600,
+6223.0101,
+6222.0200,
+6222.0100,
+3423.9900,Fitness
+3423.0101,Fitter – Electrical
+7412.0201,Fitter – Fabrication
+7224.0102,
+7231.0400,
+7412.0203,Fitter Electronic
+7421.0101,Fitter
+7311.0401,"Fitter Levelling,"
+7233.0121,"Fitter, Bench"
+7233.0200,
+7233.2600,
+7214.0800,
+7233.0100,
+7233.2400,
+7233.2200,
+7233.2300,
+7233.2700,
+7233.2100,
+7214.0700,
+7233.2901,Occupational
+8211.1202,"Flake Miller,"
+8160.1900,
+8152.0600,
+8121.2400,
+7535.0200,
+7535.0500,
+8155.0201,
+4221.0200,Flight Engineer
+3153.1100,
+1324.1000,
+5111.0400,
+7122.9900,
+3322.1305,
+3435.0500,
+6113.0601,Floriculturist –
+6113.0602,Flour Mill
+8160.1000,
+8143.0400,
+7535.0900,
+3135.2001,"Folder,"
+8159.0100,
+7515.9900,
+8160.9900,Foodstuff Freezer
+8160.3000,
+3122.0200,
+3119.0200,
+6210.0300,
+6210.0200,
+6210.0100,
+6210.0400,
+6210.9900,
+9215.9900,
+7221.0301,Forging Shop Shift
+3122.4501,Forging Shop
+3122.4502,Fork Lift Truck
+8344.0201,
+8212.1000,
+7523.0700,
+3151.0400,
+2512.0401,"Frame Maker, Cap"
+7532.0500,
+8153.0701,Freelance
+2642.0300,
+9333.9900,
+7523.1700,
+8131.4400,
+6111.0852,Front Sizer (Cotton
+8152.2000,
+3253.0201,Frontman
+7322.1600,
+8160.2400,
+7514.9900,
+7543.0801,Functional Tester
+7543.0901,Functional Tester
+7543.1001,Functional Tester
+7543.1002,Fur And Leather
+8155.9900,
+8181.3400,"Furnace Man, Bidi"
+7516.0800,
+8181.1200,
+3135.2600,
+3133.0200,
+3135.0900,
+3135.1300,
+3135.1100,
+3135.1200,
+2163.0400,
+7317.0300,
+7317.0500,
+7317.0400,
+7522.0100,
+8122.3500,
+9611.0100,
+9611.9900,
+6113.0301,
+7532.9900,
+7532.0901,Occupational
+8151.0100,
+7212.0400,
+7212.0303,Gas Storage
+8131.8300,
+3121.0800,
+3132.0300,
+5414.0501,
+7315.0800,
+6210.0500,
+6210.0700,
+6210.0600,
+8113.0700,
+8131.2900,
+7223.1300,
+7313.1101,
+7313.1701,
+7313.1300,
+8189.0100,
+7313.1400,
+8189.0200,
+7313.1001,
+7313.0901,
+7313.1303,Gemstone Final
+7313.1602,Gemstone Girdle
+7313.1505,Gemstone Polisher
+7313.1506,Gemstone Pre -
+7313.1601,Gemstone Thread
+7313.0202,Genealogist
+2632.1000,
+5329.0101,"General Manager,"
+1311.0300,
+1211.0100,
+1330.0600,
+1323.0300,
+1311.0500,
+1321.0700,
+1321.0800,
+1311.0200,
+1211.0200,
+1311.0400,
+1411.0200,
+1321.1000,
+1322.0400,
+1311.0100,
+1311.0600,
+1322.0500,
+1431.0100,
+1420.0500,
+1324.2200,
+1324.2100,
+1321.0900,
+1322.0600,
+1420.0400,
+2211.9900,
+2632.1200,
+2114.0100,
+2114.1500,
+2114.9900,
+2114.0400,
+7318.3500,
+8181.9900,
+7315.2000,
+7316.0600,
+7316.0200,
+7315.9900,
+2141.2200,
+8181.2800,
+7223.2100,
+7316.1000,
+7125.0100,
+7125.0200,
+7125.9900,
+7313.0301,
+7313.0401,
+7313.0500,
+7313.0700,
+7313.0702,Goldsmith Frame
+7313.0703,"Goods Supervisor,"
+1324.1300,
+1324.1400,
+5311.0300,
+2611.0500,
+3353.9900,
+3352.9900,
+7521.0500,
+7531.1400,
+8342.0400,
+7318.1300,
+7515.0400,
+8131.0900,
+8181.2000,
+7314.1000,
+2166.0501,
+6121.1400,
+7422.0202,
+5163.0300,
+6113.0501,Grinder – Hand -
+7224.0401,Grinder (Stone
+7315.2300,
+7224.0200,
+7224.0100,
+7514.0300,
+8171.0200,
+7223.2200,
+8111.2000,
+6113.0400,
+2142.1001,"Guard, Goods"
+5112.0200,
+5112.0100,
+5113.9900,
+8160.5500,
+2212.1200,
+5141.0200,
+5141.0100,
+5141.9900,Hammer Man
+7221.0400,
+9331.0300,
+7318.0600,
+7533.0201,
+7533.0300,
+9321.9900,
+7316.0700,
+9331.9900,
+7318.0500,
+2163.0301,Hand Spinner
+7318.4200,
+7318.9900,
+7422.0203,Handwork
+2359.0100,
+3119.0400,
+3152.0500,
+8121.4800,
+8122.6900,
+2523.0501,Harmonium Fitter
+7312.0400,
+7312.0300,
+7312.0200,
+7536.1800,
+8341.0201,"Hat Maker,"
+7531.0700,
+6122.0401,
+6221.0102,Haulage Engine
+8343.1500,
+9520.0100,
+3434.0100,
+4323.0200,
+3341.0700,
+1345.0100,
+8151.1200,
+2635.0600,
+2263.0100,
+3257.0600,
+8131.2200,
+8121.3701,
+3135.3001,Heating Plant
+3132.0500,
+3115.1100,
+7223.1400,
+8332.9900,
+7536.1600,
+8156.0200,
+8156.0400,
+8156.1900,
+8156.2400,
+8156.1800,
+8156.2601,Helper – Dry
+8155.1202,Helper – Finishing
+8156.2603,Helper – Finishing
+8155.1203,Helper – Finishing
+8153.0703,Helper – Parts
+8153.0702,Helper – Upper
+8156.2602,Helper – Wet
+8155.1201,
+9313.0201,Helper Carpenter
+9313.0401,Helper Electrician
+9313.0501,Helper Laboratory
+9313.0601,Helper Mason
+9313.0301,Helper Painter and
+9313.0701,Helpers and
+9112.9900,
+6121.0400,
+8155.0400,
+8155.0601,
+8155.0500,
+2633.0100,
+3212.0501,Hoist Operator
+8343.1200,
+1221.0301,Home
+5243.0300,
+2631.0300,
+5414.0200,
+5322.0101,Home -Based
+5322.9900,
+7224.0600,
+3131.1000,
+7536.2700,
+9332.0100,
+2132.0200,
+8141.1400,
+3133.0800,
+5151.0600,
+9621.1200,
+1411.9900,
+4224.9900,House Agent
+3334.0200,
+5151.0300,
+5152.0100,
+5151.0101,
+2424.0300,
+6224.9900,
+8160.0800,
+7111.0100,
+2142.0500,
+8131.2700,
+8131.6600,
+2114.5500,
+2114.0500,
+3132.0100,
+7513.0500,
+3114.0801,ICT Technician
+3114.0802,Illumination
+2151.0400,
+7321.0200,
+7521.0200,
+3119.0500,
+3132.9900,Incinerator
+3132.1300,
+7412.0102,Inclusion Plotter
+7313.1201,Incoming
+4321.0302,Incoming QC
+7543.0701,Industrial –
+2634.0700,
+2141.0300,
+2144.1302,Industrial Engineer
+2141.0301,Industrial Robot
+3139.9900,
+1330.9900,Information and
+3512.9900,
+7422.9900,Information
+2432.0300,
+2356.9900,
+3513.0301,Infrastructure
+7422.0204,Injection Moulding
+8142.0501,
+8141.0713,Inland and Coastal
+6222.9900,
+7313.2300,
+7522.1300,
+7543.0302,Inner Layer and
+8212.2501,
+3113.0801,"Inquiry Clerks,"
+4225.9900,
+2619.0600,
+7419.0400,
+3351.0100,
+3352.0100,
+3355.0100,
+3341.0900,
+7422.2002,Installation and
+7422.1001,Installation
+3114.0901,Installation
+3114.0902,Occupational
+7422.0100,
+5242.0401,Instrument
+2141.0200,
+7311.1400,
+2652.0500,
+2652.0400,
+2652.0600,
+7124.9900,
+7124.0300,
+7124.0400,
+3321.0200,
+3321.0100,
+3321.9900,
+2611.1001,Interior Designer
+3432.0100,
+8141.0715,Interpreter
+2643.0300,
+4321.0102,Inventory
+4321.0103,Inventory
+4322.0101,Issuing and Return
+9321.1102,IT Co -Ordinator in
+3512.0501,Jackman
+8111.2500,
+5151.0201,
+7313.0801,
+7313.1800,
+7313.0101,Jewellery Retail
+5223.0103,Jewellery Retail
+5223.0102,"Jewellery,"
+7313.9900,
+7222.0300,
+7222.0400,
+8154.1000,
+3122.2800,
+3311.0200,
+3421.0200,
+7315.2100,
+7115.0500,
+7523.1200,
+2612.0200,
+2612.0500,
+2612.0100,
+2612.9900,
+2659.1000,
+3122.7000,
+8160.4800,
+8160.4700,
+8160.4500,
+2521.0202,Junior Functioner
+7419.0200,
+4322.0201,Junior Software
+2512.0205,Jute Technologist
+2141.1200,
+5249.0101,Key Accounts Sales
+3322.0601,Khas Thatti Maker
+7317.1200,
+9329.0100,
+8154.0200,
+8181.1800,
+8181.1600,
+8181.1700,
+8181.1500,
+7521.0100,
+9412.0100,
+5120.0500,
+4321.0604,
+8141.0716,"Knife Dresser,"
+7542.0600,
+7318.6600,
+8152.0900,
+8152.0300,
+7318.0400,
+7318.4900,
+2113.0623,Lab Chemist –
+2113.0624,Lab Chemist –
+2113.0621,Lab Chemist –
+2113.0622,Labeller
+9321.0201,
+3141.0200,
+3111.0300,
+3116.0300,
+2240.0100,
+3119.0100,
+3116.0200,
+3111.0500,
+3116.0100,
+3117.0300,
+3116.0500,
+3213.0200,
+3111.0100,
+3111.0200,
+3141.0100,
+8131.8700,
+3240.0400,
+2635.0100,
+9211.0200,
+9312.0100,
+9215.0100,
+6210.2000,
+8152.1400,
+7318.5100,
+3222.0300,
+8142.0200,
+7233.1900,
+7317.0100,
+2643.0100,
+2341.0200,
+2330.0400,
+2643.0402,Language
+2643.0401,Lapper
+7224.0700,
+8121.0300,
+7115.0800,
+8350.0400,
+8189.0401,Laser Supervisor
+3122.6505,Laser Technician
+3119.1100,
+7536.0800,
+8156.1401,
+8141.1600,
+8141.1500,
+7223.0701,Lattice Pegger
+7318.5200,
+9121.9900,
+9121.0200,
+2611.9900,
+7532.0903,Occupational
+2144.1301,Lead Brush Maker
+8114.0600,
+7212.0600,
+7313.0600,
+8155.0801,
+7536.2000,
+8156.0800,
+8159.9900,
+8155.0900,
+8155.1200,
+2141.2100,
+7535.1300,
+2151.0403,LED Light Design
+2151.0404,LED Light Repair
+3113.1002,LED Luminaries
+3113.1001,Ledger Clerk
+4311.0300,
+3411.9900,
+3411.0100,
+2611.1002,Legal
+2619.9900,
+2611.0400,
+1111.9900,
+7315.1500,
+7315.1200,
+7315.1400,
+9621.0600,
+8122.8100,
+2622.0100,
+2622.0200,
+2622.9900,
+4411.0100,
+4411.9900,
+3141.9900,Lifeguard
+3423.0501,Lift Truck Operator
+8344.0100,
+8344.9900,
+8343.1800,
+3521.2100,
+8322.0501,Lighting Artist
+2654.0901,Lime Juice Tank
+8160.4600,
+7535.0300,
+2153.0400,
+3522.0200,
+3122.6000,
+7413.0100,
+7422.0400,
+5151.0500,
+7322.0200,
+8132.1000,
+8171.0600,
+7515.0200,
+7321.0800,
+3118.0700,
+2654.0351,"Livestock Worker,"
+6121.0300,
+6121.0500,
+3131.1100,
+9333.0100,
+9333.0202,Loader/Loading
+9333.0101,Loan Approval
+3312.0101,Locksmith
+7222.0700,
+7233.2500,
+8311.0100,
+3115.1400,
+8311.0601,"Loftsman, Ship"
+7115.0600,
+6210.1600,
+6210.1000,
+8121.5200,
+8152.1000,
+8131.7500,
+7213.0600,
+3113.0401,Machine
+8171.1200,
+7223.0501,Machine Shop
+7223.0502,"Machineman,"
+7322.1900,
+7322.2200,
+7322.1800,
+7322.2100,
+3139.0400,
+3139.0300,
+7322.2000,
+8181.0200,
+7233.9900,
+9321.1401,Machining
+7223.5001,Machinist
+7233.0102,Magician
+2659.0900,
+2612.0600,
+2612.0700,
+8160.4100,
+9332.0300,
+9621.0700,
+4412.9900,
+4412.0100,
+8111.1100,
+7412.0801,Maintenance
+3113.0501,Maintenance
+7233.0101,Maintenance
+7422.0200,
+3113.0601,Maintenance
+3115.0102,Maintenance
+7231.0101,Maintenance
+3115.0103,Occupational
+3113.0102,Maize Cultivator
+6111.0301,Maker (Pottery
+7314.0500,
+7322.0600,
+5142.0400,
+2212.1800,
+8160.6900,
+8160.7300,
+6224.1300,
+2431.0504,Management
+2431.0502,Manager –
+1213.0102,Manager –
+2144.0106,
+2146.0501,Manager
+3115.0501,Manager Material
+1223.0102,Manager Stores
+4321.0401,Manager Supplier
+1324.0101,Manager Testing
+1223.0101,Manager Vendor
+1324.0103,"Manager,"
+1222.0100,
+1311.1000,
+1311.0700,
+1213.0100,
+1213.0200,
+1346.0100,
+1330.0100,
+1323.0100,
+1311.1400,
+1321.0100,
+1420.0300,
+1222.0200,
+1412.0100,
+1324.0800,
+1321.0500,
+1321.0300,
+1219.0200,
+1311.1200,
+1219.0100,
+1346.0200,
+1323.0200,
+1311.1300,
+1411.0100,
+1321.0600,
+1324.0100,
+1322.0100,
+1311.0900,
+1311.1100,
+1311.0800,
+1311.1500,
+2144.0105,"Manager, Quarry"
+1322.0200,
+2654.0500,
+1420.0200,
+1324.1200,
+1324.0500,
+1324.0200,
+1321.0400,
+1322.0300,
+1420.0100,
+1213.9900,
+1120.9900,
+6111.1001,Manicurist
+5142.0200,
+2424.0100,
+7313.1305,Manual Bruter
+7313.1301,Manual Insertion
+8212.1601,Manual Soldering
+8212.1807,Manual Training
+2356.0100,
+1321.9900,
+3122.9900,Map and Chart
+7323.0200,
+2131.0200,
+6210.1200,
+7222.0100,
+3422.0500,
+2431.0100,
+2431.0503,Market Research
+2431.0501,Marketing and
+3322.1702,Marketing
+3322.1701,Masher
+8160.7000,
+8212.1805,Masseur
+2264.0400,
+3115.0601,Master Cutter
+7532.0600,
+2619.0400,
+2356.0301,"Masticator,"
+8131.6000,
+8152.0500,
+7317.0800,
+7317.0900,
+1324.0102,Material Scientist
+2111.1100,
+2120.0100,
+2120.9900,
+5151.0400,
+7534.0500,
+9311.0101,Measurement
+7543.0301,Mechanic Aircraft
+7232.0500,
+7232.0600,
+7232.0200,
+7231.0401,Mechanic
+7311.0100,
+7311.0400,
+7311.0600,
+7231.0100,
+7233.1400,
+3214.0100,
+7233.0400,
+7233.0700,
+7233.0600,
+7233.1100,
+7233.1500,
+7231.0500,
+7311.0800,
+7233.0300,
+7412.0100,
+7233.1700,
+7233.1300,
+7127.0100,
+7233.2000,
+7233.0800,
+7233.1800,
+7233.1000,
+7233.1600,
+7233.0900,
+8212.1501,Mechanical
+2144.0900,
+2144.1200,
+2144.0700,
+2144.0100,
+2144.0600,
+2144.1000,
+2144.0401,
+2144.0500,
+3115.0101,
+3115.9900,
+2144.9900,
+7412.0202,Mechanical Fitter
+7412.1001,Mechanical Sub -
+8211.0101,"Mechanist,"
+7223.0500,
+2513.0302,Media Developer
+2513.0301,Occupational
+3214.9900,Medical and
+2269.0700,
+3256.9900,
+3211.0501,Medical Imaging
+3211.9900,
+3212.0701,Medical Records
+3252.0101,Medical
+2433.0201,
+2635.0400,
+3512.0700,
+8121.3100,
+2612.0900,
+2612.1300,
+2612.1100,
+3323.0102,Merchandiser –
+3323.0101,Merry -Go-Round
+3435.0400,
+9621.9900,
+7224.1100,
+8121.5800,
+8122.9900,
+7211.9900,
+8121.9900,
+3135.9900,
+7313.0802,Metal
+7221.0800,
+7132.0300,
+8122.5500,
+7223.3000,
+7224.9900,
+7223.9900,
+2146.0500,
+2146.0600,
+2112.0100,
+2112.9900,
+9623.0300,
+7411.0500,
+3115.0401,Methods Engineer
+2141.0600,
+3119.0700,
+2111.1000,
+3142.0101,Microstat
+7321.1300,
+2153.0300,
+2341.0100,
+3222.0100,
+3222.9900,
+3222.0200,
+6121.0700,
+6121.0800,
+5212.0100,
+8154.1900,
+8160.0700,
+8131.0200,
+7223.1201,
+7233.1200,
+2659.0800,
+8111.1400,
+8111.0800,
+8111.0100,
+8111.0600,
+8111.0700,
+8112.9900,
+2114.0600,
+8111.9900,
+9311.0100,
+3117.9900,
+9311.9900,
+2146.0100,
+2146.0300,
+2146.0200,
+2146.0400,
+2146.9900,
+1322.9900,
+7316.1100,
+6129.0200,
+6130.9900,
+6114.9900,
+8131.6200,
+3135.0500,
+7512.0200,
+8181.2300,
+8131.0400,
+8160.0400,
+8343.0500,
+7233.0701,
+8342.2101,Model
+5241.0200,
+5241.0100,
+2144.0802,Modeller
+2166.0202,Modeller (Except
+2651.0200,
+8181.1100,
+8212.2302,Module Soldering
+8212.2301,Moneylender
+4213.0100,
+3341.0500,
+7322.0400,
+7322.0300,
+7523.1000,
+7122.0500,
+7231.9900,
+8321.9900,
+7314.0100,
+8142.1300,
+8141.1201,
+7211.0100,
+7314.0400,
+8142.1400,
+7211.0200,
+8141.2200,
+7211.0300,
+7523.0900,
+8142.0502,Mouldman (Glass)
+7315.0600,
+7321.1000,
+3521.0200,
+3121.0600,
+8113.0300,
+9329.0200,
+2166.0201,
+9623.0301,Munsif
+2612.0400,
+2652.0100,
+7312.0100,
+7312.9900,
+7312.1800,
+2652.9900,
+3311.0202,Mycologist
+2131.0700,
+8156.0600,
+7531.1600,
+2653.0200,
+2269.0100,
+3153.0800,
+6112.0201,Net Maker
+6224.1400,
+7318.6400,
+3114.1301,Neurologist
+2212.0100,
+2622.0500,
+2642.0100,
+5243.0100,
+8160.2000,
+2141.1100,
+3131.0800,
+2633.0400,
+3221.0100,
+3221.0200,
+2221.0100,
+6113.9900,
+6113.0200,
+3221.9900,
+3221.0300,
+2265.0100,
+8350.0800,
+2212.1100,
+2423.0500,
+2141.2600,
+2264.0200,
+2114.0800,
+3341.1000,
+4419.0500,
+3341.9900,
+2619.0700,
+7514.0200,
+8160.1200,
+7514.0100,
+2145.1000,
+3131.0700,
+2120.0500,
+3212.0101,
+7224.0402,"Operator, Call"
+5244.0100,
+8341.0200,
+3135.1900,
+7419.0600,
+8212.1200,
+3135.2300,
+2212.0800,
+3119.9900,
+8131.7600,
+7422.0802,Optical Fibre
+7422.0801,Occupational
+7315.1100,
+3254.0200,
+3254.0100,
+2267.9900,
+2261.0200,
+2652.0200,
+2636.9900,
+5223.0101,Order
+5243.0200,
+7312.1000,
+2269.0600,
+2261.0300,
+7311.1200,
+2212.1400,
+2269.0500,
+3435.9900,
+3322.1400,
+7512.0300,
+8343.0700,
+3121.0400,
+3112.0100,
+3341.0200,
+9332.0400,
+2163.0100,
+9321.0102,Packaging
+2141.0400,
+9321.0101,
+8111.1800,
+8154.2300,
+6111.0101,Paediatric Dentist
+2261.0600,
+2212.1300,
+7132.0500,
+7131.0100,
+2651.0400,
+7132.0100,
+7132.0700,
+7131.0300,
+7132.0900,
+7132.0400,
+7132.0201,
+7131.0200,
+7132.0600,
+7131.9900,
+3123.0600,Painting
+3123.0700,Palaeontologist
+2114.0300,
+2133.0400,
+5161.0200,
+4120.0300,
+7512.0600,
+8160.2800,
+8160.3800,
+8189.0701,
+5120.0600,
+7522.2100,
+8219.9900,
+7131.0500,
+8143.9900,
+8143.0500,
+3134.0600,
+2240.9900,Parasitologist
+2131.1100,
+7514.0500,
+7122.0600,
+9329.0801,"Passenger Guide,"
+5112.0800,
+8131.1800,
+8160.7500,
+8160.0300,
+2212.1700,
+4419.0300,
+3353.0200,
+7536.0400,
+7531.1300,
+7222.0800,
+7522.1000,
+4419.0200,
+7112.0400,
+4213.0200,
+4213.9900,
+8212.2701,Peanut Blancher
+8160.3100,
+5142.0201,Peeling Machine
+8160.6100,
+8172.0800,
+8160.2200,
+7535.1700,
+7535.9900,
+7535.2100,
+7535.1900,
+7535.1800,
+7535.2000,
+7535.2200,
+8131.8900,
+2632.0600,
+7543.0802,Performance
+7543.1005,Performance
+7543.1006,Periodontist
+2261.0400,
+3112.0200,
+7542.0101,Personal and
+2423.9900,
+4120.0200,
+5414.0171,Personnel and
+1212.9900,
+1212.0100,
+3411.0300,
+5245.0101,
+3117.0200,
+3134.9900,
+2114.0200,
+3213.9900,
+3213.0100,
+2212.1500,
+3213.0101,Philatelist
+2633.0500,
+2643.9900,
+2633.9900,
+3212.0601,Photo Type Setting
+7322.0700,
+3431.0200,
+3431.0300,
+3431.0100,
+3431.9900,
+8132.0600,
+8132.0900,
+8132.9900,
+7321.1400,
+3118.0302,Physical Science
+3111.9900,
+2320.0102,Physical Training
+3423.0200,
+2230.0100,
+2230.0300,
+2211.0100,
+2230.0200,
+2269.0200,
+2269.0300,
+2230.0400,
+2269.0400,
+2111.0600,
+2111.0700,
+2111.0100,
+2111.0300,
+2111.0400,
+2111.0200,
+2111.0800,
+2111.0500,
+2111.9900,
+2212.1900,
+2264.0100,
+2264.9900,
+7312.1200,
+8212.1603,
+8111.0500,
+8122.6700,
+9211.0300,
+7514.1000,
+7511.0500,
+7522.1600,
+7125.0300,
+7318.4300,
+8342.1100,
+3152.0600,
+3153.0300,
+3153.0500,
+8151.1600,
+7126.0301,
+7126.0201,
+8112.1000,
+2132.0900,
+7522.1500,
+8160.2300,
+3112.0300,
+7223.0900,
+7122.0400,
+7223.1000,
+7523.0600,
+7313.1202,Planning Engineer
+2141.0500,
+3122.6503,Plant Breeder
+2131.0600,
+2131.1500,
+2131.1800,
+6113.0100,
+7212.0402,Plasterer
+7123.0100,
+7123.9900,
+8142.1600,
+3122.2300,Plastic  Moulding
+3122.2200,Plastic Moulding
+8142.1301,Plastic Products
+8142.9900,
+7512.0700,
+7313.0102,Platform
+1324.1600,
+8212.2002,Ploughman
+9211.0100,
+7233.1301,Plumber (Welder)
+7212.0102,Plumber
+7212.0101,Occupational
+3322.5002,"Plumber, General"
+7126.0101,
+7126.0103,"Plumber, General"
+7126.0105,"Plumber, General"
+7126.0104,"Plumber,"
+7126.0107,"Plumber,"
+7126.0106,"Plumber,"
+7126.0102,Plumbers and Pipe
+7126.9900,
+3118.0201,Plumbing Foreman
+3123.0301,Plumbing Mason
+7112.0201,Plumbing Products
+5223.0104,Plumbing Products
+3322.5001,
+2142.0301,Plumbing
+3123.0302,Pneumatic
+7126.0600,
+2641.0500,
+8312.0300,
+8312.9900,
+5412.0100,
+3355.9900,
+5412.9900,
+2611.0700,
+7313.1503,Polished Diamond
+7313.1502,Polisher
+7224.0801,
+8181.1000,
+7313.0701,Polishing Machine
+8114.0100,
+3122.6508,Political Scientist
+2633.0600,
+1114.0100,
+2143.0500,
+9621.0500,
+1330.0300,
+8155.1102,Postman
+4412.0200,
+7314.0900,
+7412.0901,Poultry Farm
+6122.0301,
+6122.9900,
+2132.0800,
+7514.0400,
+8156.0100,
+7221.0300,
+3131.0500,
+7223.2300,
+3131.9900,Power Shovel
+8342.0501,
+8141.0101,Pre-Assembly
+8156.2501,Precipitator
+8112.0500,
+7311.9900,
+7322.1500,
+3322.4001,Pre-Delivery
+3322.4002,Pre-Press
+7321.9900,
+2342.9900,
+4411.0300,
+7514.1100,
+2612.1200,
+2612.1000,
+8159.0400,
+7211.0102,Press Shop
+7211.0101,Press Shop Shift
+3122.4601,Press Shop
+3122.4602,"Presser, Hand"
+9121.0600,
+8171.2200,
+8157.0400,
+8212.1806,Pressman
+8157.0401,Pressman
+8181.0700,
+8181.0400,
+7322.1700,
+8181.0300,
+7322.2300,
+8121.4201,Priest
+2636.0100,
+2341.0400,
+2341.9900,
+1120.3900,
+8132.0100,
+7322.9900,
+7322.1300,
+8142.1100,
+8132.0700,
+2141.1700,
+2141.2400,
+5413.9900,
+4120.0100,
+2635.0300,
+2144.0101,"Process Man,"
+3133.0100,
+3135.2002,Process Server
+4419.0800,
+2144.0102,Process Try -Out
+2144.0103,Process Validation
+2144.0104,Processing Man
+8160.2700,
+8131.5800,
+2654.0700,
+2654.0600,
+2431.0201,Product
+2144.0402,Product Design
+2144.0803,Occupational
+2144.0801,Product
+3122.6502,Product Executive
+2431.0601,Product Graders
+7543.9900,Product Specialist
+3114.1101,Production
+2144.0403,Production
+2654.0800,
+2141.0501,Production
+3122.3551,Professional
+2221.9900,
+3421.0100,
+2310.9900,
+7223.2900,
+8141.0700,
+2656.0100,
+2512.0300,
+2512.0800,
+3514.0300,
+3435.0300,
+4413.0200,
+2431.0800,
+3334.0100,
+2261.0500,
+2619.0100,
+2144.0701,Prototyping
+2144.0804,Occupational
+6112.0100,
+2211.0500,
+2634.0100,
+2634.0800,
+2634.0400,
+2634.0300,
+2634.0500,
+2634.9900,
+2634.0200,
+3521.1000,
+2142.0901,Public Prosecutor
+2611.0600,
+2432.0200,
+2432.9900,
+4419.0100,
+2432.0100,
+9623.0401,Pug Mill Operator
+8181.2500,
+8171.9900,
+8160.6000,
+6111.0401,Pulveriser
+8112.0200,
+8131.0300,
+3134.0300,
+3134.0700,
+3132.0600,
+3132.1000,
+7126.0500,
+2659.1200,
+3323.0401,Purchase
+3323.0501,Purchasing Agent
+3323.0200,
+2636.0200,
+7536.2400,
+1211.0300,
+7421.1403,QC Executive –
+7543.0201,Quality Assessor
+7543.0202,Quality Assurance
+2519.0300,
+2113.0901,Quality Assurance
+2519.0301,Quality Assurance
+2519.0401,Quality Assurance
+1213.0101,
+2113.0601,Quality Control
+3139.5001,Quality Control
+7543.3001,Quality Control
+7543.3002,Quality Control
+7543.3003,Quality Control
+7543.3004,Quality Control
+7543.3005,Quality Controller
+3139.5002,Quality Engineer
+2152.0601,Quality Engineer
+2519.0501,Quality Inspector –
+7543.2001,Occupational
+8111.1000,
+8111.0900,
+9623.0601,RAC Assembly
+8212.1301,Race Horse Trainer
+2659.1400,
+7422.0900,
+3521.1700,
+7223.1600,
+2143.0300,
+2642.0500,
+7422.1600,
+7422.1700,
+2153.0200,
+7422.1500,
+3521.1500,
+3521.0800,
+3521.1400,
+7422.1400,
+2656.9900,
+2212.0600,
+3211.0101,Rag Machineman
+8151.0300,
+8154.2000,
+7211.0400,
+1324.1700,
+8160.4400,
+7318.5300,
+8131.3700,
+6123.0201,
+8131.4100,
+4226.0100,
+4224.0100,
+7312.0600,
+8151.1100,
+8151.1000,
+8151.1300,
+8122.3000,
+8160.3300,
+8131.6500,
+8212.1604,
+3256.0101,Regional Dealer
+3322.1601,Regional Manager
+3322.1102,Regional Parts
+3322.0701,Regional Retail
+3322.2101,Regional Sales
+3322.1201,Regional Sales
+3322.1501,Regional Service
+2431.0101,Regional Service
+2431.0102,Registrar
+2619.0300,
+2619.0200,
+7543.0803,Occupational
+5244.0302,Rendering Artist
+2166.0210,"Renovator,"
+2651.0500,
+7421.1101,Repair Welder
+7212.0111,"Repairer,"
+7318.0800,
+4131.0200,
+1223.0201,"Reservation Clerk,"
+4221.0300,
+3132.0200,
+1412.9900,
+2621.0500,
+2621.0700,
+2621.0400,
+2621.0300,
+2621.0600,
+1420.9900,
+5249.0500,
+8160.2600,
+7321.0900,
+8132.0500,
+3422.0300,
+7223.1900,
+8111.0401,Rigger
+7215.0100,
+7215.0101,Riggers and Cable
+7215.9900,
+2166.0203,Risk Management
+2412.0400,
+7214.0900,
+7214.1000,
+8156.2600,
+8342.1700,
+8160.6600,
+3139.1400,
+6224.1200,
+3117.0100,
+7224.0300,
+8122.7500,
+8160.5900,
+8151.1700,
+7322.0900,
+7313.0100,
+3135.2000,
+3135.1700,
+8121.2700,
+3135.1800,
+8181.0600,
+8160.0900,
+8155.1000,
+8111.1300,
+7121.9900,
+5151.0202,Room Bearer/Bell
+5151.0800,
+7318.2100,
+2659.0100,
+2166.0212,Roto Curing
+8141.0712,Rough Assorter
+7313.0902,Rough Marker
+7313.0903,"Router, Wood"
+7523.0500,
+8212.2503,Rubber and
+8141.9900,
+8141.0400,
+7313.2401,Rubber Nursery
+1311.0901,Rubber Nursery
+4311.0801,Rubber Nursery
+3122.8001,Rubber Nursery
+6112.0801,Rubber Nursery
+6112.0802,Rubber Stamp
+8141.2400,
+8350.0700,
+9121.0500,
+9621.0800,
+7536.1900,
+2141.2500,
+7542.0200,
+7543.0804,Safety Testing
+7543.1004,Safety Testing
+7543.1003,Sail and Awning
+7533.1000,
+1221.9900,
+2434.0101,Sales Associate
+5242.0102,Sales Consultant
+3322.1304,Sales Consultant
+3321.0102,Sales Consultant
+3322.1302,Sales Consultant
+3322.1203,Sales Consultant
+3322.1303,Occupational
+1221.0601,Sales
+5242.9900,
+1120.3402,Sales Executive –
+2433.0401,Sales Executive –
+5211.0301,Sales Executive –
+2433.0301,Sales Executive –
+2433.0501,Sales Executive
+5243.0502,Sales Executive
+2431.0651,Sales Lead (Pre -
+3322.1202,Sales Manager
+3322.1301,Sales Manager
+1221.0602,Sales Manager
+1221.0200,
+1221.0100,
+3322.0802,Sales Officer (Auto
+3321.0101,Sales
+3322.0101,
+3322.0900,
+5222.0201,
+3322.0500,
+5222.0100,
+2424.0401,Sales/Pre -Sales
+2434.0201,Sales/Service
+2424.0402,"Salesman, Retail"
+5249.0301,
+5249.0200,
+9329.0300,
+8122.6000,
+8111.1900,
+7543.5001,Sampling Tailor
+7531.0101,Sand Blast
+8342.1900,
+7316.0300,
+6210.1300,
+7523.1800,
+8154.2600,
+3257.0100,
+7511.0300,
+7224.0900,
+8190.0100,
+8113.0600,
+2351.0100,
+8342.1300,
+7318.1800,
+3122.3450,
+8154.0300,
+8111.2600,
+8342.0301,
+8342.0200,
+7542.0500,
+4414.9900,
+2641.0302,Script Researcher
+2641.0602,Script Writer
+2641.0601,
+7535.0700,
+8155.0300,
+2651.0100,
+8154.0800,
+8350.0300,
+8141.0900,
+8160.2500,
+8121.5500,
+3135.2500,
+3351.0300,
+7535.1600,
+8156.1600,
+7541.0500,
+3151.0200,
+3152.0300,
+4120.9900,
+4131.0100,
+1324.1900,
+3341.0800,
+3311.9900,
+2522.0201,Security Officer
+5414.0101,
+5414.0111,Seed
+6130.0201,
+6130.0202,Seismologist
+2114.0700,
+7318.1200,
+5249.0600,
+7419.0100,
+1112.9900,
+1114.0200,
+1114.9900,
+2330.0100,
+2330.0300,
+2330.0200,
+2330.9900,
+7513.0200,
+5412.0200,
+8350.0100,
+8182.0500,
+3322.2502,Service Engineer –
+2144.0601,Service Engineer –
+2144.1401,Service Engineer –
+2144.1402,Service Office
+3322.2504,Service Office
+3322.2503,Service Supervisor
+3322.2501,Service Training
+2424.0501,"Set Framer, Silk"
+7318.2800,
+7223.0400,
+7223.0300,
+8160.5300,
+7422.1201,Occupational
+7533.0100,
+7533.0700,
+8153.9900,
+7533.9900,
+8153.0101,
+7511.0600,
+8111.2300,
+7223.0800,
+7523.0400,
+8181.2600,
+6121.1300,
+6121.1200,
+8121.2300,
+8122.7600,
+8141.1100,
+7223.2400,
+7213.0101,
+7213.9900,
+7541.0400,
+2619.0900,
+3135.1401,Ship and Aircraft
+3151.9900,
+3152.9900,
+8350.9900,
+8182.9900,
+7115.0700,
+3411.0200,
+7531.0500,
+9510.9900,
+7536.0300,
+7536.9900,
+7536.0100,
+7536.0200,
+5223.0100,
+5211.0200,
+8122.6200,
+7542.0100,
+7542.9900,
+8111.2700,
+4226.0201,Shrimp Farmer
+6221.0101,Shunting Worker
+8312.0200,
+7542.0400,
+8160.1100,
+8131.0800,
+3521.2000,
+8312.0100,
+8331.0600,
+7316.1200,
+8212.1902,Occupational
+7322.1200,
+2132.0500,
+8154.2700,
+2652.0300,
+3121.0500,
+7412.1002,Site Surveyor/R F
+7422.1801,Size Maker
+8131.1700,
+8151.1900,
+8122.7100,
+7541.0700,
+5142.0300,
+7536.0600,
+8156.1001,
+8122.7300,
+8121.3300,
+7511.0200,
+3111.0700,
+3111.0600,
+7215.0200,
+8181.2700,
+8122.7700,
+8141.0500,
+8121.2500,
+7318.2900,
+7223.1100,
+7422.2301,Snake Charmer
+2659.1100,
+7516.1000,
+8131.8400,
+2632.0200,
+3412.9900,
+2635.9900,
+2632.0100,
+2632.9900,
+8152.0800,
+8152.0700,
+7318.2000,
+2512.0204,
+2512.0301,Software Engineer
+2512.0201,
+2132.0400,
+2132.0300,
+6111.1501,Solar Energy
+2143.0100,
+7421.1401,Solar Photo Voltaic
+7421.1402,Solder Masking &
+8212.2504,Soldering and
+7212.0501,"Sole Leveller,"
+8156.2000,
+8156.0500,
+7536.1500,
+8156.1500,
+2611.0200,
+8131.6300,
+9329.0600,
+7314.1300,
+7315.2400,
+7535.0100,
+9621.0900,
+8171.0400,
+6210.1500,
+8212.1903,Sound  Designer
+2153.0511,Sound Editor
+3521.0511,Sound Engineer
+2153.0500,
+2153.0501,Sound Recording
+3521.0401,
+6111.0501,Spare Parts
+4321.0101,Spare Parts
+4321.0402,Special Needs
+2212.9900,
+8153.0103,Speech Language
+2266.0401,Speech  Pathologist
+2266.0200,
+2266.0100,
+8122.7000,
+7318.4600,
+8151.0600,
+7318.4500,
+2141.1400,
+7215.0300,
+8159.0200,
+8122.8000,
+8122.7900,
+8156.1700,
+8155.0501,Sports Coach
+3422.0201,
+3422.9900,
+7522.1800,
+2264.0401,"Sports, Recreation"
+1431.9900,
+9121.0400,
+7316.0900,
+7318.3600,
+8342.1600,
+7318.3700,
+8111.2601,Spun Pipe
+8121.4500,
+6121.1000,
+2654.9900,
+7535.1000,
+8155.0700,
+5211.9900,
+8112.0300,
+9321.0400,
+7221.0500,
+1120.3400,
+1324.1500,
+1324.0300,
+3521.1100,
+3521.1200,
+3131.0200,
+3131.0100,
+3314.0200,
+4312.0100,
+4312.9900,
+3314.9900,
+2120.0300,
+2120.0400,
+7322.1100,
+8212.1605,Stenciler
+9321.0300,
+8154.2100,
+7321.0500,
+7321.0600,
+5131.0200,
+5111.0200,
+3134.0200,
+8160.8900,
+8153.0102,Occupational
+7536.2100,
+8156.0901,"Stock Clerks, Other"
+4321.9900,
+3122.0300,
+4321.0301,
+5249.0700,
+3240.0200,
+8342.2201,Stone Carver
+7113.0400,
+7113.0200,
+8112.0800,
+8111.1200,
+7113.0300,
+7112.0100,
+2651.0300,
+7113.0500,
+8112.0900,
+8112.0700,
+7113.9900,
+4321.0104,Store Distributor
+4321.0200,
+4321.0100,
+3322.1306,Store Ops
+4321.0501,Storyboard Artist
+2166.0209,Stowing Worker
+8111.1700,
+7126.0400,
+8131.2500,
+8131.6100,
+5212.9900,
+9520.9900,
+2152.0301,
+7214.9900,
+3435.0200,
+2641.0400,
+3355.0200,
+3122.5800,
+3341.1200,
+6310.9900,
+2141.1800,
+6111.0701,Suitcase Maker
+7536.2300,
+8160.5100,
+8131.7800,
+7224.0701,Supervisor and
+3122.5400,
+3122.4900,
+3122.7100,
+3122.2500,
+3122.0900,
+3122.4100,
+3122.1300,
+3122.7200,
+3122.5600,
+3122.6900,
+3122.0800,
+3122.3200,
+3122.2900,
+3123.0200,
+3122.3300,
+3122.1900,
+3122.5200,
+3122.4000,
+3122.0500,
+3122.0400,
+3121.0300,
+3121.0100,
+3122.5300,
+3122.6300,
+3123.0500,
+3122.2600,
+3122.1100,
+3122.1400,
+3122.6600,
+3122.2100,
+3123.0300,
+3122.6200,
+3122.6700,
+3122.2000,
+3122.4300,
+3122.3100,
+3122.1800,
+3122.3000,
+3122.3800,
+3122.3900,
+3122.5000,
+3122.4200,
+3121.0200,
+3122.1000,
+3122.2400,
+3122.6511,"Supervisor,"
+9332.0500,
+3521.0600,
+3351.0200,
+5151.0701,
+3122.6400,
+3341.0400,
+3341.0600,
+3123.9900,
+3121.9900,
+3122.0100,
+3122.1700,
+3122.3500,
+3122.3400,
+3323.0602,"Supply,"
+1324.9900,
+2511.0106,Surface Grinder
+7224.0400,
+8122.0101,"Surgeon, General"
+2211.0200,
+2165.0600,
+2165.0500,
+2165.0400,
+3112.0600,
+2165.0200,
+9613.0300,
+9613.0500,
+9613.0400,
+9613.9900,
+7512.0400,
+8189.0601,Synthetic Fibre
+8131.6400,
+8160.7700,
+8160.7800,
+8160.7600,
+8160.7900,
+3513.0100,
+2151.0601,System Analysts
+2511.0100,
+2511.9900,
+2519.0100,
+2151.0602,Tabla Maker
+7312.1300,
+7313.1304,Tablet Coater
+8131.7100,
+8131.7000,
+8142.0100,
+9321.0205,"Tailor,  Fur"
+7531.1200,
+7531.0100,
+7533.1100,
+7531.9900,
+8155.1101,
+2622.0300,
+6112.0200,
+6112.0300,
+9215.0200,
+7112.0500,
+7515.0300,
+3435.0100,
+3141.0300,
+2619.0500,
+2133.0300,
+8160.6300,
+8160.5700,
+6112.0501,Occupational
+7515.0100,
+2352.0100,
+2352.0200,
+2352.0400,
+2342.0100,
+2352.0300,
+2352.9900,
+7318.2200,
+5242.0101,
+4222.0101,Technical Support
+4222.0102,
+2641.0902,Technical Writer –
+2641.0901,Technical Writer –
+2641.0903,Technician
+3113.0111,Technician
+7311.0101,"Technologist,"
+2145.1200,
+2145.0800,
+2145.0900,
+2145.1100,
+2145.1400,
+2145.1300,
+5211.0302,Occupational
+2153.0102,Telecom Terminal
+2153.0101,Telecommunicatio
+2153.0100,
+3522.9900,Telecommunicatio
+2153.9900,Telecommunicatio
+3522.0100,
+5211.0300,
+3522.0300,
+4223.0200,
+4223.0300,
+4223.0100,
+4223.9900,
+4131.0500,
+3521.0700,
+3114.0200,
+7422.1100,
+7422.1302,Television Service
+7422.1300,
+4211.0400,
+8121.4900,
+7523.1100,
+1321.0200,
+3322.1001,Territory Sales
+1221.0401,Occupational
+1221.0501,Territory Sales
+3322.1002,Territory Service
+1213.0202,Test and Repair
+7422.2201,Test Driver
+8331.0501,Test Engineer – IT
+2519.0302,Test Engineer –
+2512.0202,Test Engineer –
+2519.0402,Test Engineer
+3115.0202,Test Technician
+7231.0201,Tester
+9329.0500,
+2523.0301,Testing and
+2152.0902,
+7421.1202,Testing Technician
+7543.1101,Textile Designer
+2163.0600,
+2141.1000,
+2166.0204,Thatch Cutter
+6210.0900,
+7111.0200,
+3151.0300,
+3152.0400,
+8112.1100,
+7224.0500,
+8212.1602,"Ticket Collector,"
+5112.0500,
+5112.0700,
+7121.0100,
+7122.0300,
+7122.0100,
+8111.1500,
+4110.0500,
+4110.0600,
+7213.0500,
+8182.0600,
+7213.0400,
+7516.0100,
+7516.0200,
+7516.9900,
+3115.1301,Tool Engineer
+2144.0300,
+7222.0200,
+7222.9900,
+3115.1302,"Tool Setter,"
+7223.0100,
+7223.0200,
+3112.0400,
+5113.0200,
+7422.3001,Town Planner
+2164.0100,
+2212.1600,
+7522.1400,
+3118.0800,
+9312.0200,
+6224.0400,
+8341.0300,
+7231.0300,
+8341.0101,
+2230.9900,
+3154.0200,
+2431.0671,Occupational
+9331.0400,
+1324.0400,
+1324.0600,
+1324.0700,
+1324.1100,
+2164.0200,
+4323.0300,
+8312.0400,
+4323.0500,
+3115.1600,
+5223.0105,"Trainer, Animal"
+2659.1300,
+2424.9900,Tram Car Driver
+8331.0100,
+8332.0200,
+8111.2800,
+8141.0714,"Transferor,"
+8171.1900,
+7321.1500,
+2643.0200,
+3114.1201,"Transport Clerks,"
+4323.9900,
+5112.9900,
+9331.0600,
+9331.0700,
+6224.0300,
+5113.0100,
+5111.9900,
+4221.0100,Travel Consultants
+4221.9900,
+5112.0600,
+3134.0800,
+6112.9900,
+6310.0100,
+8342.0700,
+8141.2000,
+7536.1700,
+8156.2100,
+8342.1400,
+8331.0200,
+7531.0400,
+8181.0800,
+8141.0302,
+6111.1601,Tuberculosis
+2212.0700,
+7214.0400,
+8171.2000,
+7212.0105,"Turbine Operator,"
+3131.0400,
+3131.0300,
+7314.0600,
+7223.0601,
+7223.0700,
+7421.1301,Twister
+7318.4700,
+7322.0500,
+7322.0800,
+4131.9900,
+8141.1701,
+8141.1702,Tyre Building
+8141.1703,Tyre Inflation
+9623.0501,Tyre Moulder
+8141.1800,
+8141.1801,Tyre Repairer
+8141.2100,
+7533.0900,
+7533.0800,
+3422.0400,
+5163.0100,
+5163.9900,
+7541.9900,
+2310.1100,
+2310.0100,
+2310.0200,
+2310.0700,
+2310.1200,
+2310.0800,
+2310.0400,
+2310.0500,
+2310.0300,
+2310.0900,
+2310.0600,
+2310.1000,
+7534.0100,
+7534.0200,
+7534.0300,
+7534.9900,
+8212.2003,Urologist
+2212.0900,
+2513.0201,Usher
+9629.0100,
+3240.0100,
+8212.1803,Occupational
+8142.0800,
+3315.0100,
+3315.9900,
+7132.9900,
+8171.1800,
+8211.1201,"Vehicle, Window"
+9122.9900,
+9623.0100,
+9623.9900,
+3323.0301,Veneer Cutter
+8172.0700,
+2212.1000,
+2659.0600,
+2152.0901,"Veterinarian,"
+2250.0200,
+2250.0600,
+2250.0300,
+2250.9900,
+3240.9900,
+2166.0211,"Viewer, Workshop"
+7311.0500,
+7221.0200,
+3353.0100,
+4412.0300,
+6111.1200,
+3256.0202,"Visual Artists,"
+2651.9900,
+2423.0100,
+2635.1000,
+2655.0301,Voice Pathologist
+2266.0300,
+7316.0400,
+8160.1500,
+8111.0300,
+5131.0401,
+5131.9900,
+5413.0100,
+4321.0602,Warehouse  Packer
+4321.0603,Warehouse Picker
+4321.0601,Warehouse
+1324.1201,Warehouse
+9333.0201,
+8152.1100,
+8152.1600,
+8151.1500,
+3315.0501,Warranty
+4321.0701,Washer
+9122.0201,Washing Machine
+7514.0600,
+8157.0100,
+8154.0500,
+8112.0600,
+7318.1500,
+2143.0400,
+2142.1002,Wastewater
+3132.0400,
+7311.0200,
+5414.0400,
+9621.1300,
+8151.2000,
+8212.1808,Wax Model
+3122.6501,Wax Piece Maker
+7313.2402,Wax Setter
+7313.0803,Wax Tree Maker
+7313.0804,Waxing Man
+7316.0500,
+3119.0600,
+7318.5500,
+7318.5800,
+8152.1200,
+8152.9900,
+2141.1500,
+2166.0300,
+2513.0101,Weigher
+9321.1101,
+8151.2100,
+7212.0301,"Welder, Electric"
+7212.0200,
+7212.0100,
+7212.0300,
+7212.0700,
+7212.9900,
+7212.0801,Welding Machine
+3122.4701,Occupational
+8212.1901,Welding
+3122.4702,Welding
+7212.0302,Well Digger
+7119.0100,
+9313.0100,
+8113.0800,
+8113.9900,
+8113.0100,
+8113.0500,
+3121.0700,
+8156.0900,
+8181.3000,
+6111.0201,Wheel Grinder
+7315.1600,
+7536.2500,
+7119.0200,
+5249.0400,
+7531.1000,
+5142.0600,
+8343.1100,
+8151.1800,
+8343.1400,
+8212.1802,Window Opener
+7313.1702,Wine Waiter
+5131.0500,
+8212.1701,"Wire Boy, Paper"
+8171.1400,
+7221.0700,
+7313.0201,
+8111.2901,Wireless Inspector
+3522.0400,
+3521.1300,
+7411.0301,
+7419.0300,
+8160.5800,
+2635.0200,
+2635.0700,
+2132.0600,
+7521.0300,
+7522.1200,
+7523.1600,
+8172.1000,
+6210.1100,
+7522.1900,
+7523.0100,
+7522.0900,
+7522.2000,
+8172.9900,
+8172.0200,
+7523.0800,
+8172.0100,
+2141.2000,
+7521.0400,
+7521.9900,
+7523.0200,
+7523.1500,
+7523.9900,
+7523.0300,
+8154.1200,
+7318.1100,
+3123.0100,
+1120.1200,
+1120.0100,
+1120.0200,
+1120.2900,
+1120.1700,
+1120.0900,
+1120.3500,
+1120.1000,
+1120.3200,
+1120.2000,
+1120.2700,
+1120.2300,
+1120.0300,
+1120.1100,
+1120.1900,
+2141.0100,
+8160.5400,
+3115.0105,Wrapper
+8152.1700,
+7422.1000,
+3211.0100,
+3115.1500,
+4323.0100,
+6224.0800,
+8151.1400,
+8160.7200,
+7512.1000,
+2250.0500,
+2131.0900,
