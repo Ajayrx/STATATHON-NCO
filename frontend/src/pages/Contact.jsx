@@ -1,10 +1,11 @@
-import React from "react";
+import React from "react"; 
 import { Link } from "react-router-dom";
 import { MapPin, Phone, Mail, Clock } from "lucide-react";
 
 export default function Contact() {
   return (
     <div className="min-h-screen bg-gray-50 flex flex-col font-sans">
+
       {/* Header */}
       <header className="w-full bg-[#0B3B60] shadow-md">
         <div className="w-full h-1 flex">
@@ -13,19 +14,23 @@ export default function Contact() {
           <div className="flex-1 bg-green-600"></div>
         </div>
         <div className="text-center py-6 text-white">
-          <img src="/assets/emblem.png" alt="Emblem of India" className="mx-auto h-16 w-auto mb-2" />
-          <h1 className="text-3xl md:text-4xl font-bold">Contact Information</h1>
+          <img
+            src="/assets/emblem.png"
+            alt="Emblem of India"
+            className="mx-auto h-16 w-auto mb-2"
+          />
+          <h1 className="text-3xl md:text-4xl font-extrabold tracking-tight">
+            Contact Information
+          </h1>
           <p className="mt-2 text-sm md:text-base text-gray-200">
             Ministry of Labour & Employment — Government of India
           </p>
         </div>
       </header>
 
-      {/* Breadcrumb / Navigation */}
+      {/* Breadcrumb */}
       <div className="bg-gray-100 py-3 px-6">
-        <p className="text-sm text-gray-700">
-          Home &gt; Contact
-        </p>
+        <p className="text-sm text-gray-700">Home &gt; Contact</p>
       </div>
 
       {/* Main Content */}
@@ -33,40 +38,49 @@ export default function Contact() {
 
         {/* Ministry Contact Details */}
         <section className="bg-white shadow-md border border-gray-200 rounded-md p-6 space-y-6">
-          <h2 className="text-2xl font-semibold text-[#0B3B60]">Ministry Contact Details</h2>
+          <h2 className="text-2xl font-bold text-[#0B3B60]">Ministry Contact Details</h2>
           <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
             <div className="flex items-start gap-3">
               <MapPin size={28} className="text-[#0B3B60]" />
               <div>
-                <p><strong>Address:</strong></p>
+                <p className="font-medium">Address:</p>
                 <p>Shram Shakti Bhawan, Rafi Marg, New Delhi - 110001, India</p>
               </div>
             </div>
             <div className="flex items-start gap-3">
               <Phone size={28} className="text-[#0B3B60]" />
               <div>
-                <p><strong>Phone:</strong> +91 11 2371 2221</p>
+                <p className="font-medium">Phone:</p>
+                <p>+91 11 2371 2221</p>
               </div>
             </div>
             <div className="flex items-start gap-3">
               <Mail size={28} className="text-[#0B3B60]" />
               <div>
-                <p><strong>Email:</strong> <a href="mailto:info@nco.gov.in" className="underline text-[#0B3B60] hover:text-[#092d48]">info@nco.gov.in</a></p>
+                <p className="font-medium">Email:</p>
+                <p>
+                  <a
+                    href="mailto:info@nco.gov.in"
+                    className="underline text-[#0B3B60] hover:text-[#092d48] transition-colors"
+                  >
+                    info@nco.gov.in
+                  </a>
+                </p>
               </div>
             </div>
             <div className="flex items-start gap-3">
               <Clock size={28} className="text-[#0B3B60]" />
               <div>
-                <p><strong>Office Hours:</strong></p>
+                <p className="font-medium">Office Hours:</p>
                 <p>Monday - Friday: 09:30 AM - 06:00 PM (IST)</p>
               </div>
             </div>
           </div>
         </section>
 
-        {/* Google Map Embed */}
+        {/* Location Map */}
         <section className="bg-white shadow-md border border-gray-200 rounded-md p-6">
-          <h2 className="text-2xl font-semibold text-[#0B3B60] mb-4">Location Map</h2>
+          <h2 className="text-2xl font-bold text-[#0B3B60] mb-4">Location Map</h2>
           <div className="aspect-w-16 aspect-h-9">
             <iframe
               title="Shram Shakti Bhawan Map"
@@ -79,17 +93,25 @@ export default function Contact() {
           </div>
         </section>
 
-        {/* Resources / Downloads */}
+        {/* Resources */}
         <section className="bg-white shadow-md border border-gray-200 rounded-md p-6 space-y-4">
-          <h2 className="text-2xl font-semibold text-[#0B3B60]">Resources</h2>
-          <ul className="list-disc list-inside space-y-2">
+          <h2 className="text-2xl font-bold text-[#0B3B60]">Resources</h2>
+          <ul className="list-disc list-inside space-y-2 text-gray-700">
             <li>
-              <a href="/assets/contact_details.pdf" download className="underline text-[#0B3B60] hover:text-[#092d48]">
-                Download Official Contact Details (PDF)
+              <a
+                href="/assets/contact_details.pdf"
+                download
+                className="underline text-[#0B3B60] hover:text-[#092d48] transition-colors"
+              >
+                Official Contact Details (PDF)
               </a>
             </li>
             <li>
-              <a href="/assets/nco_guidelines.pdf" download className="underline text-[#0B3B60] hover:text-[#092d48]">
+              <a
+                href="/assets/nco_guidelines.pdf"
+                download
+                className="underline text-[#0B3B60] hover:text-[#092d48] transition-colors"
+              >
                 NCO-2015 Guidelines (PDF)
               </a>
             </li>
@@ -100,13 +122,13 @@ export default function Contact() {
         <section className="flex flex-col md:flex-row gap-4 mt-4">
           <Link
             to="/"
-            className="inline-block bg-[#0B3B60] text-white px-6 py-2 rounded-md font-medium hover:bg-[#092d48] transition-shadow shadow-md text-center"
+            className="inline-block bg-[#0B3B60] text-white px-6 py-2 rounded-md font-medium hover:bg-[#092d48] shadow-md transition-shadow text-center"
           >
             Back to Home
           </Link>
           <a
             href="mailto:info@nco.gov.in"
-            className="inline-block bg-[#0B3B60] text-white px-6 py-2 rounded-md font-medium hover:bg-[#092d48] transition-shadow shadow-md text-center"
+            className="inline-block bg-[#0B3B60] text-white px-6 py-2 rounded-md font-medium hover:bg-[#092d48] shadow-md transition-shadow text-center"
           >
             Send Email
           </a>
