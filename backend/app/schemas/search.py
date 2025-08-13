@@ -1,4 +1,10 @@
 from pydantic import BaseModel
+from datetime import datetime
 
-class SearchQuery(BaseModel):
+class SearchLog(BaseModel):
+    id: int
     query: str
+    timestamp: datetime
+
+    class Config:
+        orm_mode = True

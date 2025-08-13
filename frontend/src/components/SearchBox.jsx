@@ -1,12 +1,54 @@
-import React, { useState, useRef, useEffect } from 'react';
+import React, { useEffect, useRef, useState } from "react";
+import { Search as SearchIcon, Mic, MicOff } from "lucide-react";
 
 function SearchBox({ onSearch, loading }) {
-  const [query, setQuery] = useState('');
-  const inputRef = useRef(null);
+  const [query, setQuery] = useState("");
+  const [isListening, setIsListening] = useState(false);
+  const inputRef = useRef();
 
+  // Auto-focus on input
   useEffect(() => {
-    inputRef.current?.focus(); // ✅ Auto-focus on mount
+    inputRef.current.focus();
   }, []);
+
+  // Voice Recognition Setup
+  const recognitionRef = useRef(null);
+  useEffect(() => {
+    const SpeechRecognition =
+      window.SpeechRecognition || window.webkitSpeechRecognition;
+
+    if (SpeechRecognition) {
+      const recognition = new SpeechRecognition();
+      recognition.lang = "en-IN";
+      recognition.interimResults = false;
+      recognition.maxAlternatives = 1;
+
+      recognition.onresult = (event) => {
+        const transcript = event.results[0][0].transcript;
+        setQuery(transcript);
+        setIsListening(false);
+        onSearch(transcript);
+      };
+
+      recognition.onerror = () => setIsListening(false);
+      recognition.onend = () => setIsListening(false);
+      recognitionRef.current = recognition;
+    }
+  }, [onSearch]);
+
+  const handleVoiceInput = async () => {
+    try {
+      await navigator.mediaDevices.getUserMedia({ audio: true });
+      if (isListening) {
+        recognitionRef.current?.stop();
+      } else {
+        setIsListening(true);
+        recognitionRef.current?.start();
+      }
+    } catch {
+      alert("Please allow microphone access in your browser settings.");
+    }
+  };
 
   const handleSubmit = (e) => {
     e.preventDefault();
@@ -16,30 +58,46 @@ function SearchBox({ onSearch, loading }) {
   return (
     <form onSubmit={handleSubmit} className="flex flex-col sm:flex-row gap-2">
       <div className="relative w-full">
-        <span className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-400">🔍</span>
+        {/* Search Icon */}
+        <SearchIcon
+          size={18}
+          className="absolute left-3 top-1/2 transform -translate-y-1/2 text-gray-500"
+        />
         <input
-          type="text"
           ref={inputRef}
+          type="text"
           value={query}
           onChange={(e) => setQuery(e.target.value)}
-          className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded focus:outline-none focus:ring-2 focus:ring-blue-500 transition"
+          className="w-full pl-10 pr-12 py-3 bg-base-100 border border-primary/50 rounded-lg shadow-sm focus:outline-none focus:ring-2 focus:ring-primary focus:border-primary transition text-base-content placeholder-gray-400"
           placeholder="e.g. I fix mobile phones"
+          disabled={loading}
         />
+        {/* Voice Button */}
+        <button
+          type="button"
+          onClick={handleVoiceInput}
+          className="absolute right-2 top-1/2 transform -translate-y-1/2 text-gray-500 hover:text-primary transition"
+          title={isListening ? "Stop listening" : "Start voice input"}
+        >
+          {isListening ? (
+            <MicOff size={18} className="text-red-500" />
+          ) : (
+            <Mic size={18} />
+          )}
+        </button>
       </div>
       <button
-        type="submit"
-        disabled={loading}
-        className="bg-blue-600 text-white px-5 py-2 rounded hover:bg-blue-700 transition disabled:opacity-50"
-      >
-        {loading ? (
-          <svg className="animate-spin h-5 w-5 mx-auto text-white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24">
-            <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4" />
-            <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v8H4z" />
-          </svg>
-        ) : (
-          'Search'
-        )}
-      </button>
+  type="submit"
+  className={`px-5 py-3 rounded-lg text-white font-semibold transition ${
+    loading
+      ? "bg-gray-400 cursor-not-allowed"
+      : "bg-blue-500 hover:bg-sky-600 shadow-md"
+  }`}
+  disabled={loading}
+>
+  {loading ? "Searching..." : "Search"}
+</button>
+
     </form>
   );
 }
