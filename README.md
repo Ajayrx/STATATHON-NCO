@@ -35,56 +35,57 @@ Search **National Classification of Occupations (NCO-2015)** job codes using **n
 
 ## 📂 Project Structure
 
+```plaintext
 smart-nco-search/
-├── backend/ # 🔙 All server-side logic
-│ ├── app/
-│ │ ├── api/ # 🚪 API routes
-│ │ │ ├── v1/
-│ │ │ │ ├── routes_search.py # /api/v1/search — FAISS query endpoint
-│ │ │ │ ├── routes_admin.py # /api/v1/admin — Add/edit job codes
-│ │ │ │ └── init.py
-│ │ ├── core/
-│ │ │ ├── config.py # 🔐 App configs, env, DB URI, model name
-│ │ │ ├── search_engine.py # 🤖 FAISS logic (embed + search)
-│ │ │ └── index_builder.py # 🛠️ Build FAISS index from CSV (new)
-│ │ ├── db/ # 🗃️ DB: models, session, queries
-│ │ │ ├── models.py # SQLAlchemy models: JobCode, SearchLog
-│ │ │ ├── crud.py # DB query functions (get, add, update)
-│ │ │ └── database.py # DB engine + session setup
-│ │ ├── schemas/ # 🧱 Pydantic schemas for input/output
-│ │ │ ├── job.py
-│ │ │ └── search.py
-│ │ ├── data/ # 📂 Static or generated data
-│ │ │ ├── nco2015_job_reference.csv # Metadata table
-│ │ │ ├── nco2015_faiss.index # FAISS vector index
-│ │ │ └── NCO-2015-Vol1.pdf # Original raw PDF
-│ │ ├── utils/ # 🧰 Utility tools: embeddings, file IO, etc.
-│ │ │ ├── embedder.py # SentenceTransformer loader
-│ │ │ └── parser.py # PDF → CSV parser
-│ │ └── main.py # 🚀 FastAPI app entrypoint
-│ ├── scripts/
-│ │ └── prepare_data.py # 🛠️ Run once to prepare CSV + FAISS
-│ └── requirements.txt # 📦 Backend dependencies
+├── backend/                  # 🔙 All server-side logic
+│   ├── app/
+│   │   ├── api/              # 🚪 API routes
+│   │   │   ├── v1/
+│   │   │   │   ├── routes_search.py   # /api/v1/search — FAISS query endpoint
+│   │   │   │   ├── routes_admin.py    # /api/v1/admin — Add/edit job codes
+│   │   │   │   └── __init__.py
+│   │   ├── core/
+│   │   │   ├── config.py     # 🔐 App configs, env, DB URI, model name
+│   │   │   ├── search_engine.py   # 🤖 FAISS logic (embed + search)
+│   │   │   └── index_builder.py   # 🛠️ Build FAISS index from CSV (new)
+│   │   ├── db/               # 🗃️ DB: models, session, queries
+│   │   │   ├── models.py     # SQLAlchemy models: JobCode, SearchLog
+│   │   │   ├── crud.py       # DB query functions (get, add, update)
+│   │   │   └── database.py   # DB engine + session setup
+│   │   ├── schemas/          # 🧱 Pydantic schemas for input/output
+│   │   │   ├── job.py
+│   │   │   └── search.py
+│   │   ├── data/             # 📂 Static or generated data
+│   │   │   ├── nco2015_job_reference.csv   # Metadata table
+│   │   │   ├── nco2015_faiss.index         # FAISS vector index
+│   │   │   └── NCO-2015-Vol1.pdf           # Original raw PDF
+│   │   ├── utils/            # 🧰 Utility tools: embeddings, file IO, etc.
+│   │   │   ├── embedder.py   # SentenceTransformer loader
+│   │   │   └── parser.py     # PDF → CSV parser
+│   │   └── main.py           # 🚀 FastAPI app entrypoint
+│   ├── scripts/
+│   │   └── prepare_data.py   # 🛠️ Run once to prepare CSV + FAISS
+│   └── requirements.txt      # 📦 Backend dependencies
 │
-├── frontend/ # 🌐 Client-side React app
-│ ├── public/ # Static files (favicon, icons, etc.)
-│ ├── src/
-│ │ ├── components/
-│ │ │ ├── SearchBox.jsx # Input + mic
-│ │ │ ├── ResultsList.jsx # Display results
-│ │ │ ├── AdminPanel.jsx # Add/edit NCO codes (optional)
-│ │ │ └── PageWrapper.jsx # ✨ Wrapper for page layout
-│ │ ├── pages/
-│ │ │ ├── Home.jsx # Landing page
-│ │ │ └── SearchLogPage.jsx # 📜 Search logs page
-│ │ ├── App.jsx
-│ │ ├── index.jsx # Main React entry
-│ │ └── index.css # Global styles
-│ ├── tailwind.config.js
-│ ├── postcss.config.js
-│ └── package.json
+├── frontend/                 # 🌐 Client-side React app
+│   ├── public/               # Static files (favicon, icons, etc.)
+│   ├── src/
+│   │   ├── components/
+│   │   │   ├── SearchBox.jsx     # Input + mic
+│   │   │   ├── ResultsList.jsx   # Display results
+│   │   │   ├── AdminPanel.jsx    # Add/edit NCO codes (optional)
+│   │   │   └── PageWrapper.jsx   # ✨ Wrapper for page layout
+│   │   ├── pages/
+│   │   │   ├── Home.jsx          # Landing page
+│   │   │   └── SearchLogPage.jsx # 📜 Search logs page
+│   │   ├── App.jsx
+│   │   ├── index.jsx             # Main React entry
+│   │   └── index.css             # Global styles
+│   ├── tailwind.config.js
+│   ├── postcss.config.js
+│   └── package.json
 │
-├── .env # 🔐 API keys, DB URIs
+├── .env                         # 🔐 API keys, DB URIs
 ├── README.md
 └── .gitignore
 
