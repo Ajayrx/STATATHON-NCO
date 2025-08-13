@@ -10,17 +10,41 @@ df = None
 index = None
 model = get_embedder(settings.model_name)
 
+
 def load_index_and_data():
     global df, index
-    df = pd.read_csv("app/data/nco2015_job_reference.csv")
+
+    # Load CSV and force nco_code as string to preserve decimals and trailing zeros
+    df = pd.read_csv(
+        "app/data/nco2015_job_reference.csv",
+        dtype={"nco_code": str}
+    )
+
+    # Ensure codes are exactly as in CSV (with dot)
+    df["nco_code"] = df["nco_code"].apply(lambda x: x if "." in x else x[:4] + "." + x[4:])
+
+    # Load FAISS index
     index = faiss.read_index("app/data/nco2015_faiss.index")
 
-# Initially load on startup
+
+# Load data and index at startup
 load_index_and_data()
 
-def search_jobs(query: str, k: int = 5):
+
+def search_jobs(query: str, k: int = 99):
+    """
+    Search for jobs using FAISS vector index.
+
+    Args:
+        query (str): Search query string.
+        k (int): Number of top results to return.
+
+    Returns:
+        List[dict]: Each dict contains 'nco_code', 'title', 'score'.
+    """
     vector = model.encode([query])
     vector = np.array(vector).astype('float32')
+
     D, I = index.search(vector, k)
     print("Query:", query)
     print("Returned indices:", I)
@@ -32,11 +56,15 @@ def search_jobs(query: str, k: int = 5):
             continue
         if not math.isfinite(score):
             continue
+
         row = df.iloc[i]
-        print(f"Match: {row['title']} with score {score}")
+
         results.append({
-            "nco_code": row["nco_code"],
+            "nco_code": row["nco_code"],  # Full string code with dot
             "title": row["title"],
             "score": float(score)
         })
+
+        print(f"Match: {row['title']} ({row['nco_code']}) with score {score}")
+
     return results
