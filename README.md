@@ -96,7 +96,7 @@ smart-nco-search/
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/smart-nco-search.git
+git clone https://github.com/debrajx1/smart-nco-search.git
 cd smart-nco-search
 
 2️⃣ Backend Setup
