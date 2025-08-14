@@ -10,11 +10,20 @@ app = FastAPI(
 # CORS for frontend → backend
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:5173"],
+    allow_origins=[
+        "http://localhost:5173",                   # Local dev
+        "https://smart-nco-search.onrender.com"   # Render deployed frontend (if used)
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
 )
 
+# Health check endpoint for Render
+@app.get("/healthz")
+def health_check():
+    return {"status": "ok"}
+
+# API routes
 app.include_router(routes_search.router, prefix="/api/v1/search", tags=["Search"])
 app.include_router(routes_admin.router, prefix="/api/v1/admin", tags=["Admin"])
