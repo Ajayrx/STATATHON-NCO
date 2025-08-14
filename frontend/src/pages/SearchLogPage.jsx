@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react";
 import axios from "axios";
-import { API_BASE_URL } from "../api"; // centralized backend URL
+import { API_BASE_URL } from "../api"; // make sure path matches: src/api.js
 
 export default function SearchLogPage() {
   const [logs, setLogs] = useState([]);
