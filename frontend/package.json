@@ -19,6 +19,7 @@
     "postcss": "^8.4.35",
     "vite": "^4.5.14"
   },
+  "devDependencies": {},
   "engines": {
     "node": ">=18.0.0"
   }
