@@ -17,7 +17,7 @@ function ResultsList({ results, hasSearched, loading, chakraPositions = [] }) {
               top: "40%",
               left: "29%",
               width: "w-36",
-              opacity: 5
+              opacity: 0.08 // 8% transparency
             };
 
             return (
@@ -29,8 +29,12 @@ function ResultsList({ results, hasSearched, loading, chakraPositions = [] }) {
                 <img
                   src="/assets/ashoka_chakra.png"
                   alt="Ashoka Chakra"
-                  className={`absolute ${pos.top} ${pos.left} ${pos.width} -translate-x-1/2 -translate-y-1/2 pointer-events-none select-none opacity-${pos.opacity} animate-spin-slow`}
-                  style={{ top: pos.top, left: pos.left }}
+                  className={`absolute ${pos.width} -translate-x-1/2 -translate-y-1/2 pointer-events-none select-none animate-spin-slow`}
+                  style={{
+                    top: pos.top,
+                    left: pos.left,
+                    opacity: pos.opacity
+                  }}
                 />
 
                 {/* Header: tricolor stripe + emblem + ministry info */}
@@ -42,7 +46,11 @@ function ResultsList({ results, hasSearched, loading, chakraPositions = [] }) {
                   </div>
 
                   <div className="flex items-center bg-[#0B3B60] text-white px-4 py-2 gap-2 justify-center">
-                    <img src="/assets/emblem.png" alt="Emblem of India" className="w-6 h-6" />
+                    <img
+                      src="/assets/emblem.png"
+                      alt="Emblem of India"
+                      className="w-6 h-6"
+                    />
                     <span className="text-sm md:text-base font-semibold text-center">
                       Government of India | Ministry of Labour & Employment
                     </span>
