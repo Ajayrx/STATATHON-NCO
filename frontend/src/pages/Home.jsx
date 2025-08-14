@@ -4,6 +4,9 @@ import { Link } from "react-router-dom";
 import SearchBox from "../components/SearchBox";
 import ResultsList from "../components/ResultsList";
 
+// Base URL for deployed backend
+const API_BASE_URL = "https://smart-nco-search.onrender.com";
+
 const containerVariants = {
   hidden: { opacity: 0, y: 20 },
   visible: { opacity: 1, y: 0, transition: { duration: 0.6, ease: "easeOut" } },
@@ -25,7 +28,7 @@ function Home() {
     setLoading(true);
     setHasSearched(true);
     try {
-      const res = await fetch(`http://localhost:8000/api/v1/search/`, {
+      const res = await fetch(`${API_BASE_URL}/api/v1/search/`, {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({ query }),
@@ -56,7 +59,6 @@ function Home() {
           zIndex: 0,
         }}
       />
-
       <img
         src="/assets/vine_bg.png"
         alt="Decorative Indian vine pattern"
@@ -71,8 +73,6 @@ function Home() {
           zIndex: 0,
         }}
       />
-
-      {/* Bottom Left Vine (mirrored vertically) */}
       <img
         src="/assets/vine_bg.png"
         alt="Decorative Indian vine pattern"
@@ -87,8 +87,6 @@ function Home() {
           zIndex: 0,
         }}
       />
-
-      {/* Bottom Right Vine (mirrored both ways) */}
       <img
         src="/assets/vine_bg.png"
         alt="Decorative Indian vine pattern"

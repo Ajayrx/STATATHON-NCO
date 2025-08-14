@@ -1,5 +1,6 @@
-import React, { useEffect, useState } from "react"; 
+import React, { useEffect, useState } from "react";
 import axios from "axios";
+import { API_BASE_URL } from "../api"; // centralized backend URL
 
 export default function SearchLogPage() {
   const [logs, setLogs] = useState([]);
@@ -11,10 +12,12 @@ export default function SearchLogPage() {
       try {
         setLoading(true);
         setError(null);
-        const res = await axios.get("http://localhost:8000/api/v1/admin/search-logs");
+        const res = await axios.get(`${API_BASE_URL}/api/v1/admin/search-logs`);
         setLogs(res.data);
       } catch (err) {
-        setError("Unable to retrieve search logs at this time. Please try again later.");
+        setError(
+          "Unable to retrieve search logs at this time. Please try again later."
+        );
       } finally {
         setLoading(false);
       }
@@ -37,7 +40,11 @@ export default function SearchLogPage() {
 
           {/* Emblem and Title */}
           <div className="flex flex-col items-center py-6 border-b border-gray-300">
-            <img src="/assets/emblem.png" alt="National Emblem of India" className="h-20 w-auto mb-3" />
+            <img
+              src="/assets/emblem.png"
+              alt="National Emblem of India"
+              className="h-20 w-auto mb-3"
+            />
             <h1 className="text-3xl md:text-4xl font-extrabold text-[#0B3B60] tracking-wide">
               Search Logs Portal
             </h1>
@@ -60,8 +67,19 @@ export default function SearchLogPage() {
               viewBox="0 0 24 24"
               aria-hidden="true"
             >
-              <circle className="opacity-25" cx="12" cy="12" r="10" stroke="currentColor" strokeWidth="4"></circle>
-              <path className="opacity-75" fill="currentColor" d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"></path>
+              <circle
+                className="opacity-25"
+                cx="12"
+                cy="12"
+                r="10"
+                stroke="currentColor"
+                strokeWidth="4"
+              ></circle>
+              <path
+                className="opacity-75"
+                fill="currentColor"
+                d="M4 12a8 8 0 018-8v4a4 4 0 00-4 4H4z"
+              ></path>
             </svg>
           </div>
         )}
@@ -80,44 +98,44 @@ export default function SearchLogPage() {
           </p>
         )}
 
-       {/* Logs Cards */}
-{!loading && !error && logs.length > 0 && (
-  <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6 px-4 md:px-0">
-    {logs.map(({ id, query, timestamp, category }, idx) => (
-      <div
-        key={id}
-        className="bg-white rounded-lg shadow hover:shadow-lg border border-gray-200 p-5 flex flex-col justify-between transition-all duration-300"
-      >
-        <div>
-          <div className="flex justify-between items-center mb-3">
-            <span className="text-sm text-gray-500 font-mono">#{idx + 1}</span>
-            <span className="text-xs bg-[#0B3B60] text-white px-2 py-1 rounded-full font-semibold">
-              {new Date(timestamp).toLocaleString("en-IN", {
-                year: "numeric",
-                month: "short",
-                day: "numeric",
-                hour: "2-digit",
-                minute: "2-digit",
-                hour12: true,
-              })}
-            </span>
+        {/* Logs Cards */}
+        {!loading && !error && logs.length > 0 && (
+          <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 mt-6 px-4 md:px-0">
+            {logs.map(({ id, query, timestamp, category }, idx) => (
+              <div
+                key={id}
+                className="bg-white rounded-lg shadow hover:shadow-lg border border-gray-200 p-5 flex flex-col justify-between transition-all duration-300"
+              >
+                <div>
+                  <div className="flex justify-between items-center mb-3">
+                    <span className="text-sm text-gray-500 font-mono">#{idx + 1}</span>
+                    <span className="text-xs bg-[#0B3B60] text-white px-2 py-1 rounded-full font-semibold">
+                      {new Date(timestamp).toLocaleString("en-IN", {
+                        year: "numeric",
+                        month: "short",
+                        day: "numeric",
+                        hour: "2-digit",
+                        minute: "2-digit",
+                        hour12: true,
+                      })}
+                    </span>
+                  </div>
+                  <p className="text-gray-800 text-sm md:text-base">{query}</p>
+                </div>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  <span className="inline-block bg-green-100 text-green-800 text-xs font-semibold px-2 py-1 rounded-full">
+                    Reference ID: {id}
+                  </span>
+                  {category && (
+                    <span className="inline-block bg-blue-100 text-blue-800 text-xs font-semibold px-2 py-1 rounded-full">
+                      {category}
+                    </span>
+                  )}
+                </div>
+              </div>
+            ))}
           </div>
-          <p className="text-gray-800 text-sm md:text-base">{query}</p>
-        </div>
-        <div className="mt-3 flex flex-wrap gap-2">
-          <span className="inline-block bg-green-100 text-green-800 text-xs font-semibold px-2 py-1 rounded-full">
-            Reference ID: {id}
-          </span>
-          {category && (
-            <span className="inline-block bg-blue-100 text-blue-800 text-xs font-semibold px-2 py-1 rounded-full">
-              {category}
-            </span>
-          )}
-        </div>
-      </div>
-    ))}
-  </div>
-)}
+        )}
       </div>
     </section>
   );
