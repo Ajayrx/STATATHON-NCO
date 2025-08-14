@@ -2,9 +2,6 @@ import React, { useEffect, useState } from "react";
 import { PlusCircle, Trash2 } from "lucide-react";
 import { motion } from "framer-motion";
 
-// Base URL for deployed backend
-const API_BASE_URL = "https://smart-nco-search.onrender.com";
-
 function AdminPanel() {
   const [jobs, setJobs] = useState([]);
   const [form, setForm] = useState({ nco_code: "", title: "" });
@@ -15,7 +12,7 @@ function AdminPanel() {
   const fetchJobs = async () => {
     try {
       setError(null);
-      const res = await fetch(`${API_BASE_URL}/api/v1/admin`);
+      const res = await fetch("http://localhost:8000/api/v1/admin");
       if (!res.ok) throw new Error("Failed to fetch jobs");
       const data = await res.json();
       setJobs(data);
@@ -33,7 +30,7 @@ function AdminPanel() {
     setLoading(true);
     setError(null);
     try {
-      const res = await fetch(`${API_BASE_URL}/api/v1/admin`, {
+      const res = await fetch("http://localhost:8000/api/v1/admin", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(form),
@@ -56,7 +53,7 @@ function AdminPanel() {
   const handleDelete = async (id) => {
     if (!window.confirm("Are you sure you want to delete this job?")) return;
     try {
-      const res = await fetch(`${API_BASE_URL}/api/v1/admin/${id}`, {
+      const res = await fetch(`http://localhost:8000/api/v1/admin/${id}`, {
         method: "DELETE",
       });
       if (!res.ok) throw new Error("Failed to delete job");
@@ -74,6 +71,24 @@ function AdminPanel() {
 
   return (
     <div className="relative min-h-screen bg-gray-50 font-sans">
+      {/* Optional Ashoka Chakra Watermark */}
+      {/* <img
+        src="/assets/ashoka_chakra.png"
+        alt="Watermark"
+        style={{
+          position: "absolute",
+          top: "50%",
+          left: "50%",
+          width: "30rem",
+          opacity: 0.12,
+          transform: "translate(-50%, -50%)",
+          pointerEvents: "none",
+          userSelect: "none",
+          zIndex: 0,
+        }}
+        className="animate-spin-slow"
+      /> */}
+
       {/* Page Container */}
       <div className="max-w-6xl mx-auto bg-white shadow-lg rounded-lg border border-gray-200 p-8 relative z-10 my-12">
         {/* Header */}
