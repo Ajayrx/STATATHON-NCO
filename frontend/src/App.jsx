@@ -56,7 +56,7 @@ function Navbar() {
                 to="/"
                 className="text-2xl md:text-3xl font-extrabold text-[#0B3B60] uppercase select-none tracking-wider border-b-2 border-[#0B3B60] pb-1 hover:text-[#0A2F50] transition-colors duration-300"
               >
-                SMART NCO SEARCH
+               NCO SEARCH PORTAL
               </Link>
               <div className="w-16 h-0.5 bg-[#0B3B60] mt-1 rounded"></div>
             </div>

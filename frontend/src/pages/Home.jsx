@@ -133,7 +133,7 @@ function Home() {
             Government of India
           </p>
           <h1 className="text-3xl md:text-5xl lg:text-6xl font-extrabold text-[#0B3B60] tracking-tight leading-snug">
-            Smart NCO Search Portal
+            NCO Search Portal
           </h1>
           <p className="text-base md:text-lg lg:text-xl text-gray-600 max-w-2xl leading-relaxed">
             National Classification of Occupations – 2015. Official portal to
