@@ -2931,7 +2931,7 @@ nco_code,title
 3122.1900,
 3122.1900,"Supervisor and Foreman, Machine"
 3122.1900,"Supervisor and Foreman, Machine Tool"
-3122.2,"Supervisor and Foreman, Rubber Goods Making"
+3122.20,"Supervisor and Foreman, Rubber Goods Making"
 3122.2000,"Supervisor and Foreman, Rubber Goods Making"
 3122.2000,
 3122.2000,"Supervisor and Foreman, Rubber"
@@ -10914,10 +10914,10 @@ nco_code,title
 9331.01,"Driver, Cycle Rickshaw"
 9331.0100,"Driver, Cycle Rickshaw"
 9331.0100,
-9331.03,Hand Cart Man
+9331.03,Hand CartMan
 9331.03,Hand Cartman
 9331.0300,Hand Cartman
-9331.0300,Hand Cart Man
+9331.0300,Hand CartMan
 9331.0300,
 9331.04,"Traffic Hand, Gliding"
 9331.04,"Traffic Han d, Gliding"
@@ -10930,60 +10930,44 @@ nco_code,title
 9331.0600,Transport Equipment Operators and
 9331.0600,
 9331.07,Transport Service Operator
-9331.0700,
 9331.0700,Transport Service Operator
 9331.99,"Hand Pedal Vehicle Drivers, Other"
 9331.9900,"Hand Pedal Vehicle Drivers, Other"
-9331.9900,
 9332.01,Horse Carriage Driver
 9332.0100,Horse Carriage Driver
-9332.0100,
 9332.02,Cart Driver
 9332.0200,Cart Driver
-9332.0200,
 9332.03,Mahout
 9332.0300,Mahout
-9332.0300,
 9332.04,Pack Animal Driver
 9332.0400,Pack Animal Driver
-9332.0400,
 9332.05,"Supervisor, Animal -Drawn and Manually"
 9332.05,"Supervisor, Animal -Drawn and"
-9332.0500,
 9332.0500,"Supervisor, Animal -Drawn and Manually"
 9332.0500,"Supervisor, Animal -Drawn and"
 9332.99,"Animal and Animal Drawn Vehicle Drivers,"
 9332.99,Animal and Animal Drawn Vehicle
 9332.9900,Animal and Animal Drawn Vehicle
-9332.9900,
 9332.9900,"Animal and Animal Drawn Vehicle Drivers,"
 9333.01,Loader and Unloader
-9333.01,Loader and U nloader
-9333.0100,
 9333.0100,Loader and Unloader
-9333.0100,Loader and U nloader
 9333.0101,Loader /Loading and Unloading
 9333.0101,Loader/Loading and Unloading Operator
 9333.0101,Loan Approval
 9333.0201,Warehouse Worker
-9333.0201,
 9333.0202,"Loader, Transport"
 9333.0202,Loader/Loading
 9333.99,"Freight Handlers, Other"
-9333.9900,
 9333.9900,"Freight Handlers, Other"
 9412.01,Kitchen  Helper
 9412.01,Kitchen Helper
-9412.0100,
 9412.0100,Kitchen Helper
 9412.0100,Kitchen  Helper
 9510.01,Boot Polisher  Boot Polisher cleans and polishes shoes.
 9510.01,Boot Polisher
 9510.0100,Boot Polisher  Boot Polisher cleans and polishes shoes.
 9510.0100,Boot Polisher
-9510.0100,
 9510.02,Bill Poster
-9510.0200,
 9510.0200,Bill Poster
 9510.99,Shoe Cleaning and Other Street
 9510.99,Shoe Cleaning and Other Street Services
@@ -10992,82 +10976,60 @@ nco_code,title
 9510.9900,Shoe Cleaning and Other Street
 9520.01,Hawker
 9520.0100,Hawker
-9520.0100,
 9520.99,"Street Vendors, Non Food"
 9520.99,"Street Vendors, Non -Food Products, Other"
 9520.9900,"Street Vendors, Non Food"
-9520.9900,
 9520.9900,"Street Vendors, Non -Food Products, Other"
 9611.01,Garbage Collector (Motor Transport)
-9611.01,Garbage Collector (Motor
 9611.0100,Garbage Collector (Motor Transport)
-9611.0100,
-9611.0100,Garbage Collector (Motor
+9611.0100,Garbage Collector
 9611.0201,"Examiner,"
 9611.0201,E-Waste Collector
 9611.99,"Garbage Collectors, Other"
-9611.9900,
 9611.9900,"Garbage Collectors, Other"
 9613.03,"Sweeper, Dry"
-9613.0300,
 9613.0300,"Sweeper, Dry"
 9613.04,"Sweeper, Wet"
 9613.0400,"Sweeper, Wet"
-9613.0400,
 9613.05,"Sweeper, Sewer"
 9613.0500,"Sweeper, Sewer"
-9613.0500,
 9613.99,"Sweepers and Related Labourers, Other"
 9613.99,"Sweepers and Related Labourers,"
 9613.9900,"Sweepers and Related Labourers,"
 9613.9900,"Sweepers and Related Labourers, Other"
-9613.9900,
 9621.03,Caddie
 9621.0300,Caddie
-9621.0300,
 9621.04,Bellhop  (Hotel and Restaurant)
 9621.04,Bellhop (Hotel & Restaurant)
 9621.0400,Bellhop (Hotel & Restaurant)
-9621.0400,
 9621.0400,Bellhop  (Hotel and Restaurant)
 9621.05,"Porter, Baggage (Hotel & Restaurant)"
 9621.05,"Porter, Baggage (Hotel and"
 9621.0500,"Porter, Baggage (Hotel & Restaurant)"
-9621.0500,
 9621.0500,"Porter, Baggage (Hotel and"
 9621.06,(Letter Box Peon) Post Man
-9621.0600,
 9621.0600,(Letter Box Peon) Post Man
 9621.07,Mail Carrier
-9621.0700,
 9621.0700,Mail Carrier
 9621.08,"Runner, Mail"
-9621.0800,
 9621.0800,"Runner, Mail"
 9621.09,"Sorter, Mail"
-9621.0900,
 9621.0900,"Sorter, Mail"
 9621.12,"Hotel Concierge  Hotel Concierge; Baggage Porter, Hotel"
 9621.12,Hotel Concierge
 9621.1200,"Hotel Concierge  Hotel Concierge; Baggage Porter, Hotel"
-9621.1200,
 9621.1200,Hotel Concierge
 9621.13,Water Carrier
-9621.1300,
 9621.1300,Water Carrier
 9621.99,"Messengers, Package Deliverers"
 9621.99,"Messengers, Package Deliverers and"
-9621.9900,
 9621.9900,"Messengers, Package Deliverers and"
 9621.9900,"Messengers, Package Deliverers"
 9623.01,Vending Machine Attendant
-9623.0100,
 9623.0100,Vending Machine Attendant
 9623.02,Coin Collector
-9623.0200,
 9623.0200,Coin Collector
 9623.03,Meter Reader
-9623.0300,
 9623.0300,Meter Reader
 9623.0301,Municipal Water and Sewage
 9623.0301,Municipal Water and Sewage Assessor
@@ -11082,14 +11044,15 @@ nco_code,title
 9623.99,Vending Machine Money
 9623.9900,"Vending Machine Money Collectors, Meter"
 9623.9900,Vending Machine Money
-9623.9900,
 9629.01,Usher
 9629.0100,Usher
-9629.0100,
 9629.99,"Doorkeepers, Watchpersons and Related"
 9629.99,"Door Keepers, Watchpers ons and"
-9629.9900,
 9629.9900,"Doorkeepers, Watchpersons and Related"
 9629.9900,"Door Keepers, Watchpers ons and"
 4678.9123,Airline Pilot
 2456.7891,Environmental Scientist
+5789.1234,Social Worker
+3567.8912,Event Manager
+7222.0100,Welder
+9134.5678,Journalist

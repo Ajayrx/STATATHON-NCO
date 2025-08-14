@@ -17,8 +17,15 @@ function ResultsList({ results, hasSearched, loading, chakraPositions = [] }) {
               top: "40%",
               left: "29%",
               width: "w-36",
-              opacity: 0.08 // 8% transparency
+              opacity: 0.08
             };
+
+            // Determine label based on NCO code length
+            const codeDigits = res.nco_code.replace(".", "").length;
+            let ncoLabel = "";
+            if (codeDigits === 6) ncoLabel = "NCO-2004";
+            else if (codeDigits === 8) ncoLabel = "NCO-2015";
+            else ncoLabel = "Unknown NCO";
 
             return (
               <div
@@ -66,6 +73,9 @@ function ResultsList({ results, hasSearched, loading, chakraPositions = [] }) {
                     <Code size={18} className="text-[#0B3B60]" />
                     <span>Code:</span>
                     <span className="font-mono">{res.nco_code}</span>
+                    <span className="ml-2 px-2 py-1 bg-[#0B3B60] text-white text-xs rounded">
+                      {ncoLabel}
+                    </span>
                   </div>
 
                   <div className="flex items-center justify-center gap-2 text-gray-700 font-medium">

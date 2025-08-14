@@ -14,14 +14,17 @@ model = get_embedder(settings.model_name)
 def load_index_and_data():
     global df, index
 
-    # Load CSV and force nco_code as string to preserve decimals and trailing zeros
+    # Load CSV and force nco_code/title as string
     df = pd.read_csv(
         "app/data/nco2015_job_reference.csv",
-        dtype={"nco_code": str}
+        dtype={"nco_code": str, "title": str}
     )
 
     # Ensure codes are exactly as in CSV (with dot)
     df["nco_code"] = df["nco_code"].apply(lambda x: x if "." in x else x[:4] + "." + x[4:])
+
+    # Replace missing titles with a placeholder
+    df["title"] = df["title"].fillna("Title Not Available").apply(lambda t: t.strip() if isinstance(t, str) else t)
 
     # Load FAISS index
     index = faiss.read_index("app/data/nco2015_faiss.index")
@@ -51,6 +54,8 @@ def search_jobs(query: str, k: int = 99):
     print("Returned distances:", D)
 
     results = []
+    seen = set()
+
     for i, score in zip(I[0], D[0]):
         if i == -1 or i >= len(df):
             continue
@@ -59,12 +64,21 @@ def search_jobs(query: str, k: int = 99):
 
         row = df.iloc[i]
 
+        # Ensure both are strings & handle missing titles
+        nco_code = str(row["nco_code"]).strip() if pd.notna(row["nco_code"]) else "Unknown Code"
+        title = str(row["title"]).strip() if pd.notna(row["title"]) and str(row["title"]).strip() else "Title Not Available"
+
+        key = (nco_code.lower(), title.lower())
+        if key in seen:
+            continue
+        seen.add(key)
+
         results.append({
-            "nco_code": row["nco_code"],  # Full string code with dot
-            "title": row["title"],
+            "nco_code": nco_code,
+            "title": title,
             "score": float(score)
         })
 
-        print(f"Match: {row['title']} ({row['nco_code']}) with score {score}")
+        print(f"Match: {title} ({nco_code}) with score {score}")
 
     return results
